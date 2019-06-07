@@ -599,10 +599,10 @@ Leading or Trailing:
             ],
         ],
         [Celestial Bodies,
-            [Sun ☉, Mercury ☿, Venus ♀, Earth ♁, Moon ☾, Mars ♂, Jupiter ♃, Saturn ♄, Uranus ⛢, Neptune ♆, Pluto ♇, Ceres , Pallas , Juno , Vesta , ...]
+            [Sun ☉, Mercury ☿, Venus ♀, Earth ♁, Moon ☾, Mars ♂, Jupiter ♃, Saturn ♄, Uranus ⛢, Neptune ♆, Pluto ♇, Ceres ⚳, Pallas ⚴, Juno ⚵, Vesta ⚶, Astraea ⚖, Hebe 🍷︎, Iris, Flora, Metis, Hygiea ⚕, ]
         ],
         [Zodiac,
-            [Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces]
+            [Aries ♈︎, Taurus ♉︎, Gemini ♊︎, Cancer ♋︎, Leo ♌︎, Virgo ♍︎, Libra ♎︎, Scorpio ♏︎, Sagittarius ♐︎, Capricorn ♑︎, Aquarius ♒︎, Pisces ♓︎]
         ],
         [7 Deadly Sins,
             [Lust, Sloth, Wrath, Envy, Pride, Gluttony, Greed]
