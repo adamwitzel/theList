@@ -343,13 +343,7 @@ Leading or Trailing:
         [Ship Classes,
             [Frigate, Destroyer, Cruiser, Battlecruiser, Battleship, Carrier, Dreadnaught, Tender, Submarine, Freighter, Tug, Interceptor, Electronic Warfare, Barge, Shuttle, Yacht, Corvette, Amphibious Assault, Torpedo Boat, Patrol Boat, Oiler, Merchant, Missile Boat, Mine Layer, Mine Sweeper, Ferry, Monitor, Ocean Liner, Gunboat/ship, Whaler, Skiff, Schooner, Caravel, Junk, Raft, Landing Craft, Galleon, Longboat]
         ],
-        [Ship Traits,
-            []
-        ],
         [Weapons/Knives,
-            []
-        ],
-        [Weapons/Knives Traits,
             []
         ],
         [Guns,
@@ -369,9 +363,6 @@ Leading or Trailing:
                 [Pickup, Sedan SUV, Stationwagon, Van]
             ],
             [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat]
-        ],
-        [Vehicle Traits,
-            []
         ],
         [Simple Machines,
             [Loom, Millstones, Printing Press, Screw Press, Quern, Still, Water Wheel, Sawmill]
