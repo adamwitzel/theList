@@ -283,7 +283,7 @@ Leading or Trailing:
             [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom]
         ],
         [Cliff House Rooms,
-            []
+            [Bedroom, Bathroom, Kitchen, Dining Room, Meat Storage (Meat Locker), Liquid Storage, Lab, Pantry, Storeroom, Clothing Room, Library, Reading Room, Study, Observatory, Smelting/Smithing Room, Metal Storage, Armory, Dueling Room, Millroom, Cold Storage, Wine Cellar, Boiler Room, Furnace Room, Glass Room, Brewery, Foyer, Guest Rooms, Keep, Skullery, Kennel, Distillery, Aviary, Quarters+, Infirmary, Silo Room, Woodshop, Power Room, Studio, Gallery, Pottery Studio, Game Room, Gym, ]
         ],
         [Fortifications,
             [Pillbox, Wires+, Bunker]
@@ -355,11 +355,11 @@ Leading or Trailing:
         [Guns,
             [Assault Rifle, Shotgun, Rifle, Submachine Gun, Pistol, Light Machine Gun, Rocket Launcher, Battle Rifle, Minigin, Revolver, Designated Marksman Rifle]
         ],
-        [Guns Traits,
+        [Gun Traits,
             []
         ],
         [Siege Engines,
-            [Mangonel, Onager, Ram, Catapult, Trebuchet, Ballista]
+            [Mangonel, Onager, Ram, Catapult, Trebuchet, Ballista, Tower]
         ],
         [Vehicles,
             [Construction,
@@ -453,8 +453,8 @@ Leading or Trailing:
         [Groups/Gatherings,
             [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest]
         ],
-        [Events,
-            [Exhibition, Jubilee, Jamboree, Coronation]
+        [Events (More than action),
+            [Exhibition, Jubilee, Jamboree, Coronation, Invasion]
         ],
         [Fields of Science,
             [Botany, Chemistry, Physics, Anatomy, Physiology, Biology, Archaeology, Paleontology, *Mathematics, Metallurgy, Psychology, Oceanology, Ecology, Geology, Zoology, Astronomy]
@@ -478,7 +478,7 @@ Leading or Trailing:
             ]
         ],
         [Elements/Damage Types,
-            [Air, Fire, Earth, Water, Ice, Poison, Acid, Electric, Radiation, Light, Dark, Explosive, Blast, Impact, Puncture, Slash, Piercing, Blunt, Corrosive, Magnetic, Shock]
+            [Air, Fire, Earth, Water, Ice, Poison, Acid, Electric, Radiation, Light, Dark, Explosive, Blast, Impact, Puncture, Slash, Piercing, Blunt, Corrosive, Magnetic, Shock, Sonic]
         ],
         [Common Spells,
             [Blink, Animate Dead, Entangle, Confuse, Ball of Light, Magic Dart, Slow, Petrify, Invisibility, Conjure Flame, Swiftness, Transform, Polymorph, Fireball, Timestop, Scrying, Reflect Projectiles]
@@ -517,11 +517,14 @@ Leading or Trailing:
         [Cuts of Meat,
             []
         ],
+        [Types of Government/Economic System,
+            [Democracy, Dictatorship, Communism, Socialism]
+        ],
         [Medical Afflictions/Symptoms,
-            [Stammer, Stutter, Fever, Cough, Pain, Constipation, Diarrhea, Dizziness, Headache, Ache, Swelling, Congestion, Nausea, Vomiting, Numbness, Sore Throat, Wheezing, Rash, Itch, ]
+            [Stammer, Stutter, Fever, Cough, Pain, Constipation, Diarrhea, Dizziness, Headache, Ache, Swelling, Congestion, Nausea, Vomiting, Numbness, Sore Throat, Wheezing, Rash, Itch, Amnesia]
         ],
         [Musical Terms,
-            [Note, Bar, Concert, Recital, Rehearsal]
+            [Note, Bar, Concert, Recital*, Rehearsal*, Tempo]
         ],
         [Weather Phenomena,
             [Rain, Hail, Blizzard, Cloud+, Dust Devil, Tornado, Fog, Frost, Haboob, Hurricane, Lightning, Thunder, Snow, Rainbow, Cyclone, Typhoon, Monsoon, Corona, Dew, Drizzle, Drought, Flood, Gale, Wind, Gust, Breeze, Sleet, Rime, Sandstorm, Tsunami, Vortex, Waterspout, Whirlwind, Wildfire*]
@@ -584,7 +587,7 @@ Leading or Trailing:
                 [Black Cat, 13, Friday the Thirteenth, Spilling Salt, Walking under a Ladder, Breaking a Mirror, Umbrella Indoors, Horseshoe (Opening Down)]
             ]
         ],
-        [Pantheons (How Specific?),
+        [Pantheons (How in Depth?),
             [Greek,
                 []
             ],
@@ -605,7 +608,7 @@ Leading or Trailing:
             [Lust, Sloth, Wrath, Envy, Pride, Gluttony, Greed]
         ],
         [Locations,
-            []
+            [Olympus]
         ],
         [Yggdrasil]
     ],
