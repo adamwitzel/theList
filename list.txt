@@ -146,7 +146,6 @@ Leading or Trailing:
 
 
     [Foods,
-
         [Fruits,
             [Citrus,
                 [Orange, Lemon, Grapefruit, Lime, Tangerine, Clementine, *Mandarin, Citron, Pomelo, Kumquat]
@@ -545,7 +544,18 @@ Leading or Trailing:
         ],
         [Leaders,
             [US Presidential Elections (Winner/Loser/Year),
-                []
+                [George Washington/*Many/1789, George Washington/*Many/1792, John Adams/Many/1796, Thomas Jefferson/Many/1800, Thomas Jefferson/Charles Pinckney/1804,
+                James Madison/Charles Pinckney/1808, James Madison/Dewitt Clinton/1812, James Monroe/Rufus King/1816, James Monroe/*Many/1820, John Q. Adams/*Many/1824,
+                Andrew Jackson/*Many/1828, Andrew Jackson/*Many/1832, Martin Van Buren/*Many/1836, William Henry/*Many/1840, James K. Polk/*Many/1844,
+                Zachary Taylor/*Many/1848, Franklin Pierce/*Many/1852, James Buchanan/John Fremont/1856, Abraham Lincoln/Stephen A. Douglas/1860, Abraham Lincoln/George McClellan/1864,
+                Ulysses S. Grant/Horatio Seymour/1868, Ulysses S. Grant/Horace Greeley/1872, Rutherford B. Hayes/Samuel J. Tilden/1876, James Garfield/Winfield Scott Hancock/1880, Grover Cleveland/James Blaine/1884,
+                Benjamin Harrison/Grover Cleveland/1888, Grover Cleveland/Benjamin Harrison/1892, William McKinley/William Jennings Bryan/1896, William McKinley/William Jennings Bryan/1900, Theodore Roosevelt/Alton B. Parker/1904,
+                William Jennings Bryan/William Howard Taft/1908, Woodrow Wilson/William Howard Taft/1912, Woodrow Wilson/Charles Evans Hughes/1916, Warren G. Harding/James M. Cox/1920, Calvin Coolidge/John W. Davis/1924,
+                Herbert Hoover/Al Smith/1928, Franklin D. Roosevelt/Herbert Hoover/1932, Franklin D. Roosevelt/Alf Landon/1936, Franklin D. Roosevelt/Wendell Willkie/1940, Franklin D. Roosevelt/Thomas E. Dewey/1944,
+                Harry S. Truman/Thomas E. Dewey/1948, Dwight D. Eisenhower/Adlai Stevenson II/1952, Dwight D. Eisenhower/Adlai Stevenson II/1956, John F. Kennedy/Richard Nixon/1960, Lyndon B. Johnson/Barry Goldwater/1964,
+                Richard Nixon/Hubert Humphrey/1968, Richard Nixon/Hubert Humphrey/1972, Jimmy Carter/Gerald Ford/1976, Ronald Reagan/Jimmy Carter/1980, Ronald Reagan/Walter Mondale/1984,
+                George H. W. Bush/Michael Dukakis/1988, Bill Clinton/George H. W. Bush/1992, Bill Clinton/Bob Dole/1996, George W. Bush/Al Gore/2000, George H. W. Bush/John Kerry/2004,
+                Barack Obama/John McCain/2008, Barack Obama/Mitt Romney/2012, *Donald Trump/Hillary Clinton/2016]
             ],
             [Babylonian,
                 []
@@ -554,6 +564,93 @@ Leading or Trailing:
                 []
             ],
             [Egyptian,
+                [First Dynasty,
+                    [Narmer, Hor-Aha, Djer, Djet, Anedjib, Semerkhet, Qa'a, Sneferka, *Horus Bird]
+                ],
+                [Second Dynasty,
+                    [Hotepsekhemwy, Nebra, Nynetjer, Weneg-Nebty, Senedj, Seth-Peribsen, Sekhemib-Perenmaat, Neferkara I, Neferkasoka, Hudjefa I, Khasekhem]
+                ],
+                [Third Dynasty,
+                    [Djoser, Sekhemkhet, Sanakht, Khaba, Huni]
+                ],
+                [Forth Dynasty,
+                    [Sneferu, Khufu, Djedefre, Khafre, Baka/Bauefrê, Menkaure, Shepseskaf, Thamphthis]
+                ],
+                [Fifth,
+                    [Userkaf, Sahure, Neferirkare Kakai, Neferefre, Shepseskare, Nyuserre Ini, Menkauhor Kaiu, Djedkare Isesi, Unas]
+                ],
+                [Sixth,
+                    [Teti, Userkare, Meryre Pepi I, Merenre Nemtyemsaf I, Neferkare Pepi II, Neferka, Merenre Nemtyemsaf II, Neitiqerty Siptah]
+                ],
+                [Seventh and Eighth,
+                    [Menkare, Neferkare II, Neferkare (III) Neby, Djedkare Shemai, Neferkare (IV) Khendu, Merenhor, Neferkamin, Nikare, Neferkare (V) Tereru, Neferkahor, Neferkare (VI) Pepiseneb, Neferkamin Anu, Qakare Ibi, Neferkaure, Neferkauhor Khuwihapi, Neferirkare]
+                ],
+                [Ninth,
+                    [Meryibre Khety I (Acthoes I), Neferkare VII, Nebkaure Khety II (Acthoes II), Setut]
+                ],
+                [Tenth,
+                    [Meryhathor, Neferkare VIII, Wahkare Khety (Acthoes III), Merykare]
+                ],
+                [Eleventh,
+                    [Intef the Elder Iry-pat, Mentuhotep I Tepy-a, Sehertawy Intef I, Sehertawy Intef I, Nakhtnebtepnefer Intef III, Nebhepetre Mentuhotep I, Sankhkare Mentuhotep II, Nebtawyre Mentuhotep IV, *Segerseni, *Qakare Ini, *Iyibkhentre]
+                ],
+                [Twelfth,
+                    [Sehetepibre Amenemhat I, Kheperkare Senusret I, Nubkaure Amenemhat II, Khakheperre Senusret II, Khakaure Senusret III, Nimaatre Amenemhat III, Maakherure Amenemhat IV, Sobekkare Sobekneferu]
+                ],
+                [Thirteenth,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+
+            ],
+            [Sumerian,
                 []
             ],
             [Roman,
@@ -603,5 +700,5 @@ Leading or Trailing:
         ],
         [Yggdrasil]
     ],
-    [Revenant, Serenity, Tranquility, Spalting]
+    [Revenant, Serenity, Tranquility, Spalted]
 ]
