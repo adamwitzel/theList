@@ -86,7 +86,7 @@ Leading or Trailing:
                 [Troll, Goblin, Hobgoblin, Gremlin, Chupacabra]
             ],
             [Demonic,
-                [Hellhound, Demon, Devil, Imp]
+                [Hellhound, Demon, Devil, Imp, Satan]
             ],
             [Equine,
                 [Pegasus, Hippocampus, Unicorn]
@@ -108,7 +108,7 @@ Leading or Trailing:
             [Uniques,
                 [*Chupacabra, Headless Horseman, Jack Frost, Jack O'Lantern, *Medusa, Krampus, Santa Claus, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
             ]
-            [Laelaps, Teumessian Fox, Ifrit, Oni, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Cockatrice, Harpy, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Hydra, Banshee, Succubus, Valkyrie, Leviathan, Manticore, Charybdis/Scylla, Spriggan, Gargoyle, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Scarecrow, Gorgon]
+            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Ifrit, Oni, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Cockatrice, Harpy, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Hydra, Banshee, Succubus, Valkyrie, Leviathan, Manticore, Charybdis/Scylla, Spriggan, Gargoyle, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Scarecrow, Gorgon, Oni, Incubus, Siren, Kitsune, Phantom]
         ],
         [Livestock,
             [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Bees]
@@ -223,7 +223,7 @@ Leading or Trailing:
             [Oatmeal Raisin, Snicker doodle, Macaroon, Gingerbread, Half Moon, Macaron, Chocolate Chip, Peanut Butter, Brownie, 7-Layer Bar, Lemon Bar, Biscotti, Animal Cracker]
         ],
         [Simple Prepared,
-            [Raisins, Peanut Butter, Syrup, Jam, Jelly, Preserves, Marmalade, Pickles, Chocolate, Mayonnaise, Butter, *French Fries, Potato Chips, Shepherds Pie, Cake, Cupcake, Grits, Taco, Omelette, Banana's Foster, Jumbalaya, Gumbo, Pizza, Nachos, Sausage, Lasagna, Burrito]
+            [Raisins, Prune, Peanut Butter, Syrup, Jam, Jelly, Preserves, Marmalade, Pickles, Chocolate, Mayonnaise, Butter, *French Fries, Potato Chips, Shepherds Pie, Cake, Cupcake, Grits, Taco, Omelette, Banana's Foster, Jumbalaya, Gumbo, Pizza, Nachos, Sausage, Lasagna, Burrito]
         ],
         [Honey, Date]
     ],
@@ -276,7 +276,7 @@ Leading or Trailing:
             ]
         ],
         [Buildings,
-            [Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel]
+            [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel]
         ],
         [Rooms,
             [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom]
@@ -284,10 +284,7 @@ Leading or Trailing:
         [Cliff House Rooms,
             [Bedroom, Bathroom, Kitchen, Dining Room, Meat Storage (Meat Locker), Liquid Storage, Lab, Pantry, Storeroom, Clothing Room, Library, Reading Room, Study, Observatory, Smelting/Smithing Room, Metal Storage, Armory, Dueling Room, Millroom, Cold Storage, Wine Cellar, Boiler Room, Furnace Room, Glass Room, Brewery, Foyer, Guest Rooms, Keep, Skullery, Kennel, Distillery, Aviary, Quarters+, Infirmary, Silo Room, Woodshop, Power Room, Studio, Gallery, Pottery Studio, Game Room, Gym, ]
         ],
-        [Fortifications,
-            [Pillbox, Wires+, Bunker]
-        ],
-        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty]
+        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook]
     ],
 
 
@@ -314,7 +311,7 @@ Leading or Trailing:
             [Craftsman,
                 [Blacksmith, Fletcher, Glassblower, Jeweler, Potter, Mason, Mapmaker, Carpenter, Weaver, Clothier, Bowyer, Engraver, Knapper, Tinker, Tailor]
             ],
-            [Engineer, Driver, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Leatherworker, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist]
+            [Engineer, Driver, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Leatherworker, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
             [Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Mageblade, Seargeant, Leader]
@@ -329,12 +326,12 @@ Leading or Trailing:
             [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, ?Archbishop]
         ],
         [Class (Duplicates with other sections),
-            [Shaman, Monk, Druid, Cleric, Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sniper, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider]
+            [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke]
         ],
         [Familial,
-            []
+            [Matriarch, Patriarch]
         ],
-        [Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Nun, Missionary, Diviner, Conquistador, Cataphract, Medic, Seaman, Champion, Rider, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Mageblade]
+        [Pastor, Martyr, Cultist, Idol, Reverend, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Criminal, Convict, Villain, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Nun, Missionary, Diviner, Conquistador, Cataphract, Medic, Seaman, Champion, Rider, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Heretic, Pariah, Renegade, Adversary, Aficionado]
     ],
 
 
@@ -369,6 +366,9 @@ Leading or Trailing:
         [Furniture,
             [Desk, +Table, Butcher Block, China Cabinet, Rocking Chair, Lawn Chair, Bookcase, Anvil, Sofa, +Piano, Stool, +Bed, Recliner, Workbench, Chest, Safe, Nightstand, Loveseat, Sofa, Couch]
         ],
+        [Fortifications,
+            [Drawbridge, Crenellation, Gatehouse, Portcullis, Machicolation, Battlement, Murderhole, Turret, Bollard, Pillbox, Wires+, Bunker, Citadel]
+        ],
         [Instruments,
             [Brass,
                 [Saxophone, Tuba, Trumpet, Trombone, Bugle]
@@ -399,6 +399,9 @@ Leading or Trailing:
             ],
             [Claw Hammer, Screwdriver, Lathe, Planer, Joiner, Awl, Crowbar, Pliers, *Cutter, Scissors, +Knife, Magnifying Glass, Tweezers, Corkscrew, Ruler, Compass, Protractor, *French Curve, Hatchet, *Axe, Ladder]
         ],
+        [Honors,
+            [Award, Certificate, Medal/Medallion, Ribbon, Cross, Commendation, Merit, Letter, Star, Trophy, Honor]
+        ],
         [Containers,
             [Barrel, Crate, Box, Flask, Cup, Mug, Vial, Bowl, Glass, Bottle, Can, Jar, Basket, Bag, Pouch, Chest, Bin, Bucket, Briefcase, Suitcase, Canteen, Cask, Case, Hamper, Jug, Pitcher, Goblet, Drum, Pail, Purse, Satchel, Stein, Tote, Urn, Amphora, Vat, Vault, Keg, Cauldron, Beaker]
         ],
@@ -421,36 +424,39 @@ Leading or Trailing:
             [Broach, Pendant, Amulet, Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pixes, Ciboria, Grail, Scepter, Medallion, Cruet, Tapestry, Crown, Tiara, Anklet, Bracelet, Ring, Necklace, Earring, Watch, Monocle]
         ],
         [Medicine,
-            [Tonic, Tincture, Potion, Antidote]
+            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment]
         ],
-        [Candle, Dowsing Rods, Manifesto, Memorandum, Font, Vendetta, Barometer, Thermometer]
+        [Candle, Dowsing Rods, Manifesto, Memorandum, Font, Vendetta, Barometer, Thermometer, Ornament, Cairn, Doll, Blocks]
     ],
 
 
     [Descriptors/Categories,
         [Size,
-            [Small, Tiny, Miniscule, Huge, Gigantic, Enormous, Medium, Massive, Big, Large, Immense, Colossal, Mammoth, Tremendous, Giant, Gargantuan, Titanic, Miniature, Diminutive, Petite, Puny, Infinitesimal, *Heavy, *Light]
+            [Slim Tall, Wide, Narrow, Short, Thin, Small, Tiny, Miniscule, Huge, Gigantic, Enormous, Medium, Massive, Big, Large, Immense, Colossal, Mammoth, Tremendous, Giant, Gargantuan, Titanic, Miniature, Diminutive, Petite, Puny, Infinitesimal, *Heavy, *Light]
         ],
         [Item Qualities,
             [Traits,
                 [Age, Damage Level, Prestige/Legacy, Notable Qualities]
             ],
-            [Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace, Faction, Officer, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic]
+            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace*, Faction, Officer, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband]
         ],
         [Traits,
             [Strength, Constitution, Wisdom, Intelligence, Dexterity, Charisma, Reflex, Willpower, Loyalty, Devotion, Perseverance, Reliability, Balance, Discipline, Concentration, Gullibility, Shyness, Agility, Curiosity]
         ],
         [Groups/Gatherings,
-            [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest]
+            [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee]
         ],
         [Events (More than action),
-            [Exhibition, Jubilee, Jamboree, Coronation, Invasion]
+            [Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade]
         ],
         [Fields of Science,
             [Botany, Chemistry, Physics, Anatomy, Physiology, Biology, Archaeology, Paleontology, *Mathematics, Metallurgy, Psychology, Oceanology, Ecology, Geology, Zoology, Astronomy]
         ],
         [Descriptors,
-            [Opalescent, Iridescent, Pearlescent, Majestic]
+            [Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Infernal, Tainted]
+        ],
+        [Movement Verbs,
+            [Walk, Run, Jog, Sulk, Meander]
         ]
     ],
 
@@ -474,8 +480,9 @@ Leading or Trailing:
             [Blink, Animate Dead, Entangle, Confuse, Ball of Light, Magic Dart, Slow, Petrify, Invisibility, Conjure Flame, Swiftness, Transform, Polymorph, Fireball, Timestop, Scrying, Reflect Projectiles]
         ],
         [Schools/Fields of Magic,
-            [Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism]
-        ]
+            [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism]
+        ],
+        [Spell, Miracle, Incantation, Ritual, Prophecy, Curse, Ley Line, Aura]
     ],
 
 
@@ -525,6 +532,12 @@ Leading or Trailing:
         [Number Prefixes (Greek and Latin),
             []
         ],
+        [Ship Parts,
+            [Mast]
+        ],
+        [Gendered Animal Names,
+            []
+        ],
         [Astronomical Objects/Events,
             [Objects,
                 [Stars,
@@ -538,6 +551,12 @@ Leading or Trailing:
             [Events,
                 [Supernova, Gamma Ray Burst, Eclipse]
             ]
+        ],
+        [British Navy Ship Names,
+            []
+        ],
+        [Famous Explorers,
+            []
         ],
         [Anatomy (Latin and English)(May not work in list form),
             []
@@ -598,63 +617,91 @@ Leading or Trailing:
                     [Sehetepibre Amenemhat I, Kheperkare Senusret I, Nubkaure Amenemhat II, Khakheperre Senusret II, Khakaure Senusret III, Nimaatre Amenemhat III, Maakherure Amenemhat IV, Sobekkare Sobekneferu]
                 ],
                 [Thirteenth,
+                    [Sekhemre Khutawy Sobekhotep I, Sonbef, Nerikare, Sekhemkare Amenemhat V, Ameny Qemau, Hotepibre Qemau Siharnedjheritef, Iufni, Seankhibre Amenemhet VI, Semenkare Nebnuni, Sehetepibre Sewesekhtawy, Sewadjkare, Nedjemibre, Khaankhre Sobekhotep, Renseneb, Awybre Hor I, Sekhemrekhutawy Khabaw, Djedkheperew, Sebkay, Sedjefakare, Khutawyre Wegaf, Khendjer, Imyremeshaw, Sehetepkare Intef IV, Seth Meribre, Sekhemresewadjtawy Sobekhotep III, Khasekhemre Neferhotep I, Menwadjre Sihathor, Khaneferre Sobekhotep IV, Merhotepre Sobekhotep V, Khahotepre Sobekhotep VI, Wahibre Ibiau, Merneferre Ay I, Merhotepre Ini, Sankhenre Sewadjtu, Mersekhemre Ined, Sewadjkare Hori, Merkawre Sobekhotep VII, Merkheperre, Merkare, Sewadjare Mentuhotep V, Seheqenre Sankhptahi, Dedumose I, Dedumose II, Sewahenre Senebmiu, Snaaib, Mershepsesre Ini II]
+                ],
+                [Fourteenth,
+                    [Yakbim Sekhaenre, Ya'ammu Nubwoserre, Qareh Khawoserre, 'Ammu Ahotepre, Sheshi, Nehesy, Khakherewre, Nebefawre, Sehebre, Merdjefare, Sewadjkare III, Nebdjefare, Webenre, Nebsenre, Sekheperenre, Anati Djedkare, Bebnum, 'Apepi, Nuya, Wazad, Sheneh, Shenshek, Khamure, Yakareb, Yaqub-Ha]
+                ],
+                [Fifteenth and Abydos,
+                    [Semqen, 'Aper-'Anat, Sakir-Har, Khyan, Apepi, Khamudi, Sekhemraneferkhau Wepwawetemsaf, Sekhemrekhutawy Pantjeny, Menkhaure Snaaib, Woseribre Senebkay]
+                ],
+                [Sixteenth,
                     []
                 ],
-                [,
+                [Seventeenth,
+                    [Sekhemrewahkhaw Rahotep, Sekhemre Wadjkhaw Sobekemsaf I, Sekhemre Shedtawy Sobekemsaf II, Sekhemre-Wepmaat Intef V, Nubkheperre Intef VI, Sekhemre-Heruhirmaat Intef VII, Senakhtenre Ahmose, Seqenenre Tao, Wadjkheperre Kamose]
+                ],
+                [Eighteenth,
                     []
                 ],
-                [,
+                [Nineteenth,
                     []
                 ],
-                [,
+                [Twentieth,
                     []
                 ],
-                [,
+                [Twenty-First and Theban High Priests of Amun,
                     []
                 ],
-                [,
+                [Twenty-Second,
                     []
                 ],
-                [,
+                [Twenty-Third,
                     []
                 ],
-                [,
+                [Twenty-Forth,
                     []
                 ],
-                [,
+                [Twenty-Fifth,
                     []
                 ],
-                [,
+                [Twenty-Sixth,
                     []
                 ],
-                [,
+                [Twenty-Seventh,
                     []
                 ],
-                [,
+                [Twenty-Eighth,
                     []
                 ],
-                [,
+                [Twenty-Ninth,
                     []
                 ],
-                [,
+                [Thirtieth,
                     []
                 ],
-                [,
-                    []
+                [Thirty-First,
+                    [Artaxerxes III, Artaxerxes IV Arses, Khababash, Darius III]
                 ],
-                [,
-                    []
+                [Argead,
+                    [Setepenre-meryamun Alexander III (Alexander the Great), Philip III Arrhidaeus, Haaibre Alexander IV]
                 ],
-                [,
-                    []
-                ],
-
+                [Ptolemaic,
+                    [Setepenre-meryamun Ptolemy I Soter, Berenice I, Weserkare-meryamun Ptolemy II Philadelphos, Arsinoe I, Arsinoe II, Ptolemy III Euergetes I, Berenice II, Ptolemy IV Philopator, Arsinoe III, Hugronaphor, Ankhmakis, Ptolemy V Epiphanes, Cleopatra I, Ptolemy VI Philometor, Cleopatra II, Ptolemy VIII Euergetes II, Cleopatra III, Ptolemy Memphitis, Harsiesi, Ptolemy IX Soter II, Cleopatra IV, Ptolemy X Alexander I, Berenice III, Ptolemy XI Alexander II, Ptolemy XII Neos Dionysos (Auletes), Cleopatra V Tryphaena, Cleopatra VI, Berenice IV, Cleopatra VII, Ptolemy XIII, Arsinoe IV, Ptolemy XIV, Ptolemy XV]
+                ]
             ],
             [Sumerian,
                 []
             ],
             [Roman,
-                []
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ],
+                [,
+                    []
+                ]
             ]
         ],
         [Languages in each country,
