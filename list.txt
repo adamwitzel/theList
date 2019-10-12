@@ -1,11 +1,3 @@
-###
-Documentation
-
-Leading or Trailing:
-+ : Category
-- : Leading=Suffix, Trailing=Prefix
-* : Questionable in some way, wrong category, too specific, uses real world information
-###
 
 [List,
     [Animals,
