@@ -19,7 +19,7 @@ Leading or Trailing Character Meanings:
     - Should titles include "x"r: one who "x"s? - I think only if the title comes with a certain connotation apart from its dictionary meaning.
 
 ## TODO
+    - Ongoing: Add more items to the List. The point of the whole thing
     - Make script to add quotations for json format
-    - Ongoing: Add more items to the List
-    - Split off less useful or longer sections into separate files with references in their places, leaders in particular
-    - Move documentation comment into readme
+    - Split off less useful or longer sections into separate files with references in their places
+    - Animal Section Reorganization
