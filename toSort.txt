@@ -14,11 +14,82 @@
     +Actors
     +Comedians
 
++Swords and Whatnot
+    Khopesh
+    Rapier
+    Talwar
+    Swordbreaker
+    Claymore
+    +Dagger
+    Stiletto
+    Katana
+    Falchion
+    Gladius
+    Kris Blade*
+    Cutlass
+    Kukri
+    Cleaver
+    Chef's Knife*
+    +Sword
+    +Axe
+    +Spear
+    War Hammer*
+    Maul
+    Glaive
+    Sledge
+    Pilum
+    Xiphos
+    HogSplitter
+    Tachi
+    Nodachi
+    Seax
+    Messer
+    Jian
+    Bastard Sword*
+    Longsword
+    Greatsword
+    Zweihander
+    Machete
+    Broadsword
+    Scimitar
+    Dao
+    Hooksword
+    Flamberge
+    Spatha
+    Wakizashi
+    Tanto
+    +Mace
+    +Flail
+    Morningstar
+    Nunchuck
+    Estoc
+    Arbalest
+    Arming Sword
+    Pike
+    Halberd
+    Kunai
+    +Polearm
+    Cudgel
+
++Hospitality
+    Concierge
+    Maid
+    Chauffeur
+    Porter
+    Bellhop
+
+Vandal
+Thrall
+Mogul
+Icon
+Primordial
+Savior
+Captor
+Plunder
+Chime
 Remark
 Quip
 Comment
-Arbalest
-Hogsplitter
 Flechette
 Pavise
 Scutum

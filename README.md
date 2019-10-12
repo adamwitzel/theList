@@ -17,6 +17,8 @@ Leading or Trailing Character Meanings:
 
 ## Concerns
     - Should titles include "x"r: one who "x"s? - I think only if the title comes with a certain connotation apart from its dictionary meaning.
+    - The list is in english, how accepted in english should the word be to be included. (Zweihander) Does it need to have a english synonym?
+    - Where is the line between tool and weapon?
 
 ## TODO
     - Ongoing: Add more items to the List. The point of the whole thing

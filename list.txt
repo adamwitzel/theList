@@ -507,7 +507,7 @@
             []
         ],
         [Types of Government/Economic System,
-            [Democracy, Dictatorship, Communism, Socialism]
+            [Democracy, Dictatorship, Communism, Socialism, Totalitarianism]
         ],
         [Medical Afflictions/Symptoms,
             [Stammer, Stutter, Fever, Cough, Pain, Constipation, Diarrhea, Dizziness, Headache, Ache, Swelling, Congestion, Nausea, Vomiting, Numbness, Sore Throat, Wheezing, Rash, Itch, Amnesia]
