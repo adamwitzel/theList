@@ -1,9 +1,18 @@
-+Explorers
-+Authors
-+Astronomers
-+Generals
-+Historians
-+Inventors
++Great People
+    +Explorers
+    +Authors
+    +Astronomers
+    +Generals
+    +Historians
+    +Inventors
+    +Architects
+    +Artists
+    +Painters
+    +Sculptors
+    +Singers
+    +Musicians
+    +Actors
+    +Comedians
 
 Remark
 Quip
@@ -21,7 +30,7 @@ Escutcheon
 Ankh
 Mask
 Echelon
-Heather
+Heathen
 Exorcist
 Disciple
 Seance
@@ -73,3 +82,84 @@ Swashbuckler
 Thug
 Chronomancer
 Pristine
+Monolith
+Hegemon
+Maniac
+Virtuoso
+Clown
+Circus
+Jinx
+Puukko
+Kusanagi
+Sure-Footed
+Commendation
+Plaque
+Prodigy
+Patience
+History
+Religion
+Poetry
+Drama
+Philosophy
+Romance
+Gazette
+Caudaceus
+Constellation
+Fugitive
+Stein
+Prophecy
+Accolade
+Karma
+Finial
+Planetarium
+Guild
+Auditor
+Mariner
+Geode
+Parade
+Heather
+Holly
+Mistletoe
+Pediment
+Rotunda
+Cornice
+Lobby
+Guru
+Vassal
+Consecrated
+Fealty
+Piety
+Eminence
+Derelict
++Textures
+Rough
+Smooth
+Maruader
+Catacomb
+Sarcophagus
+Apiary
+Empire
+Dynasty
+Consort
+Retro
+Exhibition
+Patron
+=Widow
+Prophet
+Itinerary
+Pawn
+Envoy
+Elixir
+Maestro
+Luncheon
+Heist
+Plethora
+Amphora
+Client
+Trove
+Aberration
+Whimsical
+Bouquet
+Catastrophe
+Borough
+Suburb
