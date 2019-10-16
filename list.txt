@@ -154,7 +154,7 @@
             [Grape, Mango, Passionfruit, Starfruit, Watermelon, Plum, Pomegranate, Fig, Currant, Guava, Kiwi, Date, Persimmon, Plantain, Papaya, Durian, Dragonfruit, Rambutan, Apple, Banana, Pear, Pineapple]
         ],
         [Nuts,
-            [Walnut, Pecan, Pistachio, Peanut, Chestnut, Acorn, Hazelnut, Macadamia, Almond, Cashew, Pinenut]
+            [Walnut, Pecan, Pistachio, Peanut, Chestnut, Acorn, Hazelnut, Macadamia, Almond, Cashew, Pinenut, Hazelnut]
         ],
         [Vegetables,
             [Roots,
@@ -229,10 +229,10 @@
             [Amber, Garnet, Ruby, Sapphire, Emerald, Diamond, Topaz, Amethyst, Beryl, Opal, Spinel, Carnelian, Lapis Lazuli, Peridot, Quartz, Chysocola, Pearl, Malachite, Tiger's Eye, Jet]
         ],
         [Textiles,
-            [Wool, Velvet, Corduroy, Felt, Denim, Damask, Chiffon, Silk, Tweed, Flannel, Muslin, Fleece, Gauze*]
+            [Wool, Velvet, Corduroy, Felt, Denim, Damask, Chiffon, Silk, Tweed, Flannel, Muslin, Fleece, Gauze*, Lace*]
         ],
-        [Dyes,
-            []
+        [Dyes*,
+            [Indigo]
         ],
         [Fantasy Materials,
             [Ambrosia, Ichor, Ectoplasm, Mithril, Adamantite, Orichalcum]
@@ -274,10 +274,10 @@
         [Rooms,
             [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom, Lobby]
         ],
-        [Cliff House Rooms,
+        [Cliff House Rooms (should be merged into rooms),
             [Bedroom, Bathroom, Kitchen, Dining Room, Meat Storage (Meat Locker), Liquid Storage, Lab, Pantry, Storeroom, Clothing Room, Library, Reading Room, Study, Observatory, Smelting/Smithing Room, Metal Storage, Armory, Dueling Room, Millroom, Cold Storage, Wine Cellar, Boiler Room, Furnace Room, Glass Room, Brewery, Foyer, Guest Rooms, Keep, Skullery, Kennel, Distillery, Aviary, Quarters+, Infirmary, Silo Room, Woodshop, Power Room, Studio, Gallery, Pottery Studio, Game Room, Gym, ]
         ],
-        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook, Pediment, Rotunda, Cornice]
+        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook, Pediment, Rotunda, Cornice, Mausoleum]
     ],
 
 
@@ -316,7 +316,7 @@
             [Regent, Inquisitor, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman]
         ],
         [Religious,
-            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, ?Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary]
+            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary]
         ],
         [Classes (Duplicates with other sections),
             [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke, Channeler]
@@ -346,7 +346,7 @@
                 [Skid-steer, Dump truck, Front End Loader, Backhoe, Bulldozer, Compactor, +Crane, Drill, Excavator, Grader, Forklift, Scraper]
             ],
             [Car,
-                [Pickup, Sedan SUV, Stationwagon, Van]
+                [Pickup, Sedan, SUV, Stationwagon, Van]
             ],
             [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat]
         ],
@@ -428,7 +428,7 @@
             [Traits,
                 [Age, Damage Level, Prestige/Legacy, Notable Qualities]
             ],
-            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace*, Faction, Officer, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband, Pristine, Retro, Gilded]
+            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace*, Faction, Officer, Heritage, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband, Pristine, Retro, Gilded]
         ],
         [Traits,
             [Strength, Constitution, Wisdom, Intelligence, Dexterity, Charisma, Reflex, Willpower, Loyalty, Devotion, Perseverance, Reliability, Balance, Discipline, Concentration, Gullibility, Shyness, Agility, Curiosity, Patience]
@@ -588,7 +588,7 @@
             [Lust, Sloth, Wrath, Envy, Pride, Gluttony, Greed]
         ],
         [Locations,
-            [Olympus, Avalon]
+            [Olympus, Avalon, Heaven, Hell]
         ],
         [Yggdrasil]
     ],

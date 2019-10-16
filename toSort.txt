@@ -155,6 +155,12 @@
     Philosophy
     Romance
 
++Crimes
+    Murder
+    Libel
+    Slander
+    Looting*
+
 Monolith
 Puukko
 Kusanagi
@@ -165,23 +171,20 @@ Remark
 Quip
 Comment
 
-
 Behemoth
 Bulwark
 Escutcheon
 Ankh
 Echelon
 Dustbunny
-Sprite
 Mote
 Mausoleum
 Totem
 Hulk
-
 Gazette
 Caudaceus
 Finial
-Planetarium
+
 Geode
 Nugget
 
@@ -191,6 +194,11 @@ Mistletoe
 
 Fealty
 Piety
+
+Stability
+
+Ancestor
+Step-
 
 +Textures
     Rough
@@ -211,7 +219,7 @@ Aberration
 Bouquet
 Catastrophe
 
-Bluff
+Bluff(Multiple)
 Invasion
 Crisis
 Chip

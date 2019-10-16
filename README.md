@@ -1,6 +1,6 @@
 # theList
 
-A List intended initally to provide vocabulary for describing primarily fantasy worlds.
+A List intended initially to provide vocabulary for describing worlds.
 The scope of the project has since expanded to provide general reference as well.
 By its nature this list can never be fully correct or complete.
 
@@ -19,9 +19,11 @@ Contained within:
     - Avoid repeated use of super name (e.g. "Chefs Knife", "Paring Knife", "Carving Knife") (Doesnt't Always Work)
 
 ## Concerns
-    - Should titles include "x"r: one who "x"s? - I think only if the title comes with a certain connotation apart from its dictionary meaning.
+    - Should titles include "x"r: one who "x"s?
+        - I think only if the title comes with a certain connotation apart from its dictionary meaning.
     - The list is in english, how accepted in english should the word be to be included. (Zweihander) Does it need to have a english synonym?
     - Where is the line between tool and weapon?
+    - Can generic be sufficient for two very different things that share the same generic name?
 
 ## TODO
     - Ongoing: Add more items to the List. The point of the whole thing
