@@ -271,7 +271,7 @@
             [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel]
         ],
         [Rooms,
-            [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom]
+            [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom, Lobby]
         ],
         [Cliff House Rooms,
             [Bedroom, Bathroom, Kitchen, Dining Room, Meat Storage (Meat Locker), Liquid Storage, Lab, Pantry, Storeroom, Clothing Room, Library, Reading Room, Study, Observatory, Smelting/Smithing Room, Metal Storage, Armory, Dueling Room, Millroom, Cold Storage, Wine Cellar, Boiler Room, Furnace Room, Glass Room, Brewery, Foyer, Guest Rooms, Keep, Skullery, Kennel, Distillery, Aviary, Quarters+, Infirmary, Silo Room, Woodshop, Power Room, Studio, Gallery, Pottery Studio, Game Room, Gym, ]
@@ -321,7 +321,7 @@
             [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke, Channeler]
         ],
         [Familial,
-            [Matriarch, Patriarch]
+            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
         ],
         [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Criminal, Convict, Villain, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Rider, Brigadier, Patrolman, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Breeder, Appraiser, Pariah, Renegade, Adversary, Aficionado]
     ],
@@ -336,9 +336,6 @@
         ],
         [Guns,
             [Assault Rifle, Shotgun, Rifle, Submachine Gun, Pistol, Light Machine Gun, Rocket Launcher, Battle Rifle, Minigin, Revolver, Designated Marksman Rifle]
-        ],
-        [Gun Traits,
-            []
         ],
         [Siege Engines,
             [Mangonel, Onager, Ram, Catapult, Trebuchet, Ballista, Tower]
@@ -377,14 +374,14 @@
             [Keyboard,
                 [Piano, Organ]
             ],
-            [Castanets, Steelpan, Xylophone, Accordion, Bagpipe, Whistle, Harmonica, Kazoo, Ocarina, Piccolo, Vuvuzela]
+            [Castanets, Steelpan, Xylophone, Accordion, Bagpipe, Whistle, Harmonica, Kazoo, Ocarina, Piccolo, Vuvuzela, Chime]
         ],
         [Tools,
             [Saw,
                 [Band Saw, Circular Saw, Hack Saw, Pull Saw, Hand Saw]
             ],
             [Wrench,
-                [Pipe Wrench, Adjustable Wrench]
+                [Pipe Wrench, Adjustable Wrench, Crescent Wrench]
             ],
             [Kitchen Stuff,
                 [Spatula, Whisk, Spoon, Fork, Butter knife]
@@ -392,10 +389,10 @@
             [Claw Hammer, Screwdriver, Lathe, Planer, Joiner, Awl, Crowbar, Pliers, *Cutter, Scissors, +Knife, Magnifying Glass, Tweezers, Corkscrew, Ruler, Compass, Protractor, *French Curve, Hatchet, *Axe, Ladder]
         ],
         [Honors,
-            [Award, Certificate, Medal/Medallion, Ribbon, Cross, Commendation, Merit, Letter, Star, Trophy, Honor]
+            [Award, Certificate, Medal/Medallion, Ribbon, Cross, Commendation, Merit, Letter, Star, Trophy, Honor, Plaque, Accolade, Badge]
         ],
         [Containers,
-            [Barrel, Crate, Box, Flask, Cup, Mug, Vial, Bowl, Glass, Bottle, Can, Jar, Basket, Bag, Pouch, Chest, Bin, Bucket, Briefcase, Suitcase, Canteen, Cask, Case, Hamper, Jug, Pitcher, Goblet, Drum, Pail, Purse, Satchel, Stein, Tote, Urn, Amphora, Vat, Vault, Keg, Cauldron, Beaker]
+            [Amphora, Barrel, Crate, Box, Flask, Cup, Mug, Vial, Bowl, Glass, Bottle, Can, Jar, Basket, Bag, Pouch, Chest, Bin, Bucket, Briefcase, Suitcase, Canteen, Cask, Case, Hamper, Jug, Pitcher, Goblet, Drum, Pail, Purse, Satchel, Stein, Tote, Urn, Amphora, Vat, Vault, Keg, Cauldron, Beaker]
         ],
         [Clothing,
             [Parka, Coat, Jacket, Sweater, T-shirt, Jeans, Cargo Pants*, Hoodie, Belt, Shoes+, Boots, High Heels, Slippers, Sandals, Flipflops, Dress, Blouse, Skirt, Gloves, Mittens, Headband, Bandana, Glasses*, Shorts, Suit, Tuxedo, Tank top, Socks, Collar, Tie, Bowtie, Vest, Blazer, Sunglasses+]
@@ -404,7 +401,7 @@
             [Breastplate, Bracers, Vambraces, Greatcoat*]
         ],
         [Hats,
-            [Mitre/Pope Hat, Beret, Beanie, *Baseball Cap, Tricorne, Turban, Ushanka, Toque, Top Hat, Santa Hat, Hard Hat, Party Hat, Peaked Hat/US Military Dress, Trilby, Mortarboard, Fez, Fedora, Coonskin, Sombrero, Capotain, Deer Stalker/Sherlock Holmes, Gatsby/Newsboy Cap, Ghutrah/Islamic Headscarf, *Kepi, Pith Helmet, Rastacap, Shako, Stetson, Balaclava, Bicorne]
+            [Mitre/Pope Hat, Beret, Beanie, *Baseball Cap, Tricorne, Turban, Ushanka, Toque, Top Hat, Santa Hat, Hard Hat, Party Hat, Peaked Hat/US Military Dress, Trilby, Mortarboard, Fez, Fedora, Coonskin, Sombrero, Capotain, Deer Stalker/Sherlock Holmes, Gatsby/Newsboy Cap, Ghutrah/Islamic Headscarf, *Kepi, Pith Helmet, Rastacap, Shako, Stetson, Balaclava, Bicorne, Mask]
         ],
         [Helmets,
             [Aventail, *Armet, Barbute, Bascinet, Bracas, Cervelliere, Close, Combat, Sallet, Enclosed, Frog-mouth, Great, Horned, Hounskull, Kabuto, Mempo, Kettle Hat, Nasal, Spangenhelm, Corinthian]
@@ -416,7 +413,7 @@
             [Broach, Pendant, Amulet, Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pixes, Ciboria, Grail, Scepter, Medallion, Cruet, Tapestry, Crown, Tiara, Anklet, Bracelet, Ring, Necklace, Earring, Watch, Monocle]
         ],
         [Medicine,
-            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment]
+            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum]
         ],
         [Candle, Dowsing Rods, Manifesto, Memorandum, Font, Vendetta, Barometer, Thermometer, Ornament, Cairn, Doll, Blocks]
     ],
@@ -430,22 +427,22 @@
             [Traits,
                 [Age, Damage Level, Prestige/Legacy, Notable Qualities]
             ],
-            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace*, Faction, Officer, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband]
+            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace*, Faction, Officer, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband, Pristine, Retro, Gilded]
         ],
         [Traits,
-            [Strength, Constitution, Wisdom, Intelligence, Dexterity, Charisma, Reflex, Willpower, Loyalty, Devotion, Perseverance, Reliability, Balance, Discipline, Concentration, Gullibility, Shyness, Agility, Curiosity]
+            [Strength, Constitution, Wisdom, Intelligence, Dexterity, Charisma, Reflex, Willpower, Loyalty, Devotion, Perseverance, Reliability, Balance, Discipline, Concentration, Gullibility, Shyness, Agility, Curiosity, Patience]
         ],
         [Groups/Gatherings,
             [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee]
         ],
         [Events (More than action),
-            [Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade]
+            [Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist]
         ],
         [Fields of Science,
             [Botany, Chemistry, Physics, Anatomy, Physiology, Biology, Archaeology, Paleontology, *Mathematics, Metallurgy, Psychology, Oceanology, Ecology, Geology, Zoology, Astronomy]
         ],
         [Descriptors,
-            [Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Infernal, Tainted]
+            [Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Infernal, Tainted, Whimsical, Derelict, Consecrated, Primordial, Idyllic]
         ],
         [Movement Verbs,
             [Walk, Run, Jog, Sulk, Meander]
@@ -456,7 +453,7 @@
     [Magic,
         [Status Effects,
             [Positive,
-                [Invisible, Haste, Regeneration, Resistance, Night Vision, Water Breathing, Strength, Protection, Reflection, Stoneskin, Ironskin, Quickness, Retaliation, Satiated, Invulnerable, Invincible, Stealth, Aegis, Fury, Might, Stability, Vigor]
+                [Sure-Footed, Invisible, Haste, Regeneration, Resistance, Night Vision, Water Breathing, Strength, Protection, Reflection, Stoneskin, Ironskin, Quickness, Retaliation, Satiated, Invulnerable, Invincible, Stealth, Aegis, Fury, Might, Stability, Vigor]
             ],
             [Negative,
                 [Confused, Paralyzed, Petrified, Slowed, Poison, Fatigue, Nausea, Blind, Hunger, Weakness, Bleeding, Frozen, Charmed, Silenced, Fear, Cursed, Stunned, Vulnerable, Disabled, Taunted, Tormented, Crippled, Burning, Withered, Coma, Concussed, Chilled, Knocked Down, Off Balance, Disoriented, Immobile, Snared, Dazed, Entangled, Deafened, Dazzled, Agony, Sick, Unstable, Hexed, Hallucinating, Dizzied, Numb]
@@ -474,7 +471,7 @@
         [Schools/Fields of Magic,
             [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism]
         ],
-        [Spell, Miracle, Incantation, Ritual, Prophecy, Curse, Ley Line, Aura]
+        [Spell, Miracle, Incantation, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma]
     ],
 
 
@@ -507,7 +504,7 @@
             []
         ],
         [Types of Government/Economic System,
-            [Democracy, Dictatorship, Communism, Socialism]
+            [Democracy, Dictatorship, Communism, Socialism, Totalitarianism]
         ],
         [Medical Afflictions/Symptoms,
             [Stammer, Stutter, Fever, Cough, Pain, Constipation, Diarrhea, Dizziness, Headache, Ache, Swelling, Congestion, Nausea, Vomiting, Numbness, Sore Throat, Wheezing, Rash, Itch, Amnesia]
@@ -538,16 +535,13 @@
                 [Planets,
                     [Gas, Ice, Barren, Temperate, Lava, Oceanic, Storm, Plasma]
                 ],
-                [Quasar, Magnetar, Comet, Meteor, Asteroid, Nebula, Dwarf Planet, Black Hole, Worm Hole]
+                [Quasar, Magnetar, Comet, Meteor, Asteroid, Nebula, Dwarf Planet, Black Hole, Worm Hole, Constellation]
             ],
             [Events,
                 [Supernova, Gamma Ray Burst, Eclipse]
             ]
         ],
         [British Navy Ship Names,
-            []
-        ],
-        [Famous Explorers,
             []
         ],
         [Anatomy (Latin and English)(May not work in list form),
@@ -593,7 +587,7 @@
             [Lust, Sloth, Wrath, Envy, Pride, Gluttony, Greed]
         ],
         [Locations,
-            [Olympus]
+            [Olympus, Avalon]
         ],
         [Yggdrasil]
     ],
