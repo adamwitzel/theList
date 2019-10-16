@@ -70,6 +70,10 @@
     Kunai
     +Polearm
     Cudgel
+    Flechette
+    Pavise
+    Scutum
+    Targe
 
 +Titles
     +Hospitality
@@ -161,10 +165,7 @@ Remark
 Quip
 Comment
 
-Flechette
-Pavise
-Scutum
-Targe
+
 Behemoth
 Bulwark
 Escutcheon
@@ -188,9 +189,6 @@ Heather
 Holly
 Mistletoe
 
-Pediment
-Rotunda
-Cornice
 Fealty
 Piety
 
@@ -199,7 +197,6 @@ Piety
     Smooth
     Ridged
 
-Catacomb
 Sarcophagus
 Apiary
 
@@ -213,5 +210,10 @@ Trove
 Aberration
 Bouquet
 Catastrophe
-Borough
-Suburb
+
+Bluff
+Invasion
+Crisis
+Chip
+Crack
+Dent

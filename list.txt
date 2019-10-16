@@ -265,10 +265,11 @@
         [City Features,
             [Roads,
                 [Road, Street, Avenue, Boulevard, Lane, Drive, Way, Court, *Plaza, *Square, Place, Run, Highway, Freeway, Turnpike, Parkway, Causeway, Alley]
-            ]
+            ],
+            [Catacombs, Suburb, Borough]
         ],
         [Buildings,
-            [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel]
+            [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel, Planetarium]
         ],
         [Rooms,
             [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom, Lobby]
@@ -276,7 +277,7 @@
         [Cliff House Rooms,
             [Bedroom, Bathroom, Kitchen, Dining Room, Meat Storage (Meat Locker), Liquid Storage, Lab, Pantry, Storeroom, Clothing Room, Library, Reading Room, Study, Observatory, Smelting/Smithing Room, Metal Storage, Armory, Dueling Room, Millroom, Cold Storage, Wine Cellar, Boiler Room, Furnace Room, Glass Room, Brewery, Foyer, Guest Rooms, Keep, Skullery, Kennel, Distillery, Aviary, Quarters+, Infirmary, Silo Room, Woodshop, Power Room, Studio, Gallery, Pottery Studio, Game Room, Gym, ]
         ],
-        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook]
+        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook, Pediment, Rotunda, Cornice]
     ],
 
 
