@@ -6,9 +6,9 @@ By its nature this list can never be fully correct or complete.
 
 ## Notation
 Leading or Trailing Character Meanings:
-+ : Category
-- : Leading=Suffix, Trailing=Prefix
-* : Questionable in some way, wrong category, too specific, uses real world information
+\+ : Category
+\- : Leading=Suffix, Trailing=Prefix
+\* : Questionable in some way, wrong category, too specific, uses real world information
 Contained within:
     (): Comment
     {}: Reference to insert another file in place
