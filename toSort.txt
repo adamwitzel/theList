@@ -205,6 +205,7 @@ Empire
 Kingdom
 Dynasty
 Fiefdom
+Precinct
 
 Chip
 Crack
@@ -214,7 +215,7 @@ Scar
 
 Plinth
 Monolith
-Precinct
+Monument
 
 Revenant
 
@@ -223,6 +224,7 @@ Tranquility
 Fealty
 Piety
 Stability
+Utility
 
 +Santa's Reindeer
     Dasher
@@ -288,3 +290,4 @@ Feral
 Debonair
 Vortex
 Pact
+Icon
