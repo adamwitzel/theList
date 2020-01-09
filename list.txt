@@ -36,7 +36,7 @@
                 [Catfish, Lungfish, Lionfish, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
             ],
             [Mollusk,
-                [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish]
+                [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish, Cockle]
             ],
             [Crustacean,
                 [Shrimp, Lobster, +Crab, Hermit Crab, Crayfish, Horseshoe Crab]
@@ -98,7 +98,7 @@
                 [Golem, Mimic, *Automaton, *Ent, *Slime]
             ],
             [Uniques,
-                [*Chupacabra, Headless Horseman, Jack Frost, Jack O'Lantern, *Medusa, Krampus, Santa Claus, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
+                [*Chupacabra, Headless Horseman, Jack Frost, Jack O'Lantern, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
             ]
             [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Ifrit, Oni, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Cockatrice, Harpy, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Hydra, Banshee, Succubus, Valkyrie, Leviathan, Manticore, Charybdis/Scylla, Spriggan, Gargoyle, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Scarecrow, Gorgon, Oni, Incubus, Siren, Kitsune, Phantom]
         ],
@@ -289,7 +289,7 @@
             [Superintendent, Headmaster, Tutor, Curator, *Explorer, Principal, Scholar, Teacher, Student, Dean]
         ],
         [Police,
-            [Constable, Inspector, Commissioner, Chief, Sheriff, Officer, Detective, Agent, Deputy, Warden]
+            [Constable, Inspector, Commissioner, Chief, Sheriff, Officer, Detective, Agent, Deputy, Warden, Patrolman]
         ],
         [Military,
             [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon]
@@ -307,7 +307,7 @@
             [Engineer, Driver, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Leatherworker, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
-            [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Mageblade, Seargeant, Apprentice, Master, Advisor, Coordinator, Administrator, Operator, Leader]
+            [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Mageblade, Sergeant, Apprentice, Master, Advisor, Coordinator, Administrator, Operator, Leader]
         ],
         [Roman/Greek,
             [Legate, Tribune, Praefect, Centurion, Praetorian, Spartan, Hoplite]
@@ -316,7 +316,7 @@
             [Regent, Inquisitor, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman]
         ],
         [Religious,
-            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary]
+            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend]
         ],
         [Classes (Duplicates with other sections),
             [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke, Channeler]
@@ -324,7 +324,10 @@
         [Familial,
             [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
         ],
-        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Criminal, Convict, Villain, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Rider, Brigadier, Patrolman, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Breeder, Appraiser, Pariah, Renegade, Adversary, Aficionado]
+        [Crime
+            [Criminal, Convict, Villain, Culprit]
+        ],
+        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Rider, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Breeder, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Carny, Orderly, Critic, Scoundrel, Hooligan, Oaf, Tyrant]
     ],
 
 
@@ -411,10 +414,13 @@
             [Vestments,
                 [Maniple, Veil, Stole]
             ],
-            [Broach, Pendant, Amulet, Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pixes, Ciboria, Grail, Scepter, Medallion, Cruet, Tapestry, Crown, Tiara, Anklet, Bracelet, Ring, Necklace, Earring, Watch, Monocle]
+            [Broach, Pendant, Amulet, Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pixes, Diadem, Ciboria, Grail, Scepter, Medallion, Cruet, Tapestry, Crown, Tiara, Anklet, Bracelet, Ring, Necklace, Earring, Watch, Monocle]
         ],
         [Medicine,
-            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum]
+            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum, Infection, Balm]
+        ],
+        [Documents,
+            [Dossier, Passport, Contract, Itinerary, Gazette]
         ],
         [Candle, Dowsing Rods, Manifesto, Memorandum, Font, Vendetta, Barometer, Thermometer, Ornament, Cairn, Doll, Blocks]
     ],
@@ -422,32 +428,42 @@
 
     [Descriptors/Categories,
         [Size,
-            [Slim Tall, Wide, Narrow, Short, Thin, Small, Tiny, Miniscule, Huge, Gigantic, Enormous, Medium, Massive, Big, Large, Immense, Colossal, Mammoth, Tremendous, Giant, Gargantuan, Titanic, Miniature, Diminutive, Petite, Puny, Infinitesimal, *Heavy, *Light]
+            [Positive
+                [Tall, Wide, Huge, Gigantic, Enormous, Massive, Big, Large, Immense, Colossal, Mammoth, Tremendous, Giant, Gargantuan, Titanic]
+            ],
+            [Negative
+                [Slim, Narrow, Short, Tiny, Miniscule, Small, Miniature, Diminutive, Petite, Puny, Infinitesimal]
+            ],
+            [Neutral
+                [Medium, Average]
+            ],
+            [*Heavy, *Light]
         ],
         [Item Qualities,
             [Traits,
                 [Age, Damage Level, Prestige/Legacy, Notable Qualities]
             ],
-            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Genuine, Deadspace*, Faction, Officer, Heritage, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband, Pristine, Retro, Gilded]
+            [Ancient, Common, Uncommon, Rare, Exotic, Artifact, Legendary, Ascended, Masterwork, Cursed, Basic, Unique, Strange, Enchanted, Vintage, Rustic, Bespoke, Genuine, Deadspace*, Faction, Officer, Heritage, Storyline, Unusual, Shiny, Heirloom, Antique, Relic, Prototype, Experimental, Mythic, Superior, Exquisite, Flawless, Collectors, Decorated, Set*, Quest, Restricted, Covert, Contraband, Pristine, Retro, Gilded]
         ],
         [Traits,
             [Strength, Constitution, Wisdom, Intelligence, Dexterity, Charisma, Reflex, Willpower, Loyalty, Devotion, Perseverance, Reliability, Balance, Discipline, Concentration, Gullibility, Shyness, Agility, Curiosity, Patience]
         ],
         [Groups/Gatherings,
-            [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee]
+            [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee, Sect, Ensemble, Consortium, Cult]
         ],
         [Events (More than action),
-            [Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist]
+            [Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist, Gala, Luncheon, Debate, Bonanza, Marathon]
         ],
         [Fields of Science,
             [Botany, Chemistry, Physics, Anatomy, Physiology, Biology, Archaeology, Paleontology, *Mathematics, Metallurgy, Psychology, Oceanology, Ecology, Geology, Zoology, Astronomy]
         ],
         [Descriptors,
-            [Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Infernal, Tainted, Whimsical, Derelict, Consecrated, Primordial, Idyllic]
+            [Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Opulent, Infernal, Fetid, Nebulous, Volatile, Tainted, Whimsical, Derelict, Consecrated, Primordial, Idyllic, Luminous, Lustrous]
         ],
         [Movement Verbs,
             [Walk, Run, Jog, Sulk, Meander]
-        ]
+        ],
+        [Curio]
     ],
 
 
@@ -470,9 +486,9 @@
             [Blink, Animate Dead, Entangle, Confuse, Ball of Light, Magic Dart, Slow, Petrify, Invisibility, Conjure Flame, Swiftness, Transform, Polymorph, Fireball, Timestop, Scrying, Reflect Projectiles]
         ],
         [Schools/Fields of Magic,
-            [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism]
+            [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism, Voodoo, Animancy, Incantation, Mysticism, Shamanism, Tasseography, Scrying]
         ],
-        [Spell, Miracle, Incantation, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma]
+        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice]
     ],
 
 
@@ -527,6 +543,15 @@
         ],
         [Gendered Animal Names,
             []
+        ],
+        [Emotions
+            []
+        ],
+        [Material Suffixes?
+            [-ite, -ine, -ium, -on, -gen]
+        ],
+        [Crimes
+            [Perjury, Murder, Burglary, Arson, Larceny, Theft, Assault, Battery, Treason, Libel, Slander, Bribery, Looting*]
         ],
         [Astronomical Objects/Events,
             [Objects,
@@ -592,5 +617,6 @@
         ],
         [Yggdrasil]
     ],
-    [Revenant, Serenity, Tranquility, Spalted]
+
+    []
 ]

@@ -7,12 +7,14 @@
     +Inventors
     +Architects
     +Artists
-    +Painters
-    +Sculptors
-    +Singers
-    +Musicians
-    +Actors
-    +Comedians
+        +Painters
+        +Sculptors
+    +Entertainers
+        +Singers
+        +Musicians
+        +Actors
+        +Comedians
+        +Directors
 
 +Swords and Whatnot
     Khopesh
@@ -82,6 +84,10 @@
         Chauffeur
         Porter
         Bellhop
+
+    +Maintenance
+        Janitor
+        Custodian
     Scoudrel
     Medium
     Raider
@@ -146,6 +152,7 @@
     Maestro
     Harbinger
     Client
+    Herald
 
 +Subjects
     History
@@ -155,35 +162,19 @@
     Philosophy
     Romance
 
-+Crimes
-    Murder
-    Libel
-    Slander
-    Looting*
-
-Monolith
 Puukko
 Kusanagi
+Kumiho
 
 Plunder
+Salvage
+Jetsam
+Flotsam
 
 Remark
 Quip
 Comment
-
-Behemoth
-Bulwark
-Escutcheon
-Ankh
-Echelon
-Dustbunny
-Mote
-Mausoleum
-Totem
-Hulk
-Gazette
-Caudaceus
-Finial
+Slogan
 
 Geode
 Nugget
@@ -192,11 +183,6 @@ Heather
 Holly
 Mistletoe
 
-Fealty
-Piety
-
-Stability
-
 Ancestor
 Step-
 
@@ -204,24 +190,101 @@ Step-
     Rough
     Smooth
     Ridged
+    Knurled
 
 Sarcophagus
-Apiary
+Tomb
+Crypt
+Catacomb
+Grave
+Coffin
+Casket
+Mausoleum
 
 Empire
 Kingdom
 Dynasty
+Fiefdom
 
-Itinerary
+Chip
+Crack
+Dent
+
+Scar
+
+Plinth
+Monolith
+Precinct
+
+Revenant
+
+Serenity
+Tranquility
+Fealty
+Piety
+Stability
+
++Santa's Reindeer
+    Dasher
+    Dancer
+    Prancer
+    Vixen
+    Comet
+    Cupid
+    Donner
+    Blitzen
+    Rudolph
+
+Apiary
+
+Euphoria
+Nostalgia
+Paranoia
+
+Pelt
+
+Bluff(Multiple)
+Invasion
+Crisis
+Behemoth
+Bulwark
+Escutcheon
+Ankh
+Echelon
+Dustbunny
+Mote
+Totem
+Hulk
+Caudaceus
+Finial
+Flare
+Anubis
+Conundrum
+Bundle
+Squabble
+Camaraderie
+Mischief
+Puppet
+Motif
 Plethora
 Trove
 Aberration
 Bouquet
 Catastrophe
-
-Bluff(Multiple)
-Invasion
-Crisis
-Chip
-Crack
-Dent
+Spalted
+Fossil
+Requiem
+Mission
+Glory
+Flotilla
+Feud
+Vitriol
+Ordeal
+Feast
+Cliché
+Cartel
+Satchel
+Feral
+Debonair
+Vortex
+Pact
