@@ -269,13 +269,10 @@
             [Catacombs, Suburb, Borough]
         ],
         [Buildings,
-            [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel, Planetarium]
+            [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel, Planetarium, Casino]
         ],
         [Rooms,
-            [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Dining Room, Mess Hall, Bathroom, Throne Room, Gym, Office, Closet, Game Room, Utility Room, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Millroom, Lobby]
-        ],
-        [Cliff House Rooms (should be merged into rooms),
-            [Bedroom, Bathroom, Kitchen, Dining Room, Meat Storage (Meat Locker), Liquid Storage, Lab, Pantry, Storeroom, Clothing Room, Library, Reading Room, Study, Observatory, Smelting/Smithing Room, Metal Storage, Armory, Dueling Room, Millroom, Cold Storage, Wine Cellar, Boiler Room, Furnace Room, Glass Room, Brewery, Foyer, Guest Rooms, Keep, Skullery, Kennel, Distillery, Aviary, Quarters+, Infirmary, Silo Room, Woodshop, Power Room, Studio, Gallery, Pottery Studio, Game Room, Gym, ]
+            [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Study, Woodshop, Dining Room, Mess Hall, Bathroom, Throne Room, Office, Closet, Armory, Game Room, Utility Room, Quarters+, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Lobby, Wine Cellar, Boiler Room, Scullery, Kennel, Infirmary, Studio, Gallery, Gym, Observatory, Foyer]
         ],
         [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook, Pediment, Rotunda, Cornice, Mausoleum]
     ],
@@ -304,10 +301,10 @@
             [Craftsman,
                 [Blacksmith, Glassblower, Jeweler, Potter, Mason, Mapmaker, Carpenter, Bowyer, Tinker, Tailor]
             ],
-            [Engineer, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
+            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
-            [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Mageblade, Sergeant, Apprentice, Master, Advisor, Coordinator, Administrator, Operator, Leader]
+            [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Appraiser, Mageblade, Sergeant, Operator, Leader]
         ],
         [Roman/Greek,
             [Legate, Tribune, Praefect, Centurion, Praetorian, Spartan, Hoplite]
@@ -324,10 +321,19 @@
         [Familial,
             [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
         ],
-        [Crime
-            [Criminal, Convict, Villain, Culprit]
+        [Crime,
+            [Criminal, Convict, Villain, Culprit, Hitman, Fugitive]
         ],
-        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Rider, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Breeder, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Carny, Orderly, Critic, Scoundrel, Hooligan, Oaf, Tyrant, Messiah]
+        [Entertainment,
+            [Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
+        ],
+        [Hospitality,
+            [Concierge, Maid, Chauffeur, Porter, Bellhop, Butler]
+        ],
+        [Maintenance,
+            [Janitor, Custodian]
+        ],
+        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Scoundrel, Hooligan, Oaf, Tyrant, Messiah]
     ],
 
 
@@ -417,10 +423,10 @@
             [Broach, Pendant, Amulet, Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pixes, Diadem, Ciboria, Grail, Scepter, Medallion, Cruet, Tapestry, Crown, Tiara, Anklet, Bracelet, Ring, Necklace, Earring, Watch, Monocle]
         ],
         [Medicine,
-            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum, Infection, Balm]
+            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum, Infection, Balm, Ointment]
         ],
         [Documents,
-            [Dossier, Passport, Contract, Itinerary, Gazette, Treaty]
+            [Dossier, Passport, Contract, Itinerary, Gazette, Treaty, Transcript, Memorandum]
         ],
         [Candle, Dowsing Rods, Manifesto, Memorandum, Font, Vendetta, Barometer, Thermometer, Ornament, Cairn, Doll, Blocks]
     ],
@@ -452,13 +458,13 @@
             [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee, Sect, Ensemble, Consortium, Cult]
         ],
         [Events (More than action),
-            [Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist, Gala, Luncheon, Debate, Bonanza, Marathon]
+            [Revolt, Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist, Gala, Luncheon, Debate, Bonanza, Marathon]
         ],
         [Fields of Science,
             [Botany, Chemistry, Physics, Anatomy, Physiology, Biology, Archaeology, Paleontology, *Mathematics, Metallurgy, Psychology, Oceanology, Ecology, Geology, Zoology, Astronomy]
         ],
         [Descriptors,
-            [Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Opulent, Infernal, Fetid, Nebulous, Volatile, Tainted, Whimsical, Derelict, Consecrated, Primordial, Idyllic, Luminous, Lustrous]
+            [Resplendent, Opalescent, Iridescent, Pearlescent, Majestic, Monastic, Celestial, Ethereal, Astral, Opulent, Infernal, Fetid, Nebulous, Volatile, Tainted, Whimsical, Derelict, Consecrated, Primordial, Idyllic, Luminous, Lustrous]
         ],
         [Movement Verbs,
             [Walk, Run, Jog, Sulk, Meander]

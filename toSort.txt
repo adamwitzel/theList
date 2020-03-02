@@ -114,34 +114,19 @@
 
 
 +Titles
-    +Hospitality
-        Concierge
-        Maid
-        Chauffeur
-        Porter
-        Bellhop
-        Butler
-
-    +Maintenance
-        Janitor
-        Custodian
-
-    Scoudrel
     Medium
-    Raider
     Swashbuckler
-    Thug
     Chronomancer
     Tactician
     Duelist
-    Healer
-    Minstrel
     Celebrity
     Fool
-    Geisha
-    Juggler
-    Diva
-    Puppeteer
+
+    Courtesan
+    Consort
+
+    Madame
+    Dame
     Scholar
     Savant
     Corsair
@@ -151,17 +136,18 @@
     Sensei
     Marksman
     Skirmisher
-    Acrobat
     Charlatan
     Pugilist
     Brute
-    Invoker
     Cannibal
     Savage
+
+    Scoudrel
     Vandal
+    Thug
+
     Thrall
     Mogul
-    Icon
     Savior
     Captor
     Heathen
@@ -169,49 +155,35 @@
     Disciple
     Hegemon
     Maniac
-    Virtuoso
-    Clown
+    Geisha
     Jinx
     Prodigy
     Auditor
     Mariner
     Guru
+    Courier
     Vassal
-    Fugitive
     Eminence
-    Patron
     Prophet
     Emissary
     Pawn
     Envoy
     Marauder
-    Consort
-    Maestro
     Harbinger
     Client
     Herald
-    Madame
     Landlord
     Tenant
-    Seamstress
-    Accountant
-    Acrobat
-    Architect
     Bombardier
-    Carpenter
-    Cartographer
     Connoisseur
-    Courier
-    Courtesan
-    Florist
     Fortune Teller
     Gambler
     Herbalist
-    Hitman
-    Luthier
     Mahout
     Merchant
     Pharmacist
+    Stooge
+    Meister
 
     Rajput
     Dukun
@@ -252,6 +224,7 @@ Remark
 Quip
 Comment
 Slogan
+Oath
 
 Geode
 Nugget
@@ -329,7 +302,7 @@ Dystopia
 Pelt
 
 Bluff(Multiple)
-Invasion
+
 Crisis
 Behemoth
 Bulwark
@@ -370,21 +343,49 @@ Feast
 Cliché
 Cartel
 Feral
+
 Debonair
 Decrepit
 Senile
+
 Serene
 Vortex
 Pact
 Icon
 Slag
+
 Lamp
 Lantern
+
 Anthem
 Delicacy
-Quirk
 
-Ointment
-Balm
+Quirk
+Talent
 
 Glade
+
+Silhouette
+Lasso
+Paragon
+Crucible
+
+Pledge
+Churn
+
+Hovel
+Basin
+Admiralty
+Carnage
+Tranquil
+Trust
+Confidence
+Courage
+Hope
+Patience
+Aristocrat/cracy
+Bureaucrat/cracy
+Casino
+Dynasty
+Ooze
+Facet
