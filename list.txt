@@ -302,9 +302,9 @@
         ],
         [Occupational,
             [Craftsman,
-                [Blacksmith, Fletcher, Glassblower, Jeweler, Potter, Mason, Mapmaker, Carpenter, Weaver, Clothier, Bowyer, Engraver, Knapper, Tinker, Tailor]
+                [Blacksmith, Glassblower, Jeweler, Potter, Mason, Mapmaker, Carpenter, Bowyer, Tinker, Tailor]
             ],
-            [Engineer, Driver, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Leatherworker, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
+            [Engineer, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
             [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Breeder, Appraiser, Mageblade, Sergeant, Apprentice, Master, Advisor, Coordinator, Administrator, Operator, Leader]
@@ -319,7 +319,7 @@
             [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend]
         ],
         [Classes (Duplicates with other sections),
-            [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke, Channeler]
+            [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke]
         ],
         [Familial,
             [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
@@ -327,7 +327,7 @@
         [Crime
             [Criminal, Convict, Villain, Culprit]
         ],
-        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Rider, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Breeder, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Carny, Orderly, Critic, Scoundrel, Hooligan, Oaf, Tyrant]
+        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Rider, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Breeder, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Carny, Orderly, Critic, Scoundrel, Hooligan, Oaf, Tyrant, Messiah]
     ],
 
 
@@ -396,7 +396,7 @@
             [Award, Certificate, Medal/Medallion, Ribbon, Cross, Commendation, Merit, Letter, Star, Trophy, Honor, Plaque, Accolade, Badge]
         ],
         [Containers,
-            [Amphora, Barrel, Crate, Box, Flask, Cup, Mug, Vial, Bowl, Glass, Bottle, Can, Jar, Basket, Bag, Pouch, Chest, Bin, Bucket, Briefcase, Suitcase, Canteen, Cask, Case, Hamper, Jug, Pitcher, Goblet, Drum, Pail, Purse, Satchel, Stein, Tote, Urn, Amphora, Vat, Vault, Keg, Cauldron, Beaker]
+            [Amphora, Barrel, Crate, Box, Flask, Cup, Mug, Vial, Bowl, Glass, Bottle, Can, Jar, Basket, Bag, Pouch, Chest, Bin, Bucket, Briefcase, Suitcase, Canteen, Cask, Case, Hamper, Jug, Pitcher, Goblet, Drum, Pail, Purse, Satchel, Stein, Tote, Urn, Amphora, Vat, Vault, Keg, Cauldron, Beaker, Satchel, Bundle]
         ],
         [Clothing,
             [Parka, Coat, Jacket, Sweater, T-shirt, Jeans, Cargo Pants*, Hoodie, Belt, Shoes+, Boots, High Heels, Slippers, Sandals, Flipflops, Dress, Blouse, Skirt, Gloves, Mittens, Headband, Bandana, Glasses*, Shorts, Suit, Tuxedo, Tank top, Socks, Collar, Tie, Bowtie, Vest, Blazer, Sunglasses+]
@@ -420,7 +420,7 @@
             [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum, Infection, Balm]
         ],
         [Documents,
-            [Dossier, Passport, Contract, Itinerary, Gazette]
+            [Dossier, Passport, Contract, Itinerary, Gazette, Treaty]
         ],
         [Candle, Dowsing Rods, Manifesto, Memorandum, Font, Vendetta, Barometer, Thermometer, Ornament, Cairn, Doll, Blocks]
     ],
@@ -463,7 +463,7 @@
         [Movement Verbs,
             [Walk, Run, Jog, Sulk, Meander]
         ],
-        [Curio]
+        [Curio, Threadbare]
     ],
 
 

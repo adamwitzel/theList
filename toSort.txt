@@ -2,19 +2,51 @@
     +Explorers
     +Authors
     +Astronomers
+    +Scientists
     +Generals
     +Historians
     +Inventors
-    +Architects
     +Artists
         +Painters
         +Sculptors
+        +Architects
     +Entertainers
         +Singers
         +Musicians
         +Actors
         +Comedians
         +Directors
+
++4 Horsemen
+    Conquest
+    Famine
+    Pestilence
+    War
+    Death
+
++Tarot Cards
+    The Fool
+    The Magician
+    The High Priestess
+    The Empress
+    The Emperor
+    The Hierophant
+    The Lovers
+    The Chariot
+    Strength
+    The Hermit
+    Wheel of Fortune
+    Justice
+    The Hanged Man
+    Death
+    Temperance
+    The Devil
+    The Tower
+    The Star
+    The Moon
+    The Sun
+    Judgement
+    The World
 
 +Swords and Whatnot
     Khopesh
@@ -70,12 +102,16 @@
     Pike
     Halberd
     Kunai
+    Urumi
     +Polearm
     Cudgel
+
     Flechette
+
     Pavise
     Scutum
     Targe
+
 
 +Titles
     +Hospitality
@@ -84,10 +120,12 @@
         Chauffeur
         Porter
         Bellhop
+        Butler
 
     +Maintenance
         Janitor
         Custodian
+
     Scoudrel
     Medium
     Raider
@@ -103,7 +141,6 @@
     Geisha
     Juggler
     Diva
-    Herald
     Puppeteer
     Scholar
     Savant
@@ -153,6 +190,38 @@
     Harbinger
     Client
     Herald
+    Madame
+    Landlord
+    Tenant
+    Seamstress
+    Accountant
+    Acrobat
+    Architect
+    Bombardier
+    Carpenter
+    Cartographer
+    Connoisseur
+    Courier
+    Courtesan
+    Florist
+    Fortune Teller
+    Gambler
+    Herbalist
+    Hitman
+    Luthier
+    Mahout
+    Merchant
+    Pharmacist
+
+    Rajput
+    Dukun
+    Kannagi
+    Sangoma
+    iNyanga
+    Volkhv
+    Cossack
+    Youxia
+    Hwarang
 
 +Subjects
     History
@@ -170,6 +239,14 @@ Plunder
 Salvage
 Jetsam
 Flotsam
+Pillage
+Loot
+Debris
+Luggage
+Baggage
+
+Federation
+Hegemony
 
 Remark
 Quip
@@ -212,6 +289,8 @@ Crack
 Dent
 
 Scar
+Bruise
+Laceration
 
 Plinth
 Monolith
@@ -225,6 +304,9 @@ Fealty
 Piety
 Stability
 Utility
+Reciprocity
+Verity
+Affinity
 
 +Santa's Reindeer
     Dasher
@@ -242,6 +324,7 @@ Apiary
 Euphoria
 Nostalgia
 Paranoia
+Dystopia
 
 Pelt
 
@@ -253,6 +336,7 @@ Bulwark
 Escutcheon
 Ankh
 Echelon
+Hauberk
 Dustbunny
 Mote
 Totem
@@ -262,7 +346,7 @@ Finial
 Flare
 Anubis
 Conundrum
-Bundle
+
 Squabble
 Camaraderie
 Mischief
@@ -285,9 +369,22 @@ Ordeal
 Feast
 Cliché
 Cartel
-Satchel
 Feral
 Debonair
+Decrepit
+Senile
+Serene
 Vortex
 Pact
 Icon
+Slag
+Lamp
+Lantern
+Anthem
+Delicacy
+Quirk
+
+Ointment
+Balm
+
+Glade
