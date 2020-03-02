@@ -2,17 +2,51 @@
     +Explorers
     +Authors
     +Astronomers
+    +Scientists
     +Generals
     +Historians
     +Inventors
-    +Architects
     +Artists
-    +Painters
-    +Sculptors
-    +Singers
-    +Musicians
-    +Actors
-    +Comedians
+        +Painters
+        +Sculptors
+        +Architects
+    +Entertainers
+        +Singers
+        +Musicians
+        +Actors
+        +Comedians
+        +Directors
+
++4 Horsemen
+    Conquest
+    Famine
+    Pestilence
+    War
+    Death
+
++Tarot Cards
+    The Fool
+    The Magician
+    The High Priestess
+    The Empress
+    The Emperor
+    The Hierophant
+    The Lovers
+    The Chariot
+    Strength
+    The Hermit
+    Wheel of Fortune
+    Justice
+    The Hanged Man
+    Death
+    Temperance
+    The Devil
+    The Tower
+    The Star
+    The Moon
+    The Sun
+    Judgement
+    The World
 
 +Swords and Whatnot
     Khopesh
@@ -68,8 +102,16 @@
     Pike
     Halberd
     Kunai
+    Urumi
     +Polearm
     Cudgel
+
+    Flechette
+
+    Pavise
+    Scutum
+    Targe
+
 
 +Titles
     +Hospitality
@@ -78,6 +120,12 @@
         Chauffeur
         Porter
         Bellhop
+        Butler
+
+    +Maintenance
+        Janitor
+        Custodian
+
     Scoudrel
     Medium
     Raider
@@ -93,7 +141,6 @@
     Geisha
     Juggler
     Diva
-    Herald
     Puppeteer
     Scholar
     Savant
@@ -142,6 +189,39 @@
     Maestro
     Harbinger
     Client
+    Herald
+    Madame
+    Landlord
+    Tenant
+    Seamstress
+    Accountant
+    Acrobat
+    Architect
+    Bombardier
+    Carpenter
+    Cartographer
+    Connoisseur
+    Courier
+    Courtesan
+    Florist
+    Fortune Teller
+    Gambler
+    Herbalist
+    Hitman
+    Luthier
+    Mahout
+    Merchant
+    Pharmacist
+
+    Rajput
+    Dukun
+    Kannagi
+    Sangoma
+    iNyanga
+    Volkhv
+    Cossack
+    Youxia
+    Hwarang
 
 +Subjects
     History
@@ -151,36 +231,28 @@
     Philosophy
     Romance
 
-Monolith
 Puukko
 Kusanagi
+Kumiho
 
 Plunder
+Salvage
+Jetsam
+Flotsam
+Pillage
+Loot
+Debris
+Luggage
+Baggage
+
+Federation
+Hegemony
 
 Remark
 Quip
 Comment
+Slogan
 
-Flechette
-Pavise
-Scutum
-Targe
-Behemoth
-Bulwark
-Escutcheon
-Ankh
-Echelon
-Dustbunny
-Sprite
-Mote
-Mausoleum
-Totem
-Hulk
-
-Gazette
-Caudaceus
-Finial
-Planetarium
 Geode
 Nugget
 
@@ -188,30 +260,131 @@ Heather
 Holly
 Mistletoe
 
-Pediment
-Rotunda
-Cornice
-Fealty
-Piety
+Ancestor
+Step-
 
 +Textures
     Rough
     Smooth
     Ridged
+    Knurled
 
-Catacomb
 Sarcophagus
-Apiary
+Tomb
+Crypt
+Catacomb
+Grave
+Coffin
+Casket
+Mausoleum
 
 Empire
 Kingdom
 Dynasty
+Fiefdom
+Precinct
 
-Itinerary
+Chip
+Crack
+Dent
+
+Scar
+Bruise
+Laceration
+
+Plinth
+Monolith
+Monument
+
+Revenant
+
+Serenity
+Tranquility
+Fealty
+Piety
+Stability
+Utility
+Reciprocity
+Verity
+Affinity
+
++Santa's Reindeer
+    Dasher
+    Dancer
+    Prancer
+    Vixen
+    Comet
+    Cupid
+    Donner
+    Blitzen
+    Rudolph
+
+Apiary
+
+Euphoria
+Nostalgia
+Paranoia
+Dystopia
+
+Pelt
+
+Bluff(Multiple)
+Invasion
+Crisis
+Behemoth
+Bulwark
+Escutcheon
+Ankh
+Echelon
+Hauberk
+Dustbunny
+Mote
+Totem
+Hulk
+Caudaceus
+Finial
+Flare
+Anubis
+Conundrum
+
+Squabble
+Camaraderie
+Mischief
+Puppet
+Motif
 Plethora
 Trove
 Aberration
 Bouquet
 Catastrophe
-Borough
-Suburb
+Spalted
+Fossil
+Requiem
+Mission
+Glory
+Flotilla
+Feud
+Vitriol
+Ordeal
+Feast
+Cliché
+Cartel
+Feral
+Debonair
+Decrepit
+Senile
+Serene
+Vortex
+Pact
+Icon
+Slag
+Lamp
+Lantern
+Anthem
+Delicacy
+Quirk
+
+Ointment
+Balm
+
+Glade
