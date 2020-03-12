@@ -106,7 +106,7 @@
             [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Bees]
         ],
         [Primates,
-            []
+            [Chimpanzee, Gorilla, Orangutan]
         ],
         [Reptiles,
             []
@@ -301,7 +301,16 @@
             [Craftsman,
                 [Blacksmith, Glassblower, Jeweler, Potter, Mason, Mapmaker, Carpenter, Bowyer, Tinker, Tailor]
             ],
-            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Woodcutter, Lumberjack, Farmer, Builder, Miner, Mechanic, Hunter, Beekeeper, Forager, Baker, Shearer, Milker, Miller, Trapper, Thresher, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
+            [Hospitality,
+                [Concierge, Maid, Chauffeur, Porter, Bellhop, Butler]
+            ],
+            [Maintenance,
+                [Janitor, Custodian]
+            ],
+            [Entertainment,
+                [Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
+            ],
+            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Lumberjack, Farmer, Miner, Mechanic, Beekeeper, Baker, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
             [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Appraiser, Mageblade, Sergeant, Operator, Leader]
@@ -316,7 +325,7 @@
             [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend]
         ],
         [Classes (Duplicates with other sections),
-            [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Cuirrasier, Mameluke]
+            [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Mameluke]
         ],
         [Familial,
             [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
@@ -324,16 +333,7 @@
         [Crime,
             [Criminal, Convict, Villain, Culprit, Hitman, Fugitive]
         ],
-        [Entertainment,
-            [Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
-        ],
-        [Hospitality,
-            [Concierge, Maid, Chauffeur, Porter, Bellhop, Butler]
-        ],
-        [Maintenance,
-            [Janitor, Custodian]
-        ],
-        [Martyr, Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Scoundrel, Hooligan, Oaf, Tyrant, Messiah]
+        [Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Hooligan, Oaf, Tyrant, Messiah, Maiden]
     ],
 
 
@@ -423,7 +423,10 @@
             [Broach, Pendant, Amulet, Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pixes, Diadem, Ciboria, Grail, Scepter, Medallion, Cruet, Tapestry, Crown, Tiara, Anklet, Bracelet, Ring, Necklace, Earring, Watch, Monocle]
         ],
         [Medicine,
-            [Tonic, Tincture, Potion, Antidote, Bacteria, Germ, Virus, Parasite, Contagion, Vaccine, Salve, Malady, Ailment, Elixir, Poison, Toxin, Venom, Serum, Infection, Balm, Ointment]
+            [Tonic, Tincture, Potion, Antidote, Vaccine, Salve, Elixir, Poison, Toxin, Venom, Serum, Balm, Ointment]
+        ],
+        [Disease,
+            [Bacteria, Germ, Virus, Parasite, Contagion, Malady, Ailment, Infection]
         ],
         [Documents,
             [Dossier, Passport, Contract, Itinerary, Gazette, Treaty, Transcript, Memorandum]
@@ -579,7 +582,6 @@
         [Anatomy (Latin and English)(May not work in list form),
             []
         ],
-        {subList_Leaders.txt},
         [Languages in each country,
             []
         ]

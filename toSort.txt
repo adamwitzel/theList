@@ -141,6 +141,12 @@
     Brute
     Cannibal
     Savage
+    Genius
+    Savior
+    Captor
+    Martyr
+    Trickster
+    Sentry
 
     Scoudrel
     Vandal
@@ -148,8 +154,9 @@
 
     Thrall
     Mogul
-    Savior
-    Captor
+
+    Harlot
+
     Heathen
     Exorcist
     Disciple
@@ -177,10 +184,8 @@
     Bombardier
     Connoisseur
     Fortune Teller
-    Gambler
     Herbalist
     Mahout
-    Merchant
     Pharmacist
     Stooge
     Meister
@@ -260,6 +265,7 @@ Precinct
 Chip
 Crack
 Dent
+Fracture
 
 Scar
 Bruise
@@ -268,8 +274,14 @@ Laceration
 Plinth
 Monolith
 Monument
+Shrine
 
 Revenant
+
+Smoke
+Mist
+Steam
+Fog
 
 Serenity
 Tranquility
@@ -389,3 +401,5 @@ Casino
 Dynasty
 Ooze
 Facet
+Glamour
+Puritan
