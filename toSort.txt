@@ -147,8 +147,9 @@
     Martyr
     Trickster
     Sentry
+    Scallywag
 
-    Scoudrel
+    Scoundrel
     Vandal
     Thug
 

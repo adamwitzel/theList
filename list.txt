@@ -289,7 +289,7 @@
             [Constable, Inspector, Commissioner, Chief, Sheriff, Officer, Detective, Agent, Deputy, Warden, Patrolman]
         ],
         [Military,
-            [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon]
+            [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon, Commodore]
         ],
         [Police/Military,
             [Commander, Colonel, Major, Lieutenant, Captain, Cadet, Officer, Recruit, Trooper]
