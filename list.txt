@@ -36,7 +36,7 @@
                 [Catfish, Lungfish, Lionfish, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
             ],
             [Mollusk,
-                [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish, Cockle]
+                [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish, Cockle, Winkle, Whelk, Cowrie]
             ],
             [Crustacean,
                 [Shrimp, Lobster, +Crab, Hermit Crab, Crayfish, Horseshoe Crab]
@@ -206,7 +206,7 @@
             [Roots,
                 [Turmeric, Ginger]
             ],
-            [+Chiles, Mustard, Poppyseed, Coriander(Cilantro Seeds), Sesame, Fenugreek, Capers, Nutmeg, Horseradish, Jasmine, Lavender, Lemongrass, Licorice, Mace, Paprika, Safflower, Saffron, Sassafras, Sorrel, Sumac, Wasabi, Watercress, Wormwood, Ginseng]
+            [+Chiles, Mustard, Poppyseed, Coriander(Cilantro Seeds), Sesame, Fenugreek, Capers, Nutmeg, Horseradish, Jasmine, Lavender, Lemongrass, Licorice, Mace, Paprika, Safflower, Saffron, Sassafras, Sorrel, Sumac, Wasabi, Watercress, Wormwood, Ginseng, Chamomile, Paprika, Mace, Cacao]
         ],
         [Candies
             [Toffee, Lemon Drop, Caramel, Malted Milk Ball, White Chocolate, Milk Chocolate, Dark Chocolate, Gum, Gummy Bear, Candy Corn, Jelly Bean, Lollipop, Candy Cane, Fudge, Mints, Taffy, Jawbreaker, Cotton Candy, Gummy Worm, Brittle, Gumdrop, Butterscotch, Licorice, Marshmallow]
@@ -308,9 +308,12 @@
                 [Janitor, Custodian]
             ],
             [Entertainment,
-                [Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
+                [Composer, Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
             ],
-            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Doctor, Chemist, Fisherman, Apothecary, Chef, Cook, Lumberjack, Farmer, Miner, Mechanic, Beekeeper, Baker, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
+            [Medicine,
+                [Pharmacist, Doctor, Surgeon, Nurse, Herbalist, Apothecary]
+            ],
+            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Chemist, Fisherman, Chef, Cook, Lumberjack, Farmer, Miner, Mechanic, Beekeeper, Baker, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
             [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Appraiser, Mageblade, Sergeant, Operator, Leader]
@@ -322,10 +325,13 @@
             [Regent, Inquisitor, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman]
         ],
         [Religious,
-            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Archbishop, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend]
+            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen]
         ],
         [Classes (Duplicates with other sections),
             [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Mameluke]
+        ],
+        [Piracy,
+            [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder]
         ],
         [Familial,
             [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
@@ -333,7 +339,7 @@
         [Crime,
             [Criminal, Convict, Villain, Culprit, Hitman, Fugitive]
         ],
-        [Idol, Composer, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Buccaneer, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Hooligan, Oaf, Tyrant, Messiah, Maiden]
+        [Idol, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Hooligan, Oaf, Tyrant, Messiah, Maiden]
     ],
 
 
@@ -497,7 +503,7 @@
         [Schools/Fields of Magic,
             [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism, Voodoo, Animancy, Incantation, Mysticism, Shamanism, Tasseography, Scrying]
         ],
-        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice]
+        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice, Mediation, Rite*, Prayer, Blessing, Talisman]
     ],
 
 
@@ -576,14 +582,11 @@
                 [Supernova, Gamma Ray Burst, Eclipse]
             ]
         ],
-        [British Navy Ship Names,
-            []
-        ],
         [Anatomy (Latin and English)(May not work in list form),
             []
         ],
-        [Languages in each country,
-            []
+        [Time Measurements,
+            [Second, Minute, Hour, Day, Week, Month, Year, Decade, Century, Millennium, Era, Age, Moment, Eon, Epoch, Period, Fortnight]
         ]
     ],
 

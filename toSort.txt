@@ -24,30 +24,6 @@
     War
     Death
 
-+Tarot Cards
-    The Fool
-    The Magician
-    The High Priestess
-    The Empress
-    The Emperor
-    The Hierophant
-    The Lovers
-    The Chariot
-    Strength
-    The Hermit
-    Wheel of Fortune
-    Justice
-    The Hanged Man
-    Death
-    Temperance
-    The Devil
-    The Tower
-    The Star
-    The Moon
-    The Sun
-    Judgement
-    The World
-
 +Swords and Whatnot
     Khopesh
     Rapier
@@ -105,6 +81,10 @@
     Urumi
     +Polearm
     Cudgel
+    Truncheon
+    Haladie
+    Katar
+    Mattock
 
     Flechette
 
@@ -115,7 +95,7 @@
 
 +Titles
     Medium
-    Swashbuckler
+
     Chronomancer
     Tactician
     Duelist
@@ -124,17 +104,17 @@
 
     Courtesan
     Consort
+    Harlot
 
     Madame
     Dame
     Scholar
     Savant
-    Corsair
+
     Viking*
     Scion
     Mystic
     Sensei
-    Marksman
     Skirmisher
     Charlatan
     Pugilist
@@ -156,9 +136,6 @@
     Thrall
     Mogul
 
-    Harlot
-
-    Heathen
     Exorcist
     Disciple
     Hegemon
@@ -172,11 +149,11 @@
     Courier
     Vassal
     Eminence
+
     Prophet
     Emissary
     Pawn
     Envoy
-    Marauder
     Harbinger
     Client
     Herald
@@ -185,11 +162,21 @@
     Bombardier
     Connoisseur
     Fortune Teller
-    Herbalist
     Mahout
-    Pharmacist
+
     Stooge
     Meister
+    Chaperone
+    Vicar
+    Pontiff
+    Renegade
+    Recluse
+    Castellan
+    Steward
+    Brigand
+    Rebel
+    Cantor
+    Psion
 
     Rajput
     Dukun
@@ -271,11 +258,6 @@ Fracture
 Scar
 Bruise
 Laceration
-
-Plinth
-Monolith
-Monument
-Shrine
 
 Revenant
 
@@ -403,4 +385,70 @@ Dynasty
 Ooze
 Facet
 Glamour
+
 Puritan
+Waif
+
+Gambit
+Prowess
+Ichor
+Porringer
+
+Sasumata
+Runt
+
+Grotto
+
+Effigy
+
+Plume
+Standard
+Tinsel
+
+Astrolabe
+Globe
+Sextant
+
+Commodity
+Finesse
+Nuisance
+Mariachi
+Alebrije
+Catechist
+Curfew
+Conclave
+
+Codex
+Book
+Tome
+Scroll
+
+Scent
+Smell
+Fragrance
+
+Dock
+Harbor
+Port
+Quay
+Jetty
+Pier
+Wharf
+Marina
+
+Plinth
+Monolith
+Monument
+
+Monastery
+Abbey
+Chapel
+Shrine
+Cathedral
+Mosque
+Basilica
+Temple
+Church
+Synagogue
+Convent
+Altar
