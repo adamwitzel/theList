@@ -85,6 +85,8 @@
     Haladie
     Katar
     Mattock
+    Sasumata
+    Lasso
 
     Flechette
 
@@ -94,31 +96,36 @@
 
 
 +Titles
-    Medium
-
-    Chronomancer
-    Tactician
-    Duelist
-    Celebrity
     Fool
+    Stooge
+    Oaf
 
     Courtesan
     Consort
     Harlot
+    Madam
 
-    Madame
-    Dame
-    Scholar
-    Savant
-
-    Viking*
-    Scion
-    Mystic
-    Sensei
     Skirmisher
-    Charlatan
     Pugilist
     Brute
+    Bombardier
+
+    Scion
+    Mystic
+    Exorcist
+    Fortune Teller
+    Psion
+    Medium
+    Chronomancer
+    Duelist
+
+    Thrall
+    Disciple
+    Prodigy
+    Vassal
+    Pawn
+    Protégé
+
     Cannibal
     Savage
     Genius
@@ -128,55 +135,55 @@
     Trickster
     Sentry
     Scallywag
+    Tactician
+    Celebrity
+    Dame
+    Scholar
+    Savant
+    Viking*
+    Sensei
+    Charlatan
 
     Scoundrel
-    Vandal
     Thug
 
-    Thrall
     Mogul
-
-    Exorcist
-    Disciple
     Hegemon
     Maniac
     Geisha
     Jinx
-    Prodigy
-    Auditor
     Mariner
     Guru
     Courier
-    Vassal
     Eminence
-
     Prophet
     Emissary
-    Pawn
     Envoy
     Harbinger
     Client
     Herald
     Landlord
     Tenant
-    Bombardier
     Connoisseur
-    Fortune Teller
     Mahout
-
-    Stooge
     Meister
     Chaperone
-    Vicar
-    Pontiff
     Renegade
     Recluse
-    Castellan
     Steward
-    Brigand
     Rebel
     Cantor
-    Psion
+    Puritan
+
+    Berserker
+    Paladin
+    Samurai
+    Guardian
+    Juggernaut
+
+    Mameluke
+    Orphan
+    Waif
 
     Rajput
     Dukun
@@ -213,6 +220,8 @@ Baggage
 Federation
 Hegemony
 
+Interim
+
 Remark
 Quip
 Comment
@@ -226,34 +235,17 @@ Heather
 Holly
 Mistletoe
 
-Ancestor
-Step-
-
 +Textures
     Rough
     Smooth
     Ridged
     Knurled
 
-Sarcophagus
-Tomb
-Crypt
-Catacomb
-Grave
-Coffin
-Casket
-Mausoleum
-
 Empire
 Kingdom
 Dynasty
 Fiefdom
 Precinct
-
-Chip
-Crack
-Dent
-Fracture
 
 Scar
 Bruise
@@ -295,6 +287,7 @@ Paranoia
 Dystopia
 
 Pelt
+Fossil
 
 Bluff(Multiple)
 
@@ -326,7 +319,6 @@ Aberration
 Bouquet
 Catastrophe
 Spalted
-Fossil
 Requiem
 Mission
 Glory
@@ -361,7 +353,7 @@ Talent
 Glade
 
 Silhouette
-Lasso
+
 Paragon
 Crucible
 
@@ -385,21 +377,19 @@ Dynasty
 Ooze
 Facet
 Glamour
-
-Puritan
-Waif
-
 Gambit
 Prowess
-Ichor
 Porringer
-
-Sasumata
 Runt
-
 Grotto
-
 Effigy
+Commodity
+Finesse
+Nuisance
+Mariachi
+Catechist
+Curfew
+Conclave
 
 Plume
 Standard
@@ -408,15 +398,6 @@ Tinsel
 Astrolabe
 Globe
 Sextant
-
-Commodity
-Finesse
-Nuisance
-Mariachi
-Alebrije
-Catechist
-Curfew
-Conclave
 
 Codex
 Book
@@ -435,6 +416,7 @@ Jetty
 Pier
 Wharf
 Marina
+Berth
 
 Plinth
 Monolith
@@ -452,3 +434,13 @@ Church
 Synagogue
 Convent
 Altar
+
+Catacomb
+Sarcophagus
+Tomb
+Crypt
+Catacomb
+Grave
+Coffin
+Casket
+Mausoleum

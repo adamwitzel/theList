@@ -63,22 +63,22 @@
                 [Human, Elf, Dwarf, Orc, Drow]
             ],
             [Humanoid - Large,
-                [Ogre, Giant, *Cyclops]
+                [Ogre, Giant, Cyclops]
             ],
             [Undead,
                 [Zombie, Skeleton + Grim Reaper, Mummy, Ghost, Lich, Draugr, Wight, Wraith, Shade]
             ],
             [Draconic,
-                [Dragon, Wyrm, Wyvern, *Basilisk, Hydra]
+                [Dragon, Wyrm, Wyvern, *Basilisk, Hydra, Hydra, Amphiptere]
             ],
             [Half-Humanoids,
-                [Minotaur, Gorgon, Satyr, Sphinx, Centaur, Merfolk, *Werewolf, Naga]
+                [Minotaur, Gorgon, Satyr, Sphinx, Centaur, Merfolk, *Werewolf, Naga, Harpy]
             ],
             [*Corrupted,
                 [Troll, Goblin, Hobgoblin, Gremlin, Chupacabra]
             ],
             [Demonic,
-                [Hellhound, Demon, Devil, Imp, Satan]
+                [Hellhound, Demon, Devil, Imp, Satan, Oni, Ifrit]
             ],
             [Equine,
                 [Pegasus, Hippocampus, Unicorn]
@@ -92,18 +92,18 @@
                 ]
             ],
             [Hybrids,
-                [Chimera, Cerberus, Hippogriff, Griffon, Jackalope]
+                [Chimera, Cerberus, Hippogriff, Griffon, Jackalope, Gargoyle, Cockatrice, Manticore]
             ],
             [Enchantments/Constructs/Compelled,
-                [Golem, Mimic, *Automaton, *Ent, *Slime]
+                [Golem, Mimic, *Automaton, *Ent, *Slime, Scarecrow]
             ],
             [Uniques,
-                [*Chupacabra, Headless Horseman, Jack Frost, Jack O'Lantern, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
+                [Headless Horseman, Jack Frost, Jack O'Lantern, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
             ]
-            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Ifrit, Oni, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Cockatrice, Harpy, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Hydra, Banshee, Succubus, Valkyrie, Leviathan, Manticore, Charybdis/Scylla, Spriggan, Gargoyle, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Scarecrow, Gorgon, Oni, Incubus, Siren, Kitsune, Phantom]
+            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus*, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Banshee, Succubus, Valkyrie, Leviathan, Charybdis/Scylla, Spriggan, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Gorgon, Incubus, Siren, Kitsune, Phantom, Alebrije, Quetzalcoatl, Kirin]
         ],
         [Livestock,
-            [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Bees]
+            [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
         ],
         [Primates,
             [Chimpanzee, Gorilla, Orangutan]
@@ -266,7 +266,7 @@
             [Roads,
                 [Road, Street, Avenue, Boulevard, Lane, Drive, Way, Court, *Plaza, *Square, Place, Run, Highway, Freeway, Turnpike, Parkway, Causeway, Alley]
             ],
-            [Catacombs, Suburb, Borough]
+            [Suburb, Borough]
         ],
         [Buildings,
             [Refinery, Chateau, Menagerie, Zoo, Abbey, Monastery, Mosque, Hospital, Wharf, Clinic, Forge/Smithy, Laboratory, Dock, Restaurant, Watermill, Windmill, Stable, House, Inn, Poolhouse, Community Center, Laundromat, Grocery Store, Market, School, Greenhouse, Jail, Prison, Warehouse, Cathedral, Basilica, Church, Police Station, Fire House, Hotel, Clocktower, Hardware Store, Bakery, Deli, Butcher's Shop, Brothel, Planetarium, Casino]
@@ -274,11 +274,11 @@
         [Rooms,
             [Kitchen, Pantry, Bedroom, Living Room, Laboratory, Theater, Study, Woodshop, Dining Room, Mess Hall, Bathroom, Throne Room, Office, Closet, Armory, Game Room, Utility Room, Quarters+, Library, Pool Room, Spa, Infirmary, Sparring Room, Skullery, *Freezer, *Refrigerator, Bar, Porch*, Dance Floor*, Prison, Cell, Studio, Hallway, Kennel, Lobby, Wine Cellar, Boiler Room, Scullery, Kennel, Infirmary, Studio, Gallery, Gym, Observatory, Foyer]
         ],
-        [Tomb, Crypt, Atrium, Berth, Quay, Pier, Jetty, Alcove, Pinnacle, Nook, Pediment, Rotunda, Cornice, Mausoleum]
+        [Atrium, Alcove, Pinnacle, Nook, Pediment, Rotunda, Cornice]
     ],
 
 
-    [Titles/Classes,
+    [Titles,
         [Prefix,
             [Lance-, Senior-, Junior-, Head-, Sub-, Joint-, *Division-, Auxiliary-, *District-, Vice-, Assistant-, *Arch-, *Prime-]
         ],
@@ -305,7 +305,7 @@
                 [Concierge, Maid, Chauffeur, Porter, Bellhop, Butler]
             ],
             [Maintenance,
-                [Janitor, Custodian]
+                [Janitor, Custodian, Mechanic]
             ],
             [Entertainment,
                 [Composer, Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
@@ -313,33 +313,39 @@
             [Medicine,
                 [Pharmacist, Doctor, Surgeon, Nurse, Herbalist, Apothecary]
             ],
-            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Chemist, Fisherman, Chef, Cook, Lumberjack, Farmer, Miner, Mechanic, Beekeeper, Baker, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
+            [Clown, Engineer, Seamstress, Accountant, Acrobat, Architect, Carpenter, Cartographer, Florist, Luthier, Vintner, Counselor, Magnate, Prospector, Messenger, Secretary, Chemist, Fisherman, Chef, Cook, Lumberjack, Farmer, Miner, Beekeeper, Baker, Butcher, Merchant, Alchemist, Gladiator, Bard, Ranger, Thief]
         ],
         [General,
-            [Director, Trainer, Raider, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Appraiser, Mageblade, Sergeant, Operator, Leader]
+            [Director, Trainer, Supervisor, Guard, Brigadier, Patrolman, Director, Operator, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Apprentice, Master, Advisor, Coordinator, Administrator, Appraiser, Mageblade, Sergeant, Operator, Leader]
         ],
         [Roman/Greek,
             [Legate, Tribune, Praefect, Centurion, Praetorian, Spartan, Hoplite]
         ],
         [Governmental,
-            [Regent, Inquisitor, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman]
+            [Regent, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman, Castellan, Shogun, Tyrant]
         ],
         [Religious,
-            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, *Archbishop, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen]
+            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah]
         ],
-        [Classes (Duplicates with other sections),
-            [Shaman, Monk, Druid, Cleric, Alchemist, Gladiator, Bard, Ranger, Thief, Illusionist, Wizard, Sorcerer, Assassin, Lancer, Artificer, Berserker, Enchanter, Conjurer, Summoner, Necromancer, Transmuter, Paladin, Rogue, Magus, Cavalier, Witch, Ninja, Samurai, Skald, Slayer, Arcanist, Magician, Scout, Warrior, Guardian, Mesmer, Ritualist, Warlock, Sentinel, Saboteur, Juggernaut, Occultist, Elementalist, Raider, Hussar, Dragoon, Mechanic, Engineer, Templar, Oracle, Inquisitor, Hoplite,  Sapper, Squire, Knight, Cataphract, Champion, Mageblade, Esper, Priest, Psychic, Mameluke]
+        [Cavalry,
+            [Lancer, Cavalier, Hussar, Cataphract]
+        ]
+        [Stealth,
+            [Assassin, Rogue, Ninja]
+        ],
+        [Magic,
+            [Illusionist, Wizard, Sorcerer, Artificer, Enchanter, Conjurer, Summoner, Necromancer, Magus, Skald, Arcanist, Magician, Mesmer, Ritualist, Occultist, Elementalist, Mageblade, Esper, Priest, Psychic, Witch, Warlock, Oracle, Alchemist]
         ],
         [Piracy,
-            [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder]
+            [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder, Dragoon]
         ],
         [Familial,
-            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband]
+            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband, Ancestor, Step-]
         ],
         [Crime,
-            [Criminal, Convict, Villain, Culprit, Hitman, Fugitive]
+            [Criminal, Convict, Villain, Culprit, Hitman, Fugitive, Vandal, Brigand, Highwayman, Bandit, Thief]
         ],
-        [Idol, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Barbarian, Highwayman, Bandit, Uhlan, Commissar, Hellion, Aspirant, Shogun, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Appraiser, Renegade, Adversary, Aficionado, Prodigy, Seneschal, Steward, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Protégé, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Hooligan, Oaf, Tyrant, Messiah, Maiden]
+        [Idol, Explorer, Crusader, Nomad, Maharaja, Gunslinger, Hunter, Spelunker, Barbarian, Uhlan, Raider, Commissar, Hellion, Aspirant, Pilgrim, Immigrant, Abbot, Vizier, Boatswain, Diviner, Conquistador, Medic, Seaman, Champion, Brigadier, Technician, Overseer, Appraiser, Adversary, Aficionado, Seneschal, Patron, Rascal, Correspondent, Reporter, Cretin, Pioneer, Pariah, Aide, Friend, Acquaintance, Orderly, Critic, Hooligan, Maiden]
     ],
 
 
@@ -351,7 +357,7 @@
             []
         ],
         [Guns,
-            [Assault Rifle, Shotgun, Rifle, Submachine Gun, Pistol, Light Machine Gun, Rocket Launcher, Battle Rifle, Minigin, Revolver, Designated Marksman Rifle]
+            [Assault Rifle, Shotgun, Rifle, Submachine Gun, Pistol, Light Machine Gun, Rocket Launcher, Battle Rifle, Minigun, Revolver, Designated Marksman Rifle]
         ],
         [Siege Engines,
             [Mangonel, Onager, Ram, Catapult, Trebuchet, Ballista, Tower]
@@ -477,6 +483,9 @@
         ],
         [Movement Verbs,
             [Walk, Run, Jog, Sulk, Meander]
+        ],
+        [Damage,
+            [Chip, Crack, Dent, Fracture]
         ],
         [Curio, Threadbare]
     ],
