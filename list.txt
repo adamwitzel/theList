@@ -100,7 +100,7 @@
             [Uniques,
                 [Headless Horseman, Jack Frost, Jack O'Lantern, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
             ]
-            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus*, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Banshee, Succubus, Valkyrie, Leviathan, Charybdis/Scylla, Spriggan, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Gorgon, Incubus, Siren, Kitsune, Phantom, Alebrije, Quetzalcoatl, Kirin]
+            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus*, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Banshee, Succubus, Valkyrie, Leviathan, Charybdis/Scylla, Spriggan, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Gorgon, Incubus, Siren, Kitsune, Kumiho, Phantom, Alebrije, Quetzalcoatl, Kirin]
         ],
         [Livestock,
             [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
@@ -283,7 +283,7 @@
             [Lance-, Senior-, Junior-, Head-, Sub-, Joint-, *Division-, Auxiliary-, *District-, Vice-, Assistant-, *Arch-, *Prime-]
         ],
         [Academic,
-            [Superintendent, Headmaster, Tutor, Curator, *Explorer, Principal, Scholar, Teacher, Student, Dean]
+            [Superintendent, Headmaster, Tutor, Curator, *Explorer, Principal, Scholar, Teacher, Student, Dean, ]
         ],
         [Police,
             [Constable, Inspector, Commissioner, Chief, Sheriff, Officer, Detective, Agent, Deputy, Warden, Patrolman]
@@ -325,7 +325,7 @@
             [Regent, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman, Castellan, Shogun, Tyrant]
         ],
         [Religious,
-            [Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah]
+            [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist]
         ],
         [Cavalry,
             [Lancer, Cavalier, Hussar, Cataphract]
@@ -334,7 +334,7 @@
             [Assassin, Rogue, Ninja]
         ],
         [Magic,
-            [Illusionist, Wizard, Sorcerer, Artificer, Enchanter, Conjurer, Summoner, Necromancer, Magus, Skald, Arcanist, Magician, Mesmer, Ritualist, Occultist, Elementalist, Mageblade, Esper, Priest, Psychic, Witch, Warlock, Oracle, Alchemist]
+            [Illusionist, Wizard, Sorcerer, Artificer, Enchanter, Conjurer, Summoner, Necromancer, Magus, Skald, Arcanist, Magician, Mesmer, Ritualist, Occultist, Elementalist, Mageblade, Esper, Priest, Psychic, Witch, Warlock, Oracle, Alchemist, Mystic, Fortune Teller, Medium, Chronomancer, Psion, ]
         ],
         [Piracy,
             [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder, Dragoon]
@@ -470,7 +470,7 @@
             [Strength, Constitution, Wisdom, Intelligence, Dexterity, Charisma, Reflex, Willpower, Loyalty, Devotion, Perseverance, Reliability, Balance, Discipline, Concentration, Gullibility, Shyness, Agility, Curiosity, Patience]
         ],
         [Groups/Gatherings,
-            [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee, Sect, Ensemble, Consortium, Cult]
+            [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee, Sect, Ensemble, Consortium, Cult, Cartel, Federation]
         ],
         [Events (More than action),
             [Revolt, Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist, Gala, Luncheon, Debate, Bonanza, Marathon]
@@ -506,13 +506,10 @@
         [Elements/Damage Types,
             [Air, Fire, Earth, Water, Ice, Poison, Acid, Electric, Radiation, Light, Dark, Explosive, Blast, Impact, Puncture, Slash, Piercing, Blunt, Corrosive, Magnetic, Shock, Sonic]
         ],
-        [Common Spells,
-            [Blink, Animate Dead, Entangle, Confuse, Ball of Light, Magic Dart, Slow, Petrify, Invisibility, Conjure Flame, Swiftness, Transform, Polymorph, Fireball, Timestop, Scrying, Reflect Projectiles]
-        ],
         [Schools/Fields of Magic,
             [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism, Voodoo, Animancy, Incantation, Mysticism, Shamanism, Tasseography, Scrying]
         ],
-        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice, Mediation, Rite*, Prayer, Blessing, Talisman]
+        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice, Mediation, Rite*, Prayer, Blessing, Talisman, Jinx]
     ],
 
 
@@ -602,7 +599,7 @@
 
     [Folklore/Myths,
         [Artifacts,
-            [Ark of the Covenant, Magic Beans, Excalibur, Sword in the Stone, *Flying Carpet, Turin Shroud, Lance of Longinus, Fountain of Youth, Mjolnir, Holy Grail, Naegling, Legbiter, Gungnir, Devil's Pitchfork, Caduceus, Vajra, Aryo, Naglfar, Flying Dutchman, Pandora's Box, Gjallarhorn, Golden Fleece, Skeleton Key, Gae Bolg, Aegis]
+            [Kusanagi, Ark of the Covenant, Magic Beans, Excalibur, Sword in the Stone, *Flying Carpet, Turin Shroud, Lance of Longinus, Fountain of Youth, Mjolnir, Holy Grail, Naegling, Legbiter, Gungnir, Devil's Pitchfork, Caduceus, Vajra, Aryo, Naglfar, Flying Dutchman, Pandora's Box, Gjallarhorn, Golden Fleece, Skeleton Key, Gae Bolg, Aegis]
         ],
         [Lucky/Unlucky,
             [Lucky,

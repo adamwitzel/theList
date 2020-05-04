@@ -87,6 +87,7 @@
     Mattock
     Sasumata
     Lasso
+    Puukko
 
     Flechette
 
@@ -109,14 +110,14 @@
     Pugilist
     Brute
     Bombardier
+    Viking*
+    Berserker
+    Paladin
+    Samurai
+    Guardian
+    Juggernaut
 
     Scion
-    Mystic
-    Exorcist
-    Fortune Teller
-    Psion
-    Medium
-    Chronomancer
     Duelist
 
     Thrall
@@ -140,20 +141,22 @@
     Dame
     Scholar
     Savant
-    Viking*
+
     Sensei
+    Guru
+
+
     Charlatan
 
     Scoundrel
     Thug
-
     Mogul
     Hegemon
     Maniac
     Geisha
     Jinx
     Mariner
-    Guru
+
     Courier
     Eminence
     Prophet
@@ -174,12 +177,6 @@
     Rebel
     Cantor
     Puritan
-
-    Berserker
-    Paladin
-    Samurai
-    Guardian
-    Juggernaut
 
     Mameluke
     Orphan
@@ -203,10 +200,6 @@
     Philosophy
     Romance
 
-Puukko
-Kusanagi
-Kumiho
-
 Plunder
 Salvage
 Jetsam
@@ -217,7 +210,6 @@ Debris
 Luggage
 Baggage
 
-Federation
 Hegemony
 
 Interim
@@ -303,7 +295,6 @@ Mote
 Totem
 Hulk
 Caudaceus
-Finial
 Flare
 Anubis
 Conundrum
@@ -328,7 +319,6 @@ Vitriol
 Ordeal
 Feast
 Cliché
-Cartel
 Feral
 
 Debonair
@@ -343,6 +333,7 @@ Slag
 
 Lamp
 Lantern
+Torch
 
 Anthem
 Delicacy
@@ -394,6 +385,7 @@ Conclave
 Plume
 Standard
 Tinsel
+Finial
 
 Astrolabe
 Globe
