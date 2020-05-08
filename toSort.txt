@@ -26,27 +26,16 @@
 
 +Swords and Whatnot
     Khopesh
-    Rapier
-    Talwar
-    Swordbreaker
     Claymore
-    +Dagger
-    Stiletto
     Katana
     Falchion
     Gladius
-    Kris Blade*
     Cutlass
     Kukri
     Cleaver
     Chef's Knife*
-    +Sword
-    +Axe
-    +Spear
     War Hammer*
-    Maul
     Glaive
-    Sledge
     Pilum
     Xiphos
     HogSplitter
@@ -68,20 +57,14 @@
     Spatha
     Wakizashi
     Tanto
-    +Mace
     +Flail
     Morningstar
     Nunchuck
     Estoc
     Arbalest
     Arming Sword
-    Pike
-    Halberd
     Kunai
     Urumi
-    +Polearm
-    Cudgel
-    Truncheon
     Haladie
     Katar
     Mattock
@@ -126,6 +109,7 @@
     Vassal
     Pawn
     Protégé
+    Apprentice
 
     Cannibal
     Savage
@@ -145,28 +129,26 @@
     Sensei
     Guru
 
-
     Charlatan
 
     Scoundrel
     Thug
-    Mogul
-    Hegemon
     Maniac
     Geisha
     Jinx
     Mariner
 
-    Courier
-    Eminence
-    Prophet
     Emissary
     Envoy
+    Courier
+    Messenger
+
+    Eminence
+    Prophet
+
     Harbinger
-    Client
     Herald
-    Landlord
-    Tenant
+
     Connoisseur
     Mahout
     Meister
@@ -239,11 +221,13 @@ Dynasty
 Fiefdom
 Precinct
 
+Hegemon
+
 Scar
 Bruise
 Laceration
-
-Revenant
+Abrasion
+Scrape
 
 Smoke
 Mist
@@ -271,8 +255,6 @@ Affinity
     Blitzen
     Rudolph
 
-Apiary
-
 Euphoria
 Nostalgia
 Paranoia
@@ -283,22 +265,65 @@ Fossil
 
 Bluff(Multiple)
 
+Debonair
+Decrepit
+Senile
+
+Lamp
+Lantern
+Torch
+
+Quirk
+Talent
+
+Pledge
+Pact
+
+Tranquil
+Serene
+
+Anthem
+Churn
+Hovel
+Basin
+Admiralty
+Carnage
+Delicacy
+Commodity
+Trust
+Confidence
+Courage
+Hope
+Patience
+Aristocrat/cracy
+Bureaucrat/cracy
+Dynasty
+Ooze
+Facet
+Gambit
+Prowess
+Runt
+Grotto
+Finesse
+Nuisance
+Mariachi
+Catechist
+Curfew
+Conclave
 Crisis
 Behemoth
 Bulwark
+Rampart
 Escutcheon
 Ankh
 Echelon
-Hauberk
 Dustbunny
 Mote
-Totem
 Hulk
 Caudaceus
 Flare
 Anubis
 Conundrum
-
 Squabble
 Camaraderie
 Mischief
@@ -320,81 +345,15 @@ Ordeal
 Feast
 Cliché
 Feral
-
-Debonair
-Decrepit
-Senile
-
-Serene
+Revenant
 Vortex
-Pact
-Icon
-Slag
-
-Lamp
-Lantern
-Torch
-
-Anthem
-Delicacy
-
-Quirk
-Talent
-
 Glade
-
 Silhouette
-
 Paragon
 Crucible
-
-Pledge
-Churn
-
-Hovel
-Basin
-Admiralty
-Carnage
-Tranquil
-Trust
-Confidence
-Courage
-Hope
-Patience
-Aristocrat/cracy
-Bureaucrat/cracy
-Casino
-Dynasty
-Ooze
-Facet
-Glamour
-Gambit
-Prowess
-Porringer
-Runt
-Grotto
-Effigy
-Commodity
-Finesse
-Nuisance
-Mariachi
-Catechist
-Curfew
-Conclave
-
-Plume
-Standard
-Tinsel
-Finial
-
-Astrolabe
-Globe
-Sextant
-
-Codex
-Book
-Tome
-Scroll
+Icon
+Slag
+Apiary
 
 Scent
 Smell
@@ -413,19 +372,10 @@ Berth
 Plinth
 Monolith
 Monument
-
-Monastery
-Abbey
-Chapel
-Shrine
-Cathedral
-Mosque
-Basilica
-Temple
-Church
-Synagogue
-Convent
+Effigy
+Totem
 Altar
+Shrine
 
 Catacomb
 Sarcophagus
