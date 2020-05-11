@@ -17,6 +17,16 @@
         +Comedians
         +Directors
 
++Schools of Philosophy
++Types of Art, Mediums, Modern, Impressionism, Cubism
++Systems of Writing
++Types of Dancing
++Types of Calendars
++Geological Eras
++Sandwiches
++Hairstyles
++Electronic Parts
+
 +4 Horsemen
     Conquest
     Famine
@@ -25,54 +35,25 @@
     Death
 
 +Swords and Whatnot
-    Khopesh
-    Claymore
-    Katana
-    Falchion
-    Gladius
-    Cutlass
-    Kukri
-    Cleaver
-    Chef's Knife*
     War Hammer*
-    Glaive
-    Pilum
-    Xiphos
+    Glaive+
+    Sickle
+
     HogSplitter
-    Tachi
-    Nodachi
-    Seax
-    Messer
-    Jian
     Bastard Sword*
-    Longsword
-    Greatsword
-    Zweihander
     Machete
-    Broadsword
-    Scimitar
-    Dao
     Hooksword
-    Flamberge
-    Spatha
-    Wakizashi
-    Tanto
-    +Flail
-    Morningstar
-    Nunchuck
-    Estoc
     Arbalest
-    Arming Sword
+    Arming Sword*
     Kunai
     Urumi
     Haladie
-    Katar
     Mattock
-    Sasumata
     Lasso
-    Puukko
 
     Flechette
+    Javelin
+    Pilum
 
     Pavise
     Scutum
@@ -124,6 +105,7 @@
     Celebrity
     Dame
     Scholar
+    Lunatic
     Savant
 
     Sensei
@@ -191,6 +173,7 @@ Loot
 Debris
 Luggage
 Baggage
+Treasure
 
 Hegemony
 
@@ -278,11 +261,11 @@ Talent
 
 Pledge
 Pact
+Anthem
 
 Tranquil
 Serene
 
-Anthem
 Churn
 Hovel
 Basin
@@ -376,6 +359,8 @@ Effigy
 Totem
 Altar
 Shrine
+Pedestal
+Statue
 
 Catacomb
 Sarcophagus

@@ -278,9 +278,6 @@
             [Food,
                 [Restaurant, Watermill, Windmill, Grocery Store, Bakery, Deli, Butcher's Shop, Greenhouse]
             ],
-            [,
-                []
-            ],
             [Refinery, Menagerie, Zoo, Hospital, Clinic, Forge/Smithy, Laboratory, Stable, Poolhouse, Community Center, Laundromat, Market, School, Jail, Prison, Warehouse, Police Station, Fire House, Clocktower, Hardware Store, Brothel, Planetarium, Casino]
         ],
         [Rooms,
@@ -383,16 +380,22 @@
                     [Tomahawk]
                 ],
                 [Polearms,
-                    [Pike, Halberd, Spear]
+                    [Pike, Halberd, Spear, Sasumata+]
                 ],
                 [Swords,
-                    [Rapier, Talwar]
+                    [Cutlass, Gladius, Katana, Falchion, Rapier, Talwar, Claymore, Jian, Khopesh, Longsword, Greatsword, Zweihander, Dao, Scimitar, Broadsword, Flamberge, Xiphos, Spatha, Estoc, Messer, Nodachi, Daito, Wakizashi, Tachi, Tanto]
                 ],
                 [Hammers/Maces,
-                    [Maul, Sledge, Cudgel, Truncheon, Baton]
+                    [Maul, Sledge, Cudgel, Truncheon, Baton, Morningstar]
                 ],
                 [Daggers,
-                    [Stiletto, Swordbreaker, Kris]
+                    [Stiletto, Swordbreaker, Kris, Katar]
+                ],
+                [Knives,
+                    [Puuko, Seax, Chef's Knife, Cleaver, Kukri]
+                ],
+                [Flails,
+                    [Ball-and-Chain, Nunchuk]
                 ],
             ]
         ],
@@ -412,7 +415,7 @@
             [Pathfinding*,
                 [Astrolabe, Globe, Sextant, Compass]
             ]
-            [Claw Hammer, Screwdriver, Lathe, Planer, Joiner, Awl, Crowbar, Pliers, *Cutter, Scissors, +Knife, Magnifying Glass, Tweezers, Corkscrew, Hatchet, Ladder]
+            [Claw Hammer, Screwdriver, Lathe, Planer, Joiner, Awl, Crowbar, Pliers, *Cutter, Scissors, Magnifying Glass, Tweezers, Corkscrew, Hatchet, Ladder]
         ],
         [Guns,
             [Assault Rifle, Shotgun, Rifle, Submachine Gun, Pistol, Light Machine Gun, Rocket Launcher, Battle Rifle, Minigun, Revolver, Designated Marksman Rifle]
@@ -427,7 +430,7 @@
             [Car,
                 [Pickup, Sedan, SUV, Stationwagon, Van]
             ],
-            [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat]
+            [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat, Hovercraft]
         ],
         [Simple Machines,
             [Loom, Millstones, Printing Press, Screw Press, Quern, Still, Water Wheel, Sawmill]
