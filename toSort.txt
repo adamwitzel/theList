@@ -26,6 +26,10 @@
 +Sandwiches
 +Hairstyles
 +Electronic Parts
++Terms Describing Light
+    Radiant
+    Bright
+    Vibrant
 
 +4 Horsemen
     Conquest
@@ -141,6 +145,10 @@
     Rebel
     Cantor
     Puritan
+    Ventriloquist
+    Hierarch
+    Refugee
+    Runt
 
     Mameluke
     Orphan
@@ -174,6 +182,7 @@ Debris
 Luggage
 Baggage
 Treasure
+Clutter
 
 Hegemony
 
@@ -281,11 +290,9 @@ Patience
 Aristocrat/cracy
 Bureaucrat/cracy
 Dynasty
-Ooze
 Facet
 Gambit
 Prowess
-Runt
 Grotto
 Finesse
 Nuisance
@@ -304,7 +311,6 @@ Dustbunny
 Mote
 Hulk
 Caudaceus
-Flare
 Anubis
 Conundrum
 Squabble
@@ -337,10 +343,50 @@ Crucible
 Icon
 Slag
 Apiary
+Milquetoast
+
+Samovaar
+
+Skirmish
+Fragment
+Shard
+Ingot
+Recipe
+Menu
+
+Calabash
+Tomatillo
+Momoncillo
+Pitaya
+Guarana
+Acai
+Lychee
+Persimmon
+Rambutan
+Salak
+Kiwano
+
+Insignia
+Emblem
+Crest
+Sigil
+Glyph
+Seal
+
+Slime
+Ooze
+Gunk
+Goo
+Silt
+Sludge
+Slush
+Muck
+Mush
 
 Scent
 Smell
 Fragrance
+Aroma
 
 Dock
 Harbor
@@ -371,3 +417,18 @@ Grave
 Coffin
 Casket
 Mausoleum
+
+Flash
+Water, Splash, Cascade, Wave, Bubble
+Acid, Corrosive, Caustic
+Electric, Spark, Shock, Thunder, Bolt
+Earth, Ground, Rock, Stone, Boulder
+Ice, Frost, Icicle, Cryo, Freeze
+Fire, Flame, Flare, Incendiary, Scorch, Conflagration
+
+Animal Sounds
+    [Growl, Hiss, Bark, Scream, Screech, Clap, Yell, Shout, Roar, Shriek, Howl]
+
+Strikes
+    [Kick, Punch, Slap, Bite, Pinch, Headbutt, Swipe, Scratch, Grab, Lick, Hug]
+Body Slam, Tackle, Snarl, Nibble, Chomp
