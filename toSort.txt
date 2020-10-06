@@ -26,7 +26,6 @@
 +Sandwiches
 +Hairstyles
 +Electronic Parts
-+Casino Games
 
 +Armor Parts
     Cuirass
@@ -45,13 +44,6 @@
     Glow
     Sparkle
     Gleam
-
-+4 Horsemen
-    Conquest
-    Famine
-    Pestilence
-    War
-    Death
 
 +Swords and Whatnot
     War Hammer*
@@ -83,7 +75,6 @@
     Curmudgeon
     Ombudsman
     Renegade
-    Commando
     Imposter
     Cannibal
     Savage
@@ -111,6 +102,7 @@
     Consort
     Harlot
     Madam
+    Prostitute
 
     Skirmisher
     Pugilist
@@ -195,113 +187,23 @@
     Philosophy
     Romance
 
-Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag
+Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag, Grime
 
 +Mass Nouns
     Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter
+
++Partial Nouns
+    Fragment, Shard, Iota
 
 Hegemony
 
 Interim
 
-Remark
-Quip
-Comment
-Slogan
-Oath
-Cliché
-Pledge
-Pact
-Anthem
+Quill
+Thorn
+Spike
+Spine
 
-Geode
-Nugget
-
-Heather
-Holly
-Mistletoe
-
-+Textures
-    Rough
-    Smooth
-    Ridged
-    Knurled
-
-Empire
-Kingdom
-Dynasty
-Fiefdom
-Precinct
-
-Hegemon
-
-Scar
-Bruise
-Laceration
-Abrasion
-Scrape
-
-Fracture
-Contusion
-
-Smoke
-Mist
-Steam
-Fog
-
-Serenity
-Tranquility
-Fealty
-Piety
-Stability
-Utility
-Reciprocity
-Verity
-Affinity
-
-+Santa's Reindeer
-    Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
-
-Euphoria
-Nostalgia
-Paranoia
-Dystopia
-
-Pelt
-Fossil
-
-Bluff(Multiple)
-
-Debonair
-Decrepit
-Senile
-Milquetoast
-
-Lamp
-Lantern
-Torch
-
-Quirk
-Talent
-
-Tranquil
-Serene
-
-Churn
-Hovel
-Basin
-Admiralty
-Carnage
-Delicacy
-Commodity
-Trust
-Confidence
-Courage
-Hope
-Patience
-Aristocrat/cracy
-Bureaucrat/cracy
-Dynasty
 Facet
 Gambit
 Prowess
@@ -355,32 +257,16 @@ Icon
 Apiary
 Samovaar
 Skirmish
-Fragment
-Shard
 Ingot
-Recipe
-Menu
-
 Shoal
 Picnic
 Mirage
-Thorn
-Iota
-Device
-Apparatus
-Invention
-Machine
 Premonition
-
-
-
-Fable
 Protocol
 Cocoon
 Sunder
 Rend
 Mettle
-Signet
 Heist
 Mafia
 Mandate
@@ -390,18 +276,9 @@ Error
 Lottery
 Sweepstakes
 Estuary
-Adversary
 Sermon
 Ferry
-Advice
 Estate
-Barrage
-Flurry
-Ministry
-Manuscript
-Certificate
-Quill
-Scallion
 Ailment
 Hiatus
 Raffle
@@ -410,18 +287,121 @@ Grime
 Phenomenon
 Sherpa*
 Fief
-Grimoire
-Mural
 Cuisine
 Grotesque
 Riffraff
 Parcel
 Seminar
-Permit
 Paddock
+Hovel
+Basin
+Carnage
+Delicacy
+Commodity
+
+Barrage
+Flurry
+
+Remark
+Quip
+Comment
+Slogan
+Oath
+Cliché
+Pledge
+Pact
+Anthem
+Advice
+
+Fable
+
+Geode
+Nugget
+
+Heather
+Holly
+Mistletoe
+
++Textures
+    Rough
+    Smooth
+    Ridged
+    Knurled
+
+Empire
+Kingdom
+Dynasty
+Fiefdom
+Precinct
+
+Hegemon
+
+Smoke
+Mist
+Steam
+Fog
+
+Serenity
+Tranquility
+Fealty
+Piety
+Stability
+Utility
+Reciprocity
+Verity
+Affinity
+
++Santa's Reindeer
+    Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
+
+Euphoria
+Nostalgia
+Paranoia
+Dystopia
+
+Pelt
+Fossil
+
+Device
+Apparatus
+Invention
+Machine
+
+Bluff(Multiple)
+
+Debonair
+Decrepit
+Senile
+Milquetoast
+
+Lamp
+Lantern
+Torch
+
+Quirk
+Talent
+
+Tranquil
+Serene
+
+Admiralty
+Aristocracy
+Bureaucracy
+Ministry
+
+Aristocrat
+Bureaucrat
+Adversary
+
+Trust
+Confidence
+Courage
+Hope
+Patience
+
 Caricature
 Portrait
-Poultice
+Mural
 
 Gear
 Sprocket
@@ -429,12 +409,7 @@ Cog
 
 Calabash, Tomatillo, Momoncillo, Pitaya, Guarana, Acai, Lychee, Persimmon, Rambutan, Salak, Kiwano
 
-Insignia
-Emblem
-Crest
-Sigil
-Glyph
-Seal
+Insignia, Emblem, Crest, Sigil, Glyph, Seal, Signet
 
 Scent, Smell, Fragrance, Aroma
 
@@ -469,7 +444,7 @@ Casket
 Mausoleum
 
 Flash
-Water, Splash, Cascade, Wave, Bubble
+Water, Splash, Cascade, Wave, Bubble. Flood
 Acid, Corrosive, Caustic
 Electric, Spark, Shock, Thunder, Bolt
 Earth, Ground, Rock, Stone, Boulder

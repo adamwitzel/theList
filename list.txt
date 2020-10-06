@@ -175,7 +175,7 @@
             [???
                 [Avocado, Coconut, Seaweed, Gourd]
             ],
-            [Peas, Lettuce, Cabbage, Kale, Cauliflower, Broccoli, Cucumber, Artichoke, Asparagus, Eggplant, Collard, Brussel Sprouts, Okra, Rhubarb, Kohlrabi, Celery, Tomato]
+            [Peas, Lettuce, Cabbage, Kale, Cauliflower, Broccoli, Cucumber, Artichoke, Asparagus, Eggplant, Collard, Brussel Sprouts, Okra, Rhubarb, Kohlrabi, Celery, Tomato, Scallion]
         ],
 
         [Staples/Various Crops/Grains,
@@ -298,7 +298,7 @@
             [Constable, Inspector, Commissioner, Chief, Sheriff, Officer, Detective, Agent, Deputy, Warden, Patrolman]
         ],
         [Military,
-            [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon, Commodore]
+            [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon, Commodore, Commando]
         ],
         [Police/Military,
             [Commander, Colonel, Major, Lieutenant, Captain, Cadet, Officer, Recruit, Trooper]
@@ -331,7 +331,7 @@
             [Business,
                 [Accountant, Magnate, Merchant, Client, Landlord, Tenant, Mogul]
             ],
-            [Florist, Prospector, Secretary, Chemist, Lumberjack, Miner, Gladiator, Ranger, Farrier, Realtor]
+            [Florist, Prospector, Secretary, Chemist, Lumberjack, Miner, Gladiator, Ranger, Farrier, Realtor, Attorney]
         ],
         [General,
             [Director, Supervisor, Guard, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Master, Advisor, Administrator, Sergeant, Leader]
@@ -365,6 +365,9 @@
         ],
         [Travel*,
             [Explorer, Nomad, Spelunker, Pilgrim, Immigrant, Pioneer]
+        ],
+        [Age,
+            [Elder, Child, Baby, Infant, Toddler, Teenager, Adult]
         ],
         [Idol, Crusader, Gunslinger, Hunter, Barbarian, Aficionado, Raider, Commissar, Hellion, Aspirant, Vizier, Boatswain, Diviner, Conquistador, Champion, Brigadier, Adversary, Seneschal, Patron, Rascal, Correspondent, Reporter, Cretin, Pariah, Aide, Friend, Acquaintance, Critic, Hooligan, Maiden]
     ],
@@ -402,7 +405,7 @@
         ],
         [Tools,
             [Saws,
-                [Band Saw, Circular Saw, Hack Saw, Pull Saw, Hand Saw]
+                [Band Saw, Circular Saw, Hack Saw, Pull Saw, Hand Saw, Jig Saw, Scroll Saw]
             ],
             [Wrench,
                 [Pipe Wrench, Adjustable Wrench, Crescent Wrench]
@@ -434,7 +437,7 @@
             [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat, Hovercraft]
         ],
         [Simple Machines,
-            [Loom, Millstones, Printing Press, Screw Press, Quern, Still, Water Wheel, Sawmill]
+            [Loom, Millstones, Printing Press, Screw Press, Quern, Still, Water Wheel, Sawmill, Churn]
         ],
         [Furniture,
             [Desk, +Table, Butcher Block, China Cabinet, Rocking Chair, Lawn Chair, Bookcase, Anvil, Sofa, +Piano, Stool, +Bed, Recliner, Workbench, Chest, Safe, Nightstand, Loveseat, Sofa, Couch]
@@ -484,20 +487,20 @@
             ],
             [Headwear,
                 [Crown, Tiara, Diadem]
-            ],
+            ],g
             [Jewelry,
                 [Broach, Pendant, Amulet, Medallion, Anklet, Bracelet, Ring, Necklace, Earring, Watch]
             ],
             [Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pyx, Ciboria, Grail, Scepter, Tapestry, Monocle]
         ],
         [Medicine,
-            [Tonic, Tincture, Potion, Antidote, Vaccine, Salve, Elixir, Poison, Toxin, Venom, Serum, Balm, Ointment]
+            [Tonic, Tincture, Potion, Antidote, Vaccine, Salve, Elixir, Poison, Toxin, Venom, Serum, Balm, Ointment, Poultice]
         ],
         [Disease,
             [Bacteria, Germ, Virus, Parasite, Contagion, Malady, Ailment, Infection]
         ],
         [Documents,
-            [Dossier, Passport, Contract, Itinerary, Gazette, Treaty, Transcript, Memorandum, Codex, Book, Tome, Scroll]
+            [Dossier, Passport, Contract, Itinerary, Gazette, Treaty, Transcript, Memorandum, Codex, Book, Tome, Scroll, Grimoire, Manuscript, Permit, Certificate, Recipe, Menu]
         ],
         [Decorations,
             [Plume, Standard, Tinsel, Finial, Banner]
@@ -544,7 +547,10 @@
             [Walk, Run, Jog, Sulk, Meander]
         ],
         [Damage,
-            [Chip, Crack, Dent, Fracture]
+            [Chip, Crack, Dent, Fracture, Scratch]
+        ],
+        [Injuries,
+            [Scar, Bruise, Laceration, Abrasion, Scrape, Fracture, Contusion, Concussion]
         ],
         [Curio, Threadbare]
     ],
@@ -574,10 +580,10 @@
 
     [Reference,
         [Simple Games,
-            [Cards
-                [Poker, War, Blackjack]
-            ],
             [Chess, Checkers, Tic-Tac-Toe, Sudoku, Crossword, Craps, Darts, Bean Bags, Billiards, *Chinese Checkers (Sternhalma), Dominoes, Go, Risk, Mahjong, Stratego]
+        ],
+        [Casino Games,
+            [Poker, Baccarat, Slots, Blackjack, Roulette, Craps, Keno, Pachinko, Bingo]
         ],
         [Sports,
             [Track and Field,
@@ -611,9 +617,6 @@
         ],
         [Weather Phenomena,
             [Rain, Hail, Blizzard, Cloud+, Dust Devil, Tornado, Fog, Frost, Haboob, Hurricane, Lightning, Thunder, Snow, Rainbow, Cyclone, Typhoon, Monsoon, Corona, Dew, Drizzle, Drought, Flood, Gale, Wind, Gust, Breeze, Sleet, Rime, Sandstorm, Tsunami, Vortex, Waterspout, Whirlwind, Wildfire*]
-        ],
-        [Greek Alphabet,
-            []
         ],
         [Number Prefixes (Greek and Latin),
             []
