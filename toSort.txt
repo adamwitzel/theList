@@ -17,6 +17,35 @@
         +Comedians
         +Directors
 
++Schools of Philosophy
++Types of Art, Mediums, Modern, Impressionism, Cubism
++Systems of Writing
++Types of Dancing
++Types of Calendars
++Geological Eras
++Sandwiches
++Hairstyles
++Electronic Parts
++Casino Games
+
++Armor Parts
+    Cuirass
+    Poleyn
+    Greaves
+    Saboton
+
++Terms Describing Light
+    Radiant
+    Bright
+    Vibrant
+    Flicker
+    Glimmer
+    Shine
+    Dim
+    Glow
+    Sparkle
+    Gleam
+
 +4 Horsemen
     Conquest
     Famine
@@ -24,89 +53,26 @@
     War
     Death
 
-+Tarot Cards
-    The Fool
-    The Magician
-    The High Priestess
-    The Empress
-    The Emperor
-    The Hierophant
-    The Lovers
-    The Chariot
-    Strength
-    The Hermit
-    Wheel of Fortune
-    Justice
-    The Hanged Man
-    Death
-    Temperance
-    The Devil
-    The Tower
-    The Star
-    The Moon
-    The Sun
-    Judgement
-    The World
-
 +Swords and Whatnot
-    Khopesh
-    Rapier
-    Talwar
-    Swordbreaker
-    Claymore
-    +Dagger
-    Stiletto
-    Katana
-    Falchion
-    Gladius
-    Kris Blade*
-    Cutlass
-    Kukri
-    Cleaver
-    Chef's Knife*
-    +Sword
-    +Axe
-    +Spear
     War Hammer*
-    Maul
-    Glaive
-    Sledge
-    Pilum
-    Xiphos
+    Glaive+
+    Sickle
+
     HogSplitter
-    Tachi
-    Nodachi
-    Seax
-    Messer
-    Jian
     Bastard Sword*
-    Longsword
-    Greatsword
-    Zweihander
     Machete
-    Broadsword
-    Scimitar
-    Dao
     Hooksword
-    Flamberge
-    Spatha
-    Wakizashi
-    Tanto
-    +Mace
-    +Flail
-    Morningstar
-    Nunchuck
-    Estoc
     Arbalest
-    Arming Sword
-    Pike
-    Halberd
+    Arming Sword*
     Kunai
     Urumi
-    +Polearm
-    Cudgel
+    Haladie
+    Mattock
+    Lasso
 
     Flechette
+    Javelin
+    Pilum
 
     Pavise
     Scutum
@@ -114,105 +80,123 @@
 
 
 +Titles
-    +Hospitality
-        Concierge
-        Maid
-        Chauffeur
-        Porter
-        Bellhop
-        Butler
+    +Age Titles
+        Elder
+        Baby
+        Child
+        Teenager
 
-    +Maintenance
-        Janitor
-        Custodian
+    Concubine
+    Curmudgeon
+    Minister
+    Steward
+    Reverend
+    Ombudsman
+    Bride
+    Groom
+    Gangster
+    Attorney
+    Ditz
+    Renegade
+    Farrier
+    Realtor
+    Commando
+    Imposter
 
-    Scoudrel
-    Medium
-    Raider
-    Swashbuckler
-    Thug
-    Chronomancer
-    Tactician
-    Duelist
-    Healer
-    Minstrel
-    Celebrity
     Fool
-    Geisha
-    Juggler
-    Diva
-    Puppeteer
-    Scholar
-    Savant
-    Corsair
-    Viking*
-    Scion
-    Mystic
-    Sensei
-    Marksman
+    Stooge
+    Oaf
+
+    Courtesan
+    Consort
+    Harlot
+    Madam
+
     Skirmisher
-    Acrobat
-    Charlatan
     Pugilist
     Brute
-    Invoker
+    Bombardier
+    Viking*
+    Berserker
+    Paladin
+    Samurai
+    Guardian
+    Juggernaut
+
+    Scion
+    Duelist
+
+    Thrall
+    Disciple
+    Prodigy
+    Vassal
+    Pawn
+    Protégé
+    Apprentice
+
     Cannibal
     Savage
-    Vandal
-    Thrall
-    Mogul
-    Icon
+    Genius
     Savior
     Captor
-    Heathen
-    Exorcist
-    Disciple
-    Hegemon
-    Maniac
-    Virtuoso
-    Clown
-    Jinx
-    Prodigy
-    Auditor
-    Mariner
-    Guru
-    Vassal
-    Fugitive
-    Eminence
-    Patron
-    Prophet
-    Emissary
-    Pawn
-    Envoy
-    Marauder
-    Consort
-    Maestro
-    Harbinger
-    Client
-    Herald
-    Madame
-    Landlord
-    Tenant
-    Seamstress
-    Accountant
-    Acrobat
-    Architect
-    Bombardier
-    Carpenter
-    Cartographer
-    Connoisseur
-    Courier
-    Courtesan
-    Florist
-    Fortune Teller
-    Gambler
-    Herbalist
-    Hitman
-    Luthier
-    Mahout
-    Merchant
-    Pharmacist
+    Martyr
+    Trickster
+    Sentry
+    Scallywag
+    Tactician
+    Celebrity
+    Dame
+    Scholar
+    Lunatic
+    Savant
 
+    Sensei
+    Guru
+
+    Charlatan
+
+    Scoundrel
+    Thug
+    Maniac
+    Geisha
+    Jinx
+    Mariner
+
+    Emissary
+    Envoy
+    Courier
+    Messenger
+
+    Eminence
+    Prophet
+
+    Harbinger
+    Herald
+
+    Referee
+    Connoisseur
+    Mahout
+    Meister
+    Chaperone
+    Renegade
+    Recluse
+    Steward
+    Rebel
+    Cantor
+    Puritan
+    Ventriloquist
+    Hierarch
+    Refugee
+    Runt
+
+    Mameluke
+    Orphan
+    Waif
+
+    Psiloi
+    Peltast
+    Toxotai
+    Akontistai
     Rajput
     Dukun
     Kannagi
@@ -231,27 +215,24 @@
     Philosophy
     Romance
 
-Puukko
-Kusanagi
-Kumiho
+Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag
 
-Plunder
-Salvage
-Jetsam
-Flotsam
-Pillage
-Loot
-Debris
-Luggage
-Baggage
++Mass Nouns
+    Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter
 
-Federation
 Hegemony
+
+Interim
 
 Remark
 Quip
 Comment
 Slogan
+Oath
+Cliché
+Pledge
+Pact
+Anthem
 
 Geode
 Nugget
@@ -260,23 +241,11 @@ Heather
 Holly
 Mistletoe
 
-Ancestor
-Step-
-
 +Textures
     Rough
     Smooth
     Ridged
     Knurled
-
-Sarcophagus
-Tomb
-Crypt
-Catacomb
-Grave
-Coffin
-Casket
-Mausoleum
 
 Empire
 Kingdom
@@ -284,19 +253,21 @@ Dynasty
 Fiefdom
 Precinct
 
-Chip
-Crack
-Dent
+Hegemon
 
 Scar
 Bruise
 Laceration
+Abrasion
+Scrape
 
-Plinth
-Monolith
-Monument
+Fracture
+Contusion
 
-Revenant
+Smoke
+Mist
+Steam
+Fog
 
 Serenity
 Tranquility
@@ -309,17 +280,7 @@ Verity
 Affinity
 
 +Santa's Reindeer
-    Dasher
-    Dancer
-    Prancer
-    Vixen
-    Comet
-    Cupid
-    Donner
-    Blitzen
-    Rudolph
-
-Apiary
+    Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
 
 Euphoria
 Nostalgia
@@ -327,26 +288,63 @@ Paranoia
 Dystopia
 
 Pelt
+Fossil
 
 Bluff(Multiple)
-Invasion
+
+Debonair
+Decrepit
+Senile
+Milquetoast
+
+Lamp
+Lantern
+Torch
+
+Quirk
+Talent
+
+Tranquil
+Serene
+
+Churn
+Hovel
+Basin
+Admiralty
+Carnage
+Delicacy
+Commodity
+Trust
+Confidence
+Courage
+Hope
+Patience
+Aristocrat/cracy
+Bureaucrat/cracy
+Dynasty
+Facet
+Gambit
+Prowess
+Grotto
+Finesse
+Nuisance
+Mariachi
+Catechist
+Curfew
+Conclave
 Crisis
 Behemoth
 Bulwark
+Rampart
 Escutcheon
 Ankh
 Echelon
-Hauberk
 Dustbunny
 Mote
-Totem
 Hulk
 Caudaceus
-Finial
-Flare
 Anubis
 Conundrum
-
 Squabble
 Camaraderie
 Mischief
@@ -358,7 +356,6 @@ Aberration
 Bouquet
 Catastrophe
 Spalted
-Fossil
 Requiem
 Mission
 Glory
@@ -367,24 +364,141 @@ Feud
 Vitriol
 Ordeal
 Feast
-Cliché
-Cartel
 Feral
-Debonair
-Decrepit
-Senile
-Serene
+Revenant
 Vortex
-Pact
-Icon
-Slag
-Lamp
-Lantern
-Anthem
-Delicacy
-Quirk
-
-Ointment
-Balm
-
 Glade
+Silhouette
+Paragon
+Crucible
+Icon
+Apiary
+Samovaar
+Skirmish
+Fragment
+Shard
+Ingot
+Recipe
+Menu
+
+Shoal
+Picnic
+Mirage
+Thorn
+Iota
+Device
+Apparatus
+Invention
+Machine
+Premonition
+
+
+
+Fable
+Protocol
+Cocoon
+Sunder
+Rend
+Mettle
+Signet
+Heist
+Mafia
+Mandate
+Glitch
+Blunder
+Error
+Lottery
+Sweepstakes
+Estuary
+Adversary
+Sermon
+Ferry
+Advice
+Estate
+Barrage
+Flurry
+Ministry
+Manuscript
+Certificate
+Quill
+Scallion
+Ailment
+Hiatus
+Raffle
+Ruse
+Grime
+Phenomenon
+Sherpa*
+Fief
+Grimoire
+Mural
+Cuisine
+Grotesque
+Riffraff
+Parcel
+Seminar
+Permit
+Paddock
+Caricature
+Portrait
+Poultice
+
+Gear
+Sprocket
+Cog
+
+Calabash, Tomatillo, Momoncillo, Pitaya, Guarana, Acai, Lychee, Persimmon, Rambutan, Salak, Kiwano
+
+Insignia
+Emblem
+Crest
+Sigil
+Glyph
+Seal
+
+Scent, Smell, Fragrance, Aroma
+
+Dock
+Harbor
+Port
+Quay
+Jetty
+Pier
+Wharf
+Marina
+Berth
+
+Plinth
+Monolith
+Monument
+Effigy
+Totem
+Altar
+Shrine
+Pedestal
+Statue
+
+Catacomb
+Sarcophagus
+Tomb
+Crypt
+Catacomb
+Grave
+Coffin
+Casket
+Mausoleum
+
+Flash
+Water, Splash, Cascade, Wave, Bubble
+Acid, Corrosive, Caustic
+Electric, Spark, Shock, Thunder, Bolt
+Earth, Ground, Rock, Stone, Boulder
+Ice, Frost, Icicle, Cryo, Freeze
+Fire, Flame, Flare, Incendiary, Scorch, Conflagration, Ember
+
+Animal Sounds
+    [Growl, Hiss, Bark, Scream, Screech, Clap, Yell, Shout, Roar, Shriek, Howl]
+
+Strikes
+    [Kick, Punch, Slap, Bite, Pinch, Headbutt, Swipe, Scratch, Grab, Lick, Hug]
+Body Slam, Tackle, Snarl, Nibble, Chomp
