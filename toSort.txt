@@ -80,32 +80,32 @@
 
 
 +Titles
-    +Age Titles
-        Elder
-        Baby
-        Child
-        Teenager
-
-    Concubine
     Curmudgeon
-    Minister
-    Steward
-    Reverend
     Ombudsman
-    Bride
-    Groom
-    Gangster
-    Attorney
-    Ditz
     Renegade
-    Farrier
-    Realtor
     Commando
     Imposter
+    Cannibal
+    Savage
+    Genius
+    Savior
+    Captor
+    Martyr
+    Trickster
+    Sentry
+    Scallywag
+    Tactician
+    Celebrity
+    Dame
+    Scholar
+    Lunatic
+    Savant
+    Steward
 
     Fool
     Stooge
     Oaf
+    Ditz
 
     Courtesan
     Consort
@@ -133,22 +133,6 @@
     Pawn
     Protégé
     Apprentice
-
-    Cannibal
-    Savage
-    Genius
-    Savior
-    Captor
-    Martyr
-    Trickster
-    Sentry
-    Scallywag
-    Tactician
-    Celebrity
-    Dame
-    Scholar
-    Lunatic
-    Savant
 
     Sensei
     Guru
@@ -193,10 +177,6 @@
     Orphan
     Waif
 
-    Psiloi
-    Peltast
-    Toxotai
-    Akontistai
     Rajput
     Dukun
     Kannagi

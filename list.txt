@@ -331,19 +331,19 @@
             [Business,
                 [Accountant, Magnate, Merchant, Client, Landlord, Tenant, Mogul]
             ],
-            [Florist, Prospector, Secretary, Chemist, Lumberjack, Miner, Gladiator, Ranger]
+            [Florist, Prospector, Secretary, Chemist, Lumberjack, Miner, Gladiator, Ranger, Farrier, Realtor]
         ],
         [General,
             [Director, Supervisor, Guard, EOD, Technician, Overseer, Warrant Officer, Petty Officer, Master, Advisor, Administrator, Sergeant, Leader]
         ],
         [Roman/Greek,
-            [Legate, Tribune, Praefect, Centurion, Praetorian, Spartan, Hoplite]
+            [Legate, Tribune, Praefect, Centurion, Praetorian, Spartan, Hoplite, Psiloi, Peltast, Toxotai, Akontistai]
         ],
         [Governmental,
             [Regent, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman, Castellan, Shogun, Tyrant]
         ],
         [Religious,
-            [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Reverend, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot]
+            [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot, Minister]
         ],
         [Cavalry,
             [Lancer, Cavalier, Hussar, Cataphract, Uhlan]
@@ -358,10 +358,10 @@
             [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder, Dragoon]
         ],
         [Familial,
-            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband, Ancestor, Step-]
+            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband, Ancestor, Step-, Bride, Groom, Concubine]
         ],
         [Crime,
-            [Criminal, Convict, Villain, Culprit, Hitman, Fugitive, Vandal, Brigand, Highwayman, Bandit, Thief]
+            [Criminal, Convict, Villain, Culprit, Hitman, Fugitive, Vandal, Brigand, Highwayman, Bandit, Thief, Gangster]
         ],
         [Travel*,
             [Explorer, Nomad, Spelunker, Pilgrim, Immigrant, Pioneer]
