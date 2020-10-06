@@ -26,10 +26,25 @@
 +Sandwiches
 +Hairstyles
 +Electronic Parts
++Casino Games
+
++Armor Parts
+    Cuirass
+    Poleyn
+    Greaves
+    Saboton
+
 +Terms Describing Light
     Radiant
     Bright
     Vibrant
+    Flicker
+    Glimmer
+    Shine
+    Dim
+    Glow
+    Sparkle
+    Gleam
 
 +4 Horsemen
     Conquest
@@ -65,6 +80,29 @@
 
 
 +Titles
+    +Age Titles
+        Elder
+        Baby
+        Child
+        Teenager
+
+    Concubine
+    Curmudgeon
+    Minister
+    Steward
+    Reverend
+    Ombudsman
+    Bride
+    Groom
+    Gangster
+    Attorney
+    Ditz
+    Renegade
+    Farrier
+    Realtor
+    Commando
+    Imposter
+
     Fool
     Stooge
     Oaf
@@ -135,6 +173,7 @@
     Harbinger
     Herald
 
+    Referee
     Connoisseur
     Mahout
     Meister
@@ -154,6 +193,10 @@
     Orphan
     Waif
 
+    Psiloi
+    Peltast
+    Toxotai
+    Akontistai
     Rajput
     Dukun
     Kannagi
@@ -172,17 +215,10 @@
     Philosophy
     Romance
 
-Plunder
-Salvage
-Jetsam
-Flotsam
-Pillage
-Loot
-Debris
-Luggage
-Baggage
-Treasure
-Clutter
+Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag
+
++Mass Nouns
+    Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter
 
 Hegemony
 
@@ -193,6 +229,10 @@ Quip
 Comment
 Slogan
 Oath
+Cliché
+Pledge
+Pact
+Anthem
 
 Geode
 Nugget
@@ -221,6 +261,9 @@ Laceration
 Abrasion
 Scrape
 
+Fracture
+Contusion
+
 Smoke
 Mist
 Steam
@@ -237,15 +280,7 @@ Verity
 Affinity
 
 +Santa's Reindeer
-    Dasher
-    Dancer
-    Prancer
-    Vixen
-    Comet
-    Cupid
-    Donner
-    Blitzen
-    Rudolph
+    Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
 
 Euphoria
 Nostalgia
@@ -260,6 +295,7 @@ Bluff(Multiple)
 Debonair
 Decrepit
 Senile
+Milquetoast
 
 Lamp
 Lantern
@@ -267,10 +303,6 @@ Torch
 
 Quirk
 Talent
-
-Pledge
-Pact
-Anthem
 
 Tranquil
 Serene
@@ -332,7 +364,6 @@ Feud
 Vitriol
 Ordeal
 Feast
-Cliché
 Feral
 Revenant
 Vortex
@@ -341,12 +372,8 @@ Silhouette
 Paragon
 Crucible
 Icon
-Slag
 Apiary
-Milquetoast
-
 Samovaar
-
 Skirmish
 Fragment
 Shard
@@ -354,17 +381,73 @@ Ingot
 Recipe
 Menu
 
-Calabash
-Tomatillo
-Momoncillo
-Pitaya
-Guarana
-Acai
-Lychee
-Persimmon
-Rambutan
-Salak
-Kiwano
+Shoal
+Picnic
+Mirage
+Thorn
+Iota
+Device
+Apparatus
+Invention
+Machine
+Premonition
+
+
+
+Fable
+Protocol
+Cocoon
+Sunder
+Rend
+Mettle
+Signet
+Heist
+Mafia
+Mandate
+Glitch
+Blunder
+Error
+Lottery
+Sweepstakes
+Estuary
+Adversary
+Sermon
+Ferry
+Advice
+Estate
+Barrage
+Flurry
+Ministry
+Manuscript
+Certificate
+Quill
+Scallion
+Ailment
+Hiatus
+Raffle
+Ruse
+Grime
+Phenomenon
+Sherpa*
+Fief
+Grimoire
+Mural
+Cuisine
+Grotesque
+Riffraff
+Parcel
+Seminar
+Permit
+Paddock
+Caricature
+Portrait
+Poultice
+
+Gear
+Sprocket
+Cog
+
+Calabash, Tomatillo, Momoncillo, Pitaya, Guarana, Acai, Lychee, Persimmon, Rambutan, Salak, Kiwano
 
 Insignia
 Emblem
@@ -373,20 +456,7 @@ Sigil
 Glyph
 Seal
 
-Slime
-Ooze
-Gunk
-Goo
-Silt
-Sludge
-Slush
-Muck
-Mush
-
-Scent
-Smell
-Fragrance
-Aroma
+Scent, Smell, Fragrance, Aroma
 
 Dock
 Harbor
@@ -424,7 +494,7 @@ Acid, Corrosive, Caustic
 Electric, Spark, Shock, Thunder, Bolt
 Earth, Ground, Rock, Stone, Boulder
 Ice, Frost, Icicle, Cryo, Freeze
-Fire, Flame, Flare, Incendiary, Scorch, Conflagration
+Fire, Flame, Flare, Incendiary, Scorch, Conflagration, Ember
 
 Animal Sounds
     [Growl, Hiss, Bark, Scream, Screech, Clap, Yell, Shout, Roar, Shriek, Howl]

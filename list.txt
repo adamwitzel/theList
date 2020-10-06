@@ -397,6 +397,7 @@
                 [Flails,
                     [Ball-and-Chain, Nunchuk]
                 ],
+                []
             ]
         ],
         [Tools,
@@ -567,7 +568,7 @@
         [Schools/Fields of Magic,
             [Horoscope, Hex, Conjuration, Necromancy, Elemental, Charm, Translocation, Summoning, Transmutation, Divination, Transfiguration, Healing, Illusion, Enchanting, Invocation, Alteration, Abjuration, Alchemy, Auras, Runes, Chakras, Astrology, Palmistry, Ritualism, Voodoo, Animancy, Incantation, Mysticism, Shamanism, Tasseography, Scrying]
         ],
-        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice, Mediation, Rite*, Prayer, Blessing, Talisman, Jinx, Glamour]
+        [Spell, Miracle, Ritual, Prophecy, Curse, Ley Line, Aura, Séance, Karma, Premonition, Sacrifice, Meditation, Rite*, Prayer, Blessing, Talisman, Jinx, Glamour]
     ],
 
 
