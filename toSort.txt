@@ -359,7 +359,7 @@ Apparatus
 Invention
 Machine
 
-Bluff(Multiple)
+Bluff(Social)
 
 Debonair
 Decrepit

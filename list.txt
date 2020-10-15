@@ -249,7 +249,13 @@
         ],
         [Geographic Features,
             [Land
-                [Plateau, Isthmus, Peninsula, Archipelago, Crater, Hill, Mountain, Cliff, Valley, Dune, Plain, Island, Cape, Shoal, Mesa, Cave, Canyon, Butte, Arch, Pass, Meadow, Ravine, Ridge, Gully, Caldera, Atoll, Flat, *Terrace, Lava Tube]
+                [Positive,
+                    [Isthmus, Peninsula, Hill, Mountain, Dune, Arch, Pass, Mesa, Butte, Plateau, Archipelago, Cliff, Island, Cape, Ridge]
+                ],
+                [Negative,
+                    [Crater, Valley, Cave, Canyon, Ravine, Gully, Caldera, Lava Tube]
+                ]
+                [Plain*, Shoal, Meadow*, Atoll, Flat, *Terrace, Bluff]
             ],
             [Water
                 [Fjord, Ocean, Sea, Lake, Bay, Lagoon, River, Stream, Creek, Pond, Channel, Reef, Strait, Bayou, Rapid, Waterfall, Cove, Gulf, Brook, *Reservoir, *Canal, Oxbow Lake]
