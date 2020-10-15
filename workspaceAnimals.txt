@@ -1,0 +1,109 @@
+[Birds,
+    [Raptors,
+        [Hawk, Eagle, Kestrel, Owl, Vulture, Eagle, Osprey, Buzzard, Harrier, Kite, Condor, Goshawk]
+    ],
+    [Ground,
+        [Emu, Ostrich, Rhea, Cassowary]
+    ],
+    [(Non-Passerines),
+        [Kiwi]
+    ],
+    [Gamebirds,
+        [Guineafowl, Quail, Grouse, Partridge, *Tragopan, Pheasant, Peafowl, Turkey]
+    ],
+    [Waterfowl,
+        [Goose, Swan, Duck]
+    ],
+    [Parrots,
+        [Parakeet]
+    ],
+    [+Passerines, *Plover, Snipe, Gull, *Tinamou, *Lapwing, Sandpiper, Tern, *Sandgrouse, Pigeon, Dove, Stork, Spoonbill, Heron, Egret, Flamingo, Cormorant, Pelican, Booby, Bustard, Crane, *Turaco, Cuckoo, Roadrunner, Frogmouth, *Nightjar, Hummingbird, Swift, Quetzal, Woodpecker, Toucan, Secretarybird, +Penguin, Loon, Albatross, Petrel, Grebe, Crane]
+],
+[Insects,
+    [Ant, Bee, Wasp, Moth, +Butterfly, Ladybug, +Beetle, Weevil, Hornet, +Fly, Mantis, Dragonfly, Cricket, Grasshopper, Locust, Cicada, Pillbug, Centipede, Millipede, Spider, Scorpion]
+],
+[Large Herbivores,
+    [Elephant, Gazelle, Deer, Antelope, Musk Ox, Giraffe, Zebra, Buffalo, Bison, Hippo, Caribou, Elk, Moose, Camel+, Kangaroo, Boar, Gorilla, Okapi, Yak, Manatee]
+],
+[Livestock,
+    [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
+],
+[Primates,
+    [Chimpanzee, Gorilla, Orangutan]
+],
+[Reptiles,
+    []
+],
+[Predators(Large Land Mammals),
+    [Bears,
+        [Polar Bear, Panda, Black Bear, Grizzly Bear, Brown Bear, Spectacled Bear]
+    ],
+    [Cats,
+        [Lion, Leopard, Jaguar, Cougar/Mountain Lion/Puma, Tiger, Bobcat/Lynx, Cheetah, Civet, Hyena]
+    ],
+    [Fox, Wolf, Coyote, Ferret, Weasel, Mink, Badger, Jackal, Wolverine, Dingo]
+],
+[Aquatic Animals,
+    [Fish,
+        [Tropical (Pretty + not food),
+            [Tetra, Guppy, Clownfish, Tang, Platy]
+        ],
+        [Catfish, Lungfish, Lionfish, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
+    ],
+    [Mollusk,
+        [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish, Cockle, Winkle, Whelk, Cowrie]
+    ],
+    [Crustacean,
+        [Shrimp, Lobster, +Crab, Hermit Crab, Crayfish, Horseshoe Crab]
+    ],
+    [Amphibian,
+        [Frog, Salamander, Toad]
+    ],
+    [Sharks,
+        [Tiger Shark, Whale Shark, Nurse Shark, Great White Shark, Mako Shark, Blacktip Shark]
+    ],
+    [Rays,
+        [Stingray, Manta Ray]
+    ],
+    [Nautilus, Seahorse, Starfish, Jellyfish, Sea Urchin]
+],
+
+
+[Animals,
+    [Vertebrate
+        [Amphibians,
+            []
+        ],
+        [Reptiles,
+            []
+        ],
+        [Birds,
+            []
+        ],
+        [Mammals,
+            []
+        ],
+        [Fish,
+            []
+        ],
+    ],
+    [Invertebrate
+        [Crustaceans,
+            []
+        ],
+        [Bugs (insects+Arachnids+Centipedes),
+            []
+        ],
+
+        [Mollusks,
+            []
+        ],
+        [,
+            []
+        ],
+        [Cnidaria:Jellyfish+anemome, echidnoderms:Starfish, ]
+    ],
+
+
+
+]

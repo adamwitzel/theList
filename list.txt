@@ -663,6 +663,56 @@
 
 
     [Folklore/Myths,
+        [Fantasy Animals/Creatures/Races,
+            [Humanoid - Tiny,
+                [Fairy + Tooth Fairy, Pixie]
+            ],
+            [Humanoid - Small,
+                [Halfling, Gnome, Leprechaun]
+            ],
+            [Humanoid - Medium,
+                [Human, Elf, Dwarf, Orc, Drow]
+            ],
+            [Humanoid - Large,
+                [Ogre, Giant, Cyclops]
+            ],
+            [Undead,
+                [Zombie, Skeleton + Grim Reaper, Mummy, Ghost, Lich, Draugr, Wight, Wraith, Shade]
+            ],
+            [Draconic,
+                [Dragon, Wyrm, Wyvern, *Basilisk, Hydra, Hydra, Amphiptere]
+            ],
+            [Half-Humanoids,
+                [Minotaur, Gorgon, Satyr, Sphinx, Centaur, Merfolk, *Werewolf, Naga, Harpy]
+            ],
+            [*Corrupted,
+                [Troll, Goblin, Hobgoblin, Gremlin, Chupacabra]
+            ],
+            [Demonic,
+                [Hellhound, Demon, Devil, Imp, Satan, Oni, Ifrit]
+            ],
+            [Equine,
+                [Pegasus, Hippocampus, Unicorn]
+            ],
+            [Mystic,
+                [Genie, Elemental, Will O'Wisp]
+            ],
+            [Angelic,
+                [Angels,
+                    [Seraph]
+                ]
+            ],
+            [Hybrids,
+                [Chimera, Cerberus, Hippogriff, Griffon, Jackalope, Gargoyle, Cockatrice, Manticore]
+            ],
+            [Enchantments/Constructs/Compelled,
+                [Golem, Mimic, *Automaton, *Ent, *Slime, Scarecrow]
+            ],
+            [Uniques,
+                [Headless Horseman, Jack Frost, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
+            ]
+            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Jack O'Lantern, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus*, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Banshee, Succubus, Valkyrie, Leviathan, Charybdis/Scylla, Spriggan, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Gorgon, Incubus, Siren, Kitsune, Kumiho, Phantom, Alebrije, Quetzalcoatl, Kirin]
+        ],
         [Artifacts,
             [Kusanagi, Ark of the Covenant, Magic Beans, Excalibur, Sword in the Stone, *Flying Carpet, Turin Shroud, Lance of Longinus, Fountain of Youth, Mjolnir, Holy Grail, Naegling, Legbiter, Gungnir, Devil's Pitchfork, Caduceus, Vajra, Aryo, Naglfar, Flying Dutchman, Pandora's Box, Gjallarhorn, Golden Fleece, Skeleton Key, Gae Bolg, Aegis]
         ],
