@@ -17,41 +17,21 @@
         +Comedians
         +Directors
 
-+Schools of Philosophy
 +Types of Art, Mediums, Modern, Impressionism, Cubism
-+Systems of Writing
 +Types of Dancing
-+Types of Calendars
-+Geological Eras
 +Sandwiches
 +Hairstyles
 +Electronic Parts
-+Casino Games
 
 +Armor Parts
     Cuirass
     Poleyn
     Greaves
     Saboton
+    Pauldron
 
 +Terms Describing Light
-    Radiant
-    Bright
-    Vibrant
-    Flicker
-    Glimmer
-    Shine
-    Dim
-    Glow
-    Sparkle
-    Gleam
-
-+4 Horsemen
-    Conquest
-    Famine
-    Pestilence
-    War
-    Death
+    Radiant, Bright, Vibrant, Flicker, Glimmer, Shine, Dim, Glow, Sparkle, Gleam
 
 +Swords and Whatnot
     War Hammer*
@@ -80,37 +60,54 @@
 
 
 +Titles
-    +Age Titles
-        Elder
-        Baby
-        Child
-        Teenager
-
-    Concubine
     Curmudgeon
-    Minister
-    Steward
-    Reverend
     Ombudsman
-    Bride
-    Groom
-    Gangster
-    Attorney
-    Ditz
     Renegade
-    Farrier
-    Realtor
-    Commando
     Imposter
+    Cannibal
+    Savage
+    Genius
+    Savior
+    Captor
+    Martyr
+    Trickster
+    Sentry
+    Scallywag
+    Tactician
+    Celebrity
+    Dame
+    Scholar
+    Lunatic
+    Savant
+    Steward
+    Aristocrat
+    Bureaucrat
+    Referee
+    Connoisseur
+    Mahout
+    Meister
+    Chaperone
+    Renegade
+    Recluse
+    Steward
+    Rebel
+    Hierarch
+    Refugee
+    Runt
+
+    Adversary
+    Rival
 
     Fool
     Stooge
     Oaf
+    Ditz
 
     Courtesan
     Consort
     Harlot
     Madam
+    Prostitute
 
     Skirmisher
     Pugilist
@@ -133,22 +130,6 @@
     Pawn
     Protégé
     Apprentice
-
-    Cannibal
-    Savage
-    Genius
-    Savior
-    Captor
-    Martyr
-    Trickster
-    Sentry
-    Scallywag
-    Tactician
-    Celebrity
-    Dame
-    Scholar
-    Lunatic
-    Savant
 
     Sensei
     Guru
@@ -173,30 +154,10 @@
     Harbinger
     Herald
 
-    Referee
-    Connoisseur
-    Mahout
-    Meister
-    Chaperone
-    Renegade
-    Recluse
-    Steward
-    Rebel
-    Cantor
-    Puritan
-    Ventriloquist
-    Hierarch
-    Refugee
-    Runt
-
     Mameluke
     Orphan
     Waif
 
-    Psiloi
-    Peltast
-    Toxotai
-    Akontistai
     Rajput
     Dukun
     Kannagi
@@ -215,113 +176,23 @@
     Philosophy
     Romance
 
-Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag
+Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag, Grime
 
 +Mass Nouns
     Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter
+
++Partial Nouns
+    Fragment, Shard, Iota
 
 Hegemony
 
 Interim
 
-Remark
-Quip
-Comment
-Slogan
-Oath
-Cliché
-Pledge
-Pact
-Anthem
+Quill
+Thorn
+Spike
+Spine
 
-Geode
-Nugget
-
-Heather
-Holly
-Mistletoe
-
-+Textures
-    Rough
-    Smooth
-    Ridged
-    Knurled
-
-Empire
-Kingdom
-Dynasty
-Fiefdom
-Precinct
-
-Hegemon
-
-Scar
-Bruise
-Laceration
-Abrasion
-Scrape
-
-Fracture
-Contusion
-
-Smoke
-Mist
-Steam
-Fog
-
-Serenity
-Tranquility
-Fealty
-Piety
-Stability
-Utility
-Reciprocity
-Verity
-Affinity
-
-+Santa's Reindeer
-    Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
-
-Euphoria
-Nostalgia
-Paranoia
-Dystopia
-
-Pelt
-Fossil
-
-Bluff(Multiple)
-
-Debonair
-Decrepit
-Senile
-Milquetoast
-
-Lamp
-Lantern
-Torch
-
-Quirk
-Talent
-
-Tranquil
-Serene
-
-Churn
-Hovel
-Basin
-Admiralty
-Carnage
-Delicacy
-Commodity
-Trust
-Confidence
-Courage
-Hope
-Patience
-Aristocrat/cracy
-Bureaucrat/cracy
-Dynasty
 Facet
 Gambit
 Prowess
@@ -374,74 +245,151 @@ Crucible
 Icon
 Apiary
 Samovaar
-Skirmish
-Fragment
-Shard
 Ingot
-Recipe
-Menu
-
 Shoal
-Picnic
-Mirage
-Thorn
-Iota
-Device
-Apparatus
-Invention
-Machine
-Premonition
-
-
-
-Fable
 Protocol
 Cocoon
 Sunder
 Rend
 Mettle
-Signet
 Heist
 Mafia
-Mandate
 Glitch
 Blunder
 Error
 Lottery
 Sweepstakes
 Estuary
-Adversary
-Sermon
 Ferry
-Advice
 Estate
-Barrage
-Flurry
-Ministry
-Manuscript
-Certificate
-Quill
-Scallion
 Ailment
 Hiatus
 Raffle
 Ruse
-Grime
+
+Needle
+Pin
+Thimble
+
 Phenomenon
+Mirage
+Premonition
+
 Sherpa*
 Fief
-Grimoire
-Mural
 Cuisine
 Grotesque
 Riffraff
 Parcel
 Seminar
-Permit
 Paddock
+Hovel
+Basin
+Carnage
+Delicacy
+Commodity
+
+Barrage
+Flurry
+
+Remark
+Quip
+Comment
+Slogan
+Oath
+Cliché
+Pledge
+Pact
+Anthem
+Advice
+Sermon
+Mandate
+
+Fable
+
+Geode
+Nugget
+
+Heather
+Holly
+Mistletoe
+
++Textures
+    Rough
+    Smooth
+    Ridged
+    Knurled
+
+Empire
+Kingdom
+Dynasty
+Fiefdom
+Precinct
+
+Hegemon
+
+Smoke
+Mist
+Steam
+Fog
+
+Serenity
+Tranquility
+Fealty
+Piety
+Stability
+Utility
+Reciprocity
+Verity
+Affinity
+
++Santa's Reindeer
+    Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
+
+Euphoria
+Nostalgia
+Paranoia
+Dystopia
+
+Pelt
+Fossil
+
+Device
+Apparatus
+Invention
+Machine
+
+Bluff(Multiple)
+
+Debonair
+Decrepit
+Senile
+Milquetoast
+
+Lamp
+Lantern
+Torch
+
+Quirk
+Talent
+
+Tranquil
+Serene
+
+Admiralty
+Aristocracy
+Bureaucracy
+Ministry
+
+Trust
+Confidence
+Courage
+Hope
+Patience
+
 Caricature
 Portrait
-Poultice
+Mural
 
 Gear
 Sprocket
@@ -449,12 +397,7 @@ Cog
 
 Calabash, Tomatillo, Momoncillo, Pitaya, Guarana, Acai, Lychee, Persimmon, Rambutan, Salak, Kiwano
 
-Insignia
-Emblem
-Crest
-Sigil
-Glyph
-Seal
+Insignia, Emblem, Crest, Sigil, Glyph, Seal, Signet
 
 Scent, Smell, Fragrance, Aroma
 
@@ -489,7 +432,7 @@ Casket
 Mausoleum
 
 Flash
-Water, Splash, Cascade, Wave, Bubble
+Water, Splash, Cascade, Wave, Bubble. Flood
 Acid, Corrosive, Caustic
 Electric, Spark, Shock, Thunder, Bolt
 Earth, Ground, Rock, Stone, Boulder
