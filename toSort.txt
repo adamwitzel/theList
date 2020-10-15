@@ -17,12 +17,8 @@
         +Comedians
         +Directors
 
-+Schools of Philosophy
 +Types of Art, Mediums, Modern, Impressionism, Cubism
-+Systems of Writing
 +Types of Dancing
-+Types of Calendars
-+Geological Eras
 +Sandwiches
 +Hairstyles
 +Electronic Parts
@@ -32,18 +28,10 @@
     Poleyn
     Greaves
     Saboton
+    Pauldron
 
 +Terms Describing Light
-    Radiant
-    Bright
-    Vibrant
-    Flicker
-    Glimmer
-    Shine
-    Dim
-    Glow
-    Sparkle
-    Gleam
+    Radiant, Bright, Vibrant, Flicker, Glimmer, Shine, Dim, Glow, Sparkle, Gleam
 
 +Swords and Whatnot
     War Hammer*
@@ -92,6 +80,23 @@
     Lunatic
     Savant
     Steward
+    Aristocrat
+    Bureaucrat
+    Referee
+    Connoisseur
+    Mahout
+    Meister
+    Chaperone
+    Renegade
+    Recluse
+    Steward
+    Rebel
+    Hierarch
+    Refugee
+    Runt
+
+    Adversary
+    Rival
 
     Fool
     Stooge
@@ -148,22 +153,6 @@
 
     Harbinger
     Herald
-
-    Referee
-    Connoisseur
-    Mahout
-    Meister
-    Chaperone
-    Renegade
-    Recluse
-    Steward
-    Rebel
-    Cantor
-    Puritan
-    Ventriloquist
-    Hierarch
-    Refugee
-    Runt
 
     Mameluke
     Orphan
@@ -256,12 +245,8 @@ Crucible
 Icon
 Apiary
 Samovaar
-Skirmish
 Ingot
 Shoal
-Picnic
-Mirage
-Premonition
 Protocol
 Cocoon
 Sunder
@@ -269,22 +254,27 @@ Rend
 Mettle
 Heist
 Mafia
-Mandate
 Glitch
 Blunder
 Error
 Lottery
 Sweepstakes
 Estuary
-Sermon
 Ferry
 Estate
 Ailment
 Hiatus
 Raffle
 Ruse
-Grime
+
+Needle
+Pin
+Thimble
+
 Phenomenon
+Mirage
+Premonition
+
 Sherpa*
 Fief
 Cuisine
@@ -312,6 +302,8 @@ Pledge
 Pact
 Anthem
 Advice
+Sermon
+Mandate
 
 Fable
 
@@ -388,10 +380,6 @@ Admiralty
 Aristocracy
 Bureaucracy
 Ministry
-
-Aristocrat
-Bureaucrat
-Adversary
 
 Trust
 Confidence

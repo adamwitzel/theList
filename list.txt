@@ -149,7 +149,7 @@
                 [Strawberry, Blueberry, Cherry, Raspberry, Blackberry, Cranberry, Huckleberry, Lingonberry, Boysenberry, Mulberry, Elderberry, Gooseberry, Acai]
             ],
             [???
-                [Coconut, Coffee, Cocoa, Lychee, Olive, Rhubarb, Tamarind, Agave]
+                [Coconut, Coffee, Cocoa, Lychee, Olive, Tamarind, Agave]
             ],
             [Grape, Mango, Passionfruit, Starfruit, Watermelon, Plum, Pomegranate, Fig, Currant, Guava, Kiwi, Date, Persimmon, Plantain, Papaya, Durian, Dragonfruit, Rambutan, Apple, Banana, Pear, Pineapple]
         ],
@@ -317,7 +317,7 @@
                 [Janitor, Custodian, Mechanic]
             ],
             [Entertainment,
-                [Composer, Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician]
+                [Composer, Virtuoso, Maestro, Diva, Clown, Acrobat, Minstrel, Puppeteer, Carny, Bard, Magician, Ventriloquist]
             ],
             [Medicine,
                 [Pharmacist, Doctor, Surgeon, Nurse, Herbalist, Apothecary, Orderly, Medic, Counselor]
@@ -343,7 +343,7 @@
             [Regent, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman, Castellan, Shogun, Tyrant]
         ],
         [Religious,
-            [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot, Minister]
+            [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot, Minister, Cantor, Puritan]
         ],
         [Cavalry,
             [Lancer, Cavalier, Hussar, Cataphract, Uhlan]
@@ -535,7 +535,7 @@
             [Guild, Association, Ministry, Department, Corporation, Agency, Bureau, League, Team, Clan, Tribe, Council, Court, Organization, Administration, Commission, Academy, Institute, Cult, Alliance, Festival, Fair, Protest, Committee, Sect, Ensemble, Consortium, Cult, Cartel, Federation]
         ],
         [Events (More than action),
-            [Revolt, Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist, Gala, Luncheon, Debate, Bonanza, Marathon]
+            [Revolt, Exhibition, Jubilee, Jamboree, Coronation, Invasion, Vigil, Masquerade, Circus, Parade, Luncheon, Heist, Gala, Luncheon, Debate, Bonanza, Marathon, Picnic, Skirmish]
         ],
         [Fields of Science,
             [Botany, Chemistry, Physics, Anatomy, Physiology, Biology, Archaeology, Paleontology, *Mathematics, Metallurgy, Psychology, Oceanology, Ecology, Geology, Zoology, Astronomy]
@@ -547,7 +547,7 @@
             [Walk, Run, Jog, Sulk, Meander]
         ],
         [Damage,
-            [Chip, Crack, Dent, Fracture, Scratch]
+            [Chip, Crack, Dent, Fracture, Scratch, Ding]
         ],
         [Injuries,
             [Scar, Bruise, Laceration, Abrasion, Scrape, Fracture, Contusion, Concussion]
