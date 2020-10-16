@@ -25,24 +25,6 @@
 [Livestock,
     [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
 ],
-[Primates,
-    [Chimpanzee, Gorilla, Orangutan]
-],
-[Aquatic Animals,
-    [Fish,
-        [Tropical (Pretty + not food),
-            [Tetra, Guppy, Clownfish, Tang, Platy]
-        ],
-        [Catfish, Lungfish, Lionfish, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
-    ],
-    [Sharks,
-        [Tiger Shark, Whale Shark, Nurse Shark, Great White Shark, Mako Shark, Blacktip Shark]
-    ],
-    [Rays,
-        [Stingray, Manta Ray]
-    ],
-    [Nautilus, Seahorse, Starfish, Jellyfish, Sea Urchin]
-],
 
 
 [Animals,
@@ -51,7 +33,18 @@
             [Frog, Salamander, Toad]
         ],
         [Reptiles,
-            []
+            [Turtles,
+                []
+            ],
+            [Lizards,
+                []
+            ],
+            [Snakes,
+                []
+            ],
+            [Crocodilians,
+                [Alligator, Crocodile, Gharial]
+            ]
         ],
         [Birds,
             []
@@ -67,12 +60,23 @@
                 [Canines,
                     [Wolf, Fox, Coyote, Dog, Jackal, Dingo]
                 ],
-                [Ferret, Weasel, Mink, Badger, Wolverine]
-            ]
+                [Ferret, Weasel, Mink, Badger, Wolverine, Seal, Sea Lion]
+            ],
+            [Primates,
+                [Chimpanzee, Gorilla, Orangutan, Lemur, Loris, Tarsier, Gibbon]
+            ],
+
         ],
         [Fish,
-            []
-        ],
+            [Sharks,
+                [Tiger Shark, Whale Shark, Nurse Shark, Great White Shark, Mako Shark, Blacktip Shark]
+            ],
+            [Rays,
+                [Stingray, Manta Ray]
+            ],
+            [Catfish, Seahorse, Lungfish, Lionfish, Tetra, Guppy, Clownfish, Tang, Platy, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
+        ]
+
     ],
     [Invertebrate
         [Crustaceans,
@@ -83,12 +87,15 @@
         ],
 
         [Mollusks,
-            [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish, Cockle, Winkle, Whelk, Cowrie]
+            [Clam, Mussel, Oyster, Snail, Cockle, Winkle, Whelk, Cowrie],
+            [Cephalopods,
+                [Octopus, Squid, Cuttlefish, Nautilus]
+            ]
         ],
         [,
             []
         ],
-        [Cnidaria:Jellyfish+anemome, echidnoderms:Starfish, ]
+        [Cnidaria:Jellyfish+anemome, echidnoderms:Starfish, Starfish, Jellyfish, Sea Urchin]
     ],
 
 
