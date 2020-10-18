@@ -12,7 +12,7 @@
                 [Iguana, Chameleon, Tuatara, Gecko, Skink, Monitor]
             ],
             [Snakes,
-                [Adder, Anaconda, Asp, Python, Boa, Cobra, Viper, Krait, Mamba, Rattlesnake, Sidewinder, Taipan, ]
+                [Adder, Anaconda, Asp, Python, Boa, Cobra, Viper, Krait, Mamba, Rattlesnake, Sidewinder, Taipan]
             ],
             [Crocodilians,
                 [Alligator, Crocodile, Gharial]
@@ -46,7 +46,7 @@
                     [Polar Bear, Panda, Black Bear, Grizzly Bear, Brown Bear, Spectacled Bear]
                 ],
                 [Cats,
-                    [Lion, Leopard, Jaguar, Cougar/Mountain Lion/Puma, Tiger, Bobcat/Lynx, Cheetah, Civet, Hyena]
+                    [Lion, Leopard, Jaguar, Cougar/Mountain Lion/Puma, Tiger, Bobcat/Lynx, Cheetah, Civet, Hyena, Housecat]
                 ],
                 [Canines,
                     [Wolf, Fox, Coyote, Dog, Jackal, Dingo]
@@ -66,7 +66,7 @@
                 []
             ],
             [Even-Toed Hooved,
-                [Gazelle, Antelope, Muskox, Camel, Llama, Pig, Peccary, Hippo, Pronghorn, Okapi, Deer, Caribou, Reindeer, Elk, Pudu, Moose, Bison, Buffalo, Cattle, Impala, Sheep, Ibex, Goat, Wildebeest, Oryx, Boar, Yak]
+                [Gazelle, Antelope, Muskox, Camel, Llama, Pig, Peccary, Hippo, Pronghorn, Okapi, Deer, Caribou, Reindeer, Elk, Pudu, Moose, Bison, Buffalo, Cattle, Impala, Sheep, Ibex, Goat, Wildebeest, Oryx, Boar, Yak, Alpaca, Water Buffalo]
             ],
             [Odd-Toed Hooved,
                 [Zebra, Rhinoceros, Horse, Tapir, Donkey]
@@ -96,7 +96,7 @@
             [Shrimp, Lobster, +Crab, Hermit Crab, Crayfish, Horseshoe Crab*]
         ],
         [Bugs (insects+Arachnids+Centipedes),
-            [Ant, Bee, Wasp, Moth, +Butterfly, Ladybug, +Beetle, Weevil, Hornet, +Fly, Mantis, Dragonfly, Cricket, Grasshopper, Locust, Cicada, Pillbug, Centipede, Millipede, Spider, Scorpion]
+            [Ant, Bee, Wasp, Moth, +Butterfly, Ladybug, +Beetle, Weevil, Hornet, +Fly, Mantis, Dragonfly, Cricket, Grasshopper, Locust, Cicada, Pillbug, Centipede, Millipede, Spider, Scorpion, Silkworm]
         ],
 
         [Mollusks,
@@ -111,9 +111,6 @@
         [Cnidaria:Jellyfish+anemome, echidnoderms:Starfish, Starfish, Jellyfish, Sea Urchin]
     ],
     [Livestock,
-        [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
+        [Chicken, Turkey, *Mule]
     ]
-
-
-
 ]
