@@ -1,124 +1,118 @@
 
 [List,
     [Animals,
-        [Birds,
-            [Raptors,
-                [Hawk, Eagle, Kestrel, Owl, Vulture, Eagle, Osprey, Buzzard, Harrier, Kite, Condor, Goshawk]
-            ],
-            [Ground,
-                [Emu, Ostrich, Rhea, Cassowary]
-            ],
-            [(Non-Passerines),
-                [Kiwi]
-            ],
-            [Gamebirds,
-                [Guineafowl, Quail, Grouse, Partridge, *Tragopan, Pheasant, Peafowl, Turkey]
-            ],
-            [Waterfowl,
-                [Goose, Swan, Duck]
-            ],
-            [Parrots,
-                [Parakeet]
-            ],
-            [+Passerines, *Plover, Snipe, Gull, *Tinamou, *Lapwing, Sandpiper, Tern, *Sandgrouse, Pigeon, Dove, Stork, Spoonbill, Heron, Egret, Flamingo, Cormorant, Pelican, Booby, Bustard, Crane, *Turaco, Cuckoo, Roadrunner, Frogmouth, *Nightjar, Hummingbird, Swift, Quetzal, Woodpecker, Toucan, Secretarybird, +Penguin, Loon, Albatross, Petrel, Grebe, Crane]
-        ],
-        [Insects,
-            [Ant, Bee, Wasp, Moth, +Butterfly, Ladybug, +Beetle, Weevil, Hornet, +Fly, Mantis, Dragonfly, Cricket, Grasshopper, Locust, Cicada, Pillbug, Centipede, Millipede, Spider, Scorpion]
-        ],
-        [Large Herbivores,
-            [Elephant, Gazelle, Deer, Antelope, Musk Ox, Giraffe, Zebra, Buffalo, Bison, Hippo, Caribou, Elk, Moose, Camel+, Kangaroo, Boar, Gorilla, Okapi, Yak, Manatee]
-        ],
-        [Aquatic Animals,
-            [Fish,
-                [Tropical (Pretty + not food),
-                    [Tetra, Guppy, Clownfish, Tang, Platy]
-                ],
-                [Catfish, Lungfish, Lionfish, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
-            ],
-            [Mollusk,
-                [Clam, Mussel, Oyster, Snail, *Octopus, *Squid, *Cuttlefish, Cockle, Winkle, Whelk, Cowrie]
-            ],
-            [Crustacean,
-                [Shrimp, Lobster, +Crab, Hermit Crab, Crayfish, Horseshoe Crab]
-            ],
-            [Amphibian,
+        [Vertebrate
+            [Amphibians,
                 [Frog, Salamander, Toad]
             ],
-            [Sharks,
-                [Tiger Shark, Whale Shark, Nurse Shark, Great White Shark, Mako Shark, Blacktip Shark]
+            [Reptiles,
+                [Turtles,
+                    []
+                ],
+                [Lizards,
+                    [Iguana, Chameleon, Tuatara, Gecko, Skink, Monitor]
+                ],
+                [Snakes,
+                    [Adder, Anaconda, Asp, Python, Boa, Cobra, Viper, Krait, Mamba, Rattlesnake, Sidewinder, Taipan]
+                ],
+                [Crocodilians,
+                    [Alligator, Crocodile, Gharial]
+                ],
+                []
             ],
-            [Rays,
-                [Stingray, Manta Ray]
+            [Birds,
+                [Raptors,
+                    [Hawk, Eagle, Kestrel, Owl, Vulture, Eagle, Osprey, Buzzard, Harrier, Kite, Condor, Goshawk]
+                ],
+                [Ground,
+                    [Emu, Ostrich, Rhea, Cassowary]
+                ],
+                [(Non-Passerines),
+                    [Kiwi]
+                ],
+                [Gamebirds,
+                    [Guineafowl, Quail, Grouse, Partridge, *Tragopan, Pheasant, Peafowl, Turkey]
+                ],
+                [Waterfowl,
+                    [Goose, Swan, Duck]
+                ],
+                [Parrots,
+                    [Parakeet]
+                ],
+                [+Passerines, *Plover, Snipe, Gull, *Tinamou, *Lapwing, Sandpiper, Tern, *Sandgrouse, Pigeon, Dove, Stork, Spoonbill, Heron, Egret, Flamingo, Cormorant, Pelican, Booby, Bustard, Crane, *Turaco, Cuckoo, Roadrunner, Frogmouth, *Nightjar, Hummingbird, Swift, Quetzal, Woodpecker, Toucan, Secretarybird, +Penguin, Loon, Albatross, Petrel, Grebe, Crane]
             ],
-            [Nautilus, Seahorse, Starfish, Jellyfish, Sea Urchin]
+            [Mammals,
+                [Carnivores,
+                    [Bears,
+                        [Polar Bear, Panda, Black Bear, Grizzly Bear, Brown Bear, Spectacled Bear]
+                    ],
+                    [Cats,
+                        [Lion, Leopard, Jaguar, Cougar/Mountain Lion/Puma, Tiger, Bobcat/Lynx, Cheetah, Civet, Hyena, Housecat]
+                    ],
+                    [Canines,
+                        [Wolf, Fox, Coyote, Dog, Jackal, Dingo]
+                    ],
+                    [Ferret, Weasel, Mink, Badger, Wolverine, Seal, Sea Lion]
+                ],
+                [Primates,
+                    [Chimpanzee, Gorilla, Orangutan, Lemur, Loris, Tarsier, Gibbon]
+                ],
+                [Rodents,
+                    [Rat, Mouse, Beaver, Squirrel, Chipmunk, Gopher, Jerboa, Porcupine, Guinea Pig, Chinchilla, Cavy, Capybara, Gerbil, Hamster, Marmot, Prarie Dog]
+                ],
+                [Bats,
+                    []
+                ],
+                [Eulipotyphla*,
+                    []
+                ],
+                [Even-Toed Hooved,
+                    [Gazelle, Antelope, Muskox, Camel, Llama, Pig, Peccary, Hippo, Pronghorn, Okapi, Deer, Caribou, Reindeer, Elk, Pudu, Moose, Bison, Buffalo, Cattle, Impala, Sheep, Ibex, Goat, Wildebeest, Oryx, Boar, Yak, Alpaca, Water Buffalo]
+                ],
+                [Odd-Toed Hooved,
+                    [Zebra, Rhinoceros, Horse, Tapir, Donkey]
+                ],
+                [Marsupials,
+                    [Kangaroo, Koala]
+                ],
+                [Cetacean,
+                    [Rorqual, Dolphin, Porpoise, Whale]
+                ],
+                [Elephant, Manatee, Rabbit, Hare, Mole, Pangolin]
+
+            ],
+            [Fish,
+                [Sharks,
+                    [Tiger Shark, Whale Shark, Nurse Shark, Great White Shark, Mako Shark, Blacktip Shark]
+                ],
+                [Rays,
+                    [Stingray, Manta Ray]
+                ],
+                [Catfish, Seahorse, Lungfish, Lionfish, Tetra, Guppy, Clownfish, Tang, Platy, Stonefish, Tuna, Albacore, Salmon, Pike, Bass, Anchovy, Sole, Cod, Anglerfish, Swordfish, Gar, Arapaima, Mackerel, +Eel, Flounder, *Minnow, Mullet, Hagfish, Perch, Lamprey, Mahi-mahi, Marlin, Sunfish, Snapper, Piranha, Sawfish, Sailfish, Polluck, Herring, +Cichlid, Trout, Wrasse, Parrotfish, Sturgeon, Barracuda, Carp, Blowfish, Crappie, Coelacanth, Halibut, Flying Fish, Rockfish, Loach, Tilapia, Grouper, Dartfish]
+            ]
+
         ],
-        [Fantasy Animals/Creatures/Races,
-            [Humanoid - Tiny,
-                [Fairy + Tooth Fairy, Pixie]
+        [Invertebrate
+            [Crustaceans,
+                [Shrimp, Lobster, +Crab, Hermit Crab, Crayfish, Horseshoe Crab*]
             ],
-            [Humanoid - Small,
-                [Halfling, Gnome, Leprechaun]
+            [Bugs (insects+Arachnids+Centipedes),
+                [Ant, Bee, Wasp, Moth, +Butterfly, Ladybug, +Beetle, Weevil, Hornet, +Fly, Mantis, Dragonfly, Cricket, Grasshopper, Locust, Cicada, Pillbug, Centipede, Millipede, Spider, Scorpion, Silkworm]
             ],
-            [Humanoid - Medium,
-                [Human, Elf, Dwarf, Orc, Drow]
-            ],
-            [Humanoid - Large,
-                [Ogre, Giant, Cyclops]
-            ],
-            [Undead,
-                [Zombie, Skeleton + Grim Reaper, Mummy, Ghost, Lich, Draugr, Wight, Wraith, Shade]
-            ],
-            [Draconic,
-                [Dragon, Wyrm, Wyvern, *Basilisk, Hydra, Hydra, Amphiptere]
-            ],
-            [Half-Humanoids,
-                [Minotaur, Gorgon, Satyr, Sphinx, Centaur, Merfolk, *Werewolf, Naga, Harpy]
-            ],
-            [*Corrupted,
-                [Troll, Goblin, Hobgoblin, Gremlin, Chupacabra]
-            ],
-            [Demonic,
-                [Hellhound, Demon, Devil, Imp, Satan, Oni, Ifrit]
-            ],
-            [Equine,
-                [Pegasus, Hippocampus, Unicorn]
-            ],
-            [Mystic,
-                [Genie, Elemental, Will O'Wisp]
-            ],
-            [Angelic,
-                [Angels,
-                    [Seraph]
+
+            [Mollusks,
+                [Clam, Mussel, Oyster, Snail, Cockle, Winkle, Whelk, Cowrie],
+                [Cephalopods,
+                    [Octopus, Squid, Cuttlefish, Nautilus]
                 ]
             ],
-            [Hybrids,
-                [Chimera, Cerberus, Hippogriff, Griffon, Jackalope, Gargoyle, Cockatrice, Manticore]
+            [,
+                []
             ],
-            [Enchantments/Constructs/Compelled,
-                [Golem, Mimic, *Automaton, *Ent, *Slime, Scarecrow]
-            ],
-            [Uniques,
-                [Headless Horseman, Jack Frost, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
-            ]
-            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Jack O'Lantern, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus*, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Banshee, Succubus, Valkyrie, Leviathan, Charybdis/Scylla, Spriggan, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Gorgon, Incubus, Siren, Kitsune, Kumiho, Phantom, Alebrije, Quetzalcoatl, Kirin]
+            [Cnidaria:Jellyfish+anemome, echidnoderms:Starfish, Starfish, Jellyfish, Sea Urchin]
         ],
         [Livestock,
-            [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
-        ],
-        [Primates,
-            [Chimpanzee, Gorilla, Orangutan]
-        ],
-        [Reptiles,
-            []
-        ],
-        [Predators(Large Land Mammals),
-            [Bears,
-                [Polar Bear, Panda, Black Bear, Grizzly Bear, Brown Bear, Spectacled Bear]
-            ],
-            [Cats,
-                [Lion, Leopard, Jaguar, Cougar/Mountain Lion/Puma, Tiger, Bobcat/Lynx, Cheetah, Civet, Hyena]
-            ],
-            [Fox, Wolf, Coyote, Ferret, Weasel, Mink, Badger, Jackal, Wolverine, Dingo]
+            [Chicken, Turkey, *Mule]
         ]
     ],
 
@@ -663,6 +657,56 @@
 
 
     [Folklore/Myths,
+        [Fantasy Animals/Creatures/Races,
+            [Humanoid - Tiny,
+                [Fairy + Tooth Fairy, Pixie]
+            ],
+            [Humanoid - Small,
+                [Halfling, Gnome, Leprechaun]
+            ],
+            [Humanoid - Medium,
+                [Human, Elf, Dwarf, Orc, Drow]
+            ],
+            [Humanoid - Large,
+                [Ogre, Giant, Cyclops]
+            ],
+            [Undead,
+                [Zombie, Skeleton + Grim Reaper, Mummy, Ghost, Lich, Draugr, Wight, Wraith, Shade]
+            ],
+            [Draconic,
+                [Dragon, Wyrm, Wyvern, *Basilisk, Hydra, Hydra, Amphiptere]
+            ],
+            [Half-Humanoids,
+                [Minotaur, Gorgon, Satyr, Sphinx, Centaur, Merfolk, *Werewolf, Naga, Harpy]
+            ],
+            [*Corrupted,
+                [Troll, Goblin, Hobgoblin, Gremlin, Chupacabra]
+            ],
+            [Demonic,
+                [Hellhound, Demon, Devil, Imp, Satan, Oni, Ifrit]
+            ],
+            [Equine,
+                [Pegasus, Hippocampus, Unicorn]
+            ],
+            [Mystic,
+                [Genie, Elemental, Will O'Wisp]
+            ],
+            [Angelic,
+                [Angels,
+                    [Seraph]
+                ]
+            ],
+            [Hybrids,
+                [Chimera, Cerberus, Hippogriff, Griffon, Jackalope, Gargoyle, Cockatrice, Manticore]
+            ],
+            [Enchantments/Constructs/Compelled,
+                [Golem, Mimic, *Automaton, *Ent, *Slime, Scarecrow]
+            ],
+            [Uniques,
+                [Headless Horseman, Jack Frost, *Medusa, Krampus, Santa Claus, The Stork, Easter Bunny, The Stork, *Boogeyman, Sandman, Mother Earth, Father Time, +Santa's Reindeer, Frosty the Snowman, Frankenstein's Monster, Loch Ness Monster]
+            ]
+            [Beholder, Cthulu, Spriggan, Laelaps, Teumessian Fox, Jack O'Lantern, Sprite, Rumpelstiltskin, Golden Goose, Humpty Dumpty, Homunculus*, Vampire + Dracula, Kobold, Ghoul, Tengu, Nymph, Dryad, Naiad, *Cupid/, Troglodyte, Phoenix, Siren, Kraken, *Bigfoot, *Yeti, *Sasquatch, Banshee, Succubus, Valkyrie, Leviathan, Charybdis/Scylla, Spriggan, *Giant Spider, Ettin, Warg, Wendigo, Poltergeist, Island Turtle, Fiend, Spirit, Balrog, Fury, Gorgon, Incubus, Siren, Kitsune, Kumiho, Phantom, Alebrije, Quetzalcoatl, Kirin]
+        ],
         [Artifacts,
             [Kusanagi, Ark of the Covenant, Magic Beans, Excalibur, Sword in the Stone, *Flying Carpet, Turin Shroud, Lance of Longinus, Fountain of Youth, Mjolnir, Holy Grail, Naegling, Legbiter, Gungnir, Devil's Pitchfork, Caduceus, Vajra, Aryo, Naglfar, Flying Dutchman, Pandora's Box, Gjallarhorn, Golden Fleece, Skeleton Key, Gae Bolg, Aegis]
         ],
