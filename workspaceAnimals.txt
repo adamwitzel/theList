@@ -1,26 +1,3 @@
-[Birds,
-    [Raptors,
-        [Hawk, Eagle, Kestrel, Owl, Vulture, Eagle, Osprey, Buzzard, Harrier, Kite, Condor, Goshawk]
-    ],
-    [Ground,
-        [Emu, Ostrich, Rhea, Cassowary]
-    ],
-    [(Non-Passerines),
-        [Kiwi]
-    ],
-    [Gamebirds,
-        [Guineafowl, Quail, Grouse, Partridge, *Tragopan, Pheasant, Peafowl, Turkey]
-    ],
-    [Waterfowl,
-        [Goose, Swan, Duck]
-    ],
-    [Parrots,
-        [Parakeet]
-    ],
-    [+Passerines, *Plover, Snipe, Gull, *Tinamou, *Lapwing, Sandpiper, Tern, *Sandgrouse, Pigeon, Dove, Stork, Spoonbill, Heron, Egret, Flamingo, Cormorant, Pelican, Booby, Bustard, Crane, *Turaco, Cuckoo, Roadrunner, Frogmouth, *Nightjar, Hummingbird, Swift, Quetzal, Woodpecker, Toucan, Secretarybird, +Penguin, Loon, Albatross, Petrel, Grebe, Crane]
-],
-
-
 
 [Animals,
     [Vertebrate
@@ -42,7 +19,25 @@
             ]
         ],
         [Birds,
-            []
+            [Raptors,
+                [Hawk, Eagle, Kestrel, Owl, Vulture, Eagle, Osprey, Buzzard, Harrier, Kite, Condor, Goshawk]
+            ],
+            [Ground,
+                [Emu, Ostrich, Rhea, Cassowary]
+            ],
+            [(Non-Passerines),
+                [Kiwi]
+            ],
+            [Gamebirds,
+                [Guineafowl, Quail, Grouse, Partridge, *Tragopan, Pheasant, Peafowl, Turkey]
+            ],
+            [Waterfowl,
+                [Goose, Swan, Duck]
+            ],
+            [Parrots,
+                [Parakeet]
+            ],
+            [+Passerines, *Plover, Snipe, Gull, *Tinamou, *Lapwing, Sandpiper, Tern, *Sandgrouse, Pigeon, Dove, Stork, Spoonbill, Heron, Egret, Flamingo, Cormorant, Pelican, Booby, Bustard, Crane, *Turaco, Cuckoo, Roadrunner, Frogmouth, *Nightjar, Hummingbird, Swift, Quetzal, Woodpecker, Toucan, Secretarybird, +Penguin, Loon, Albatross, Petrel, Grebe, Crane]
         ],
         [Mammals,
             [Carnivores,
@@ -61,7 +56,7 @@
                 [Chimpanzee, Gorilla, Orangutan, Lemur, Loris, Tarsier, Gibbon]
             ],
             [Rodents,
-                []
+                [Rat, Mouse, Beaver, Squirrel, Chipmunk, Gopher, Jerboa, Porcupine, Guinea Pig, Chinchilla, Cavy, Capybara, Gerbil, Hamster, Marmot, Prarie Dog]
             ],
             [Bats,
                 []
@@ -81,7 +76,7 @@
             [Cetacean,
                 [Rorqual, Dolphin, Porpoise, Whale]
             ],
-            [Elephant, Manatee]
+            [Elephant, Manatee, Rabbit, Hare, Mole, Pangolin]
 
         ],
         [Fish,
