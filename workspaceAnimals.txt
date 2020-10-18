@@ -19,12 +19,7 @@
     ],
     [+Passerines, *Plover, Snipe, Gull, *Tinamou, *Lapwing, Sandpiper, Tern, *Sandgrouse, Pigeon, Dove, Stork, Spoonbill, Heron, Egret, Flamingo, Cormorant, Pelican, Booby, Bustard, Crane, *Turaco, Cuckoo, Roadrunner, Frogmouth, *Nightjar, Hummingbird, Swift, Quetzal, Woodpecker, Toucan, Secretarybird, +Penguin, Loon, Albatross, Petrel, Grebe, Crane]
 ],
-[Large Herbivores,
-    [Elephant, Gazelle, Deer, Antelope, Musk Ox, Giraffe, Zebra, Buffalo, Bison, Hippo, Caribou, Elk, Moose, Camel+, Kangaroo, Boar, Gorilla, Okapi, Yak, Manatee]
-],
-[Livestock,
-    [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
-],
+
 
 
 [Animals,
@@ -65,6 +60,28 @@
             [Primates,
                 [Chimpanzee, Gorilla, Orangutan, Lemur, Loris, Tarsier, Gibbon]
             ],
+            [Rodents,
+                []
+            ],
+            [Bats,
+                []
+            ],
+            [Eulipotyphla*,
+                []
+            ],
+            [Even-Toed Hooved,
+                [Gazelle, Antelope, Muskox, Camel, Llama, Pig, Peccary, Hippo, Pronghorn, Okapi, Deer, Caribou, Reindeer, Elk, Pudu, Moose, Bison, Buffalo, Cattle, Impala, Sheep, Ibex, Goat, Wildebeest, Oryx, Boar, Yak]
+            ],
+            [Odd-Toed Hooved,
+                [Zebra, Rhinoceros, Horse, Tapir, Donkey]
+            ],
+            [Marsupials,
+                [Kangaroo, Koala]
+            ],
+            [Cetacean,
+                [Rorqual, Dolphin, Porpoise, Whale]
+            ],
+            [Elephant, Manatee]
 
         ],
         [Fish,
@@ -97,6 +114,9 @@
         ],
         [Cnidaria:Jellyfish+anemome, echidnoderms:Starfish, Starfish, Jellyfish, Sea Urchin]
     ],
+    [Livestock,
+        [Cow, Chicken, Goat, Pig, Turkey, Alpaca, Bison, +Camel, Cat, *Deer, Dog, Donkey, *Mule, Guinea Pig, Horse, Llama, Rabbit, Reindeer, Sheep, Water Buffalo, Yak, Muskox, Honeybee, Silkworm]
+    ]
 
 
 
