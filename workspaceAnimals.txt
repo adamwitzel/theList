@@ -9,14 +9,15 @@
                 []
             ],
             [Lizards,
-                []
+                [Iguana, Chameleon, Tuatara, Gecko, Skink, Monitor]
             ],
             [Snakes,
-                []
+                [Adder, Anaconda, Asp, Python, Boa, Cobra, Viper, Krait, Mamba, Rattlesnake, Sidewinder, Taipan, ]
             ],
             [Crocodilians,
                 [Alligator, Crocodile, Gharial]
-            ]
+            ],
+            []
         ],
         [Birds,
             [Raptors,
