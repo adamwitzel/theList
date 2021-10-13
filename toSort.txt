@@ -475,3 +475,17 @@ Animal Sounds
 Strikes
     [Kick, Punch, Slap, Bite, Pinch, Headbutt, Swipe, Scratch, Grab, Lick, Hug]
 Body Slam, Tackle, Snarl, Nibble, Chomp
+
+Polyglot
+Reverie
+Penchant
+Proclivity
+Caveat
+Allegory
+Cenotaph
+Detritus
+Immolate
+Extol
+Epiphany
+Luminary
+Hiatus
