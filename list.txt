@@ -374,9 +374,6 @@
 
 
     [Objects,
-        [Ship Classes,
-            [Frigate, Destroyer, Cruiser, Battlecruiser, Battleship, Carrier, Dreadnaught, Tender, Submarine, Freighter, Tug, Interceptor, Electronic Warfare, Barge, Shuttle, Yacht, Corvette, Amphibious Assault, Torpedo Boat, Patrol Boat, Oiler, Merchant, Missile Boat, Mine Layer, Mine Sweeper, Ferry, Monitor, Ocean Liner, Gunboat/ship, Whaler, Skiff, Schooner, Caravel, Junk, Raft, Landing Craft, Galleon, Longboat]
-        ],
         [Weapons/Knives,
             [
                 [Axes,
@@ -434,7 +431,10 @@
             [Car,
                 [Pickup, Sedan, SUV, Stationwagon, Van]
             ],
-            [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat, Hovercraft]
+            [Watercraft,
+                [Frigate, Destroyer, Cruiser, Battlecruiser, Battleship, Carrier, Dreadnaught, Tender, Submarine, Freighter, Tug, Interceptor, Barge, Shuttle, Yacht, Corvette, Oiler, Ferry, Monitor, Ocean Liner?, Whaler, Skiff, Schooner, Caravel, Junk, Raft, Galleon, Longboat, Cutter, Kayak, Canoe, Coracle, Dugout, Ambatch, Trireme, Galley, Clipper, Paddleboat, Schooner, Sloop, Landing Craft]
+            ],
+            [Motorcycle, Bicycle, Tricycle, Unicycle, Wagon, Plane, Helicopter, Airship, Zeppelin, Blimp, Truck, *Airboat, Hovercraft, Chariot, Cart, Train, Stagecoach, Wagon, Buggy, Velocipede, Phaeton]
         ],
         [Simple Machines,
             [Loom, Millstones, Printing Press, Screw Press, Quern, Still, Water Wheel, Sawmill, Churn]

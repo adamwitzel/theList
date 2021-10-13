@@ -184,6 +184,10 @@ Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag, Grime
 +Partial Nouns
     Fragment, Shard, Iota
 
++Emotions
+
++Pastries
+
 Hegemony
 
 Interim
@@ -266,6 +270,29 @@ Ailment
 Hiatus
 Raffle
 Ruse
+Panache
+Caddy
+Coven
+Culprit
+Chaos
+Command
+Death
+Dissonance
+Enigma
+Evolution
+Frail
+Glass
+Honor
+Kin
+Metamorphosis
+Sacrifice
+Soul
+Spite
+Swarm
+Veangeance
+Wiccan
+Livery
+Pheromone
 
 Needle
 Pin
