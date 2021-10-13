@@ -33,6 +33,21 @@
 +Terms Describing Light
     Radiant, Bright, Vibrant, Flicker, Glimmer, Shine, Dim, Glow, Sparkle, Gleam
 
++Terms Describing ?
+    Remark
+    Quip
+    Comment
+    Slogan
+    Oath
+    Cliché
+    Pledge
+    Pact
+    Anthem
+    Advice
+    Sermon
+    Mandate
+    Command
+
 +Swords and Whatnot
     War Hammer*
     Glaive+
@@ -94,6 +109,8 @@
     Hierarch
     Refugee
     Runt
+    Caddy
+    Culprit
 
     Adversary
     Rival
@@ -196,6 +213,7 @@ Quill
 Thorn
 Spike
 Spine
+Barb
 
 Facet
 Gambit
@@ -263,6 +281,7 @@ Blunder
 Error
 Lottery
 Sweepstakes
+Raffle
 Estuary
 Ferry
 Estate
@@ -271,11 +290,8 @@ Hiatus
 Raffle
 Ruse
 Panache
-Caddy
 Coven
-Culprit
 Chaos
-Command
 Death
 Dissonance
 Enigma
@@ -289,7 +305,7 @@ Sacrifice
 Soul
 Spite
 Swarm
-Veangeance
+Vengeance
 Wiccan
 Livery
 Pheromone
@@ -318,19 +334,6 @@ Commodity
 
 Barrage
 Flurry
-
-Remark
-Quip
-Comment
-Slogan
-Oath
-Cliché
-Pledge
-Pact
-Anthem
-Advice
-Sermon
-Mandate
 
 Fable
 
