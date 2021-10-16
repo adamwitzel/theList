@@ -346,7 +346,7 @@
             [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot, Minister, Cantor, Puritan]
         ],
         [Cavalry,
-            [Lancer, Cavalier, Hussar, Cataphract, Uhlan]
+            [Lancer, Cavalier, Hussar, Cataphract, Uhlan, Dragoon]
         ],
         [Stealth,
             [Assassin, Rogue, Ninja]
@@ -355,7 +355,7 @@
             [Illusionist, Wizard, Sorcerer, Artificer, Enchanter, Conjurer, Summoner, Necromancer, Magus, Skald, Arcanist, Magician, Mesmer, Ritualist, Occultist, Elementalist, Mageblade, Esper, Priest, Psychic, Witch, Warlock, Oracle, Alchemist, Mystic, Fortune Teller, Medium, Chronomancer, Psion, ]
         ],
         [Piracy,
-            [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder, Dragoon]
+            [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder]
         ],
         [Familial,
             [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband, Ancestor, Step-, Bride, Groom, Concubine]

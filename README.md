@@ -29,4 +29,6 @@ Contained within:
     - Ongoing: Add more items to the List. The point of the whole thing
     - Make script to add quotations for json format, remove comments, substitute in references
     - Split off less useful or longer sections into separate files with references in their places
+
+## Completed
     - Animal Section Reorganization
