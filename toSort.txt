@@ -308,7 +308,10 @@ Swarm
 Vengeance
 Wiccan
 Livery
+
 Pheromone
+Scent
+Odor
 
 Needle
 Pin
@@ -475,6 +478,18 @@ Animal Sounds
 Strikes
     [Kick, Punch, Slap, Bite, Pinch, Headbutt, Swipe, Scratch, Grab, Lick, Hug]
 Body Slam, Tackle, Snarl, Nibble, Chomp
+
+[Emotions,
+    [Positive,
+        [Relieved, Jubilation, Euphoria. Zeal, Eager, Triumphant, Jovial. Amused, Satisfied, Pleased, Joy, Love]
+    ],
+    [Negative,
+        [Agony, Hurt, Depressed, Sorrow, Dismay, Regret, Guilty, Isolated, Lonely, Grief, Perplexed, Astonished, Astounded, Dread, Anxious, Panic, Hysteria, Frightened]
+    ],
+    [Surprise]
+]
+
+
 
 Polyglot
 Reverie
