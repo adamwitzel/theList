@@ -33,21 +33,7 @@
     Pauldron
 
 +Terms Describing speech?
-    Remark
-    Quip
-    Comment
-    Slogan
-    Oath
-    Cliché
-    Pledge
-    Pact
-    Anthem
-    Advice
-    Sermon
-    Mandate
-    Command
-    Caveat
-    Allegory
+    Remark, Quip, Comment, Slogan, Oath, Cliché, Pledge, Pact, Anthem, Advice, Sermon, Mandate, Command, Caveat, Allegory
 
 +Swords and Whatnot
     War Hammer*
@@ -87,7 +73,6 @@
     Captor
     Martyr
     Trickster
-    Sentry
     Scallywag
     Tactician
     Celebrity
@@ -147,9 +132,7 @@
     Vassal
     Pawn
     Protégé
-    Apprentice
 
-    Sensei
     Guru
 
     Charlatan
@@ -167,13 +150,11 @@
     Messenger
 
     Eminence
-    Prophet
 
     Harbinger
     Herald
 
     Mameluke
-    Orphan
     Waif
 
     Rajput
