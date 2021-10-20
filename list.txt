@@ -291,14 +291,14 @@
         [Prefix,
             [Lance-, Senior-, Junior-, Head-, Sub-, Joint-, *Division-, Auxiliary-, *District-, Vice-, Assistant-, *Arch-, *Prime-]
         ],
-        [Academic,
-            [Superintendent, Headmaster, Tutor, Curator, *Explorer, Principal, Scholar, Teacher, Student, Dean, ]
+        [Academic/Education,
+            [Superintendent, Headmaster, Tutor, Curator, *Explorer, Principal, Scholar, Teacher, Student, Dean, Sensei, Apprentice]
         ],
         [Police,
             [Constable, Inspector, Commissioner, Chief, Sheriff, Officer, Detective, Agent, Deputy, Warden, Patrolman]
         ],
         [Military,
-            [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon, Commodore, Commando]
+            [Scout, Warrior, Sniper, Sentinel, Saboteur, Assassin, General, Chieftain, Corporal, Private, Soldier, Ensign, Admiral, Marshal, Sapper, Quartermaster, Lancer, Marksman, Grenadier, Squire, Knight, Mercenary, Spy, Hussar, Dragoon, Commodore, Commando, Sentry]
         ],
         [Police/Military,
             [Commander, Colonel, Major, Lieutenant, Captain, Cadet, Officer, Recruit, Trooper]
@@ -343,7 +343,7 @@
             [Regent, Dictator, Councilor, Emir, Sheikh, Premier, Mayor, Governor, Judge, Executioner, Bailiff, President, Minister, Chancellor, Senator, Representative, Chairman, Castellan, Shogun, Tyrant]
         ],
         [Religious,
-            [Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot, Minister, Cantor, Puritan]
+            [Prophet, Friar, Pope, Caliph, Bishop, Priest, Cardinal, Deacon, Templar, Oracle, Acolyte, Shaman, Monk, Druid, Cleric, Hierophant, Inquisitor, Pastor, Cultist, Heretic, Nun, Missionary, Reverend, Chaplain, Heathen, Vicar, Pontiff, Messiah, Exorcist, Rabbi, Abbot, Minister, Cantor, Puritan]
         ],
         [Cavalry,
             [Lancer, Cavalier, Hussar, Cataphract, Uhlan, Dragoon]
@@ -352,13 +352,13 @@
             [Assassin, Rogue, Ninja]
         ],
         [Magic,
-            [Illusionist, Wizard, Sorcerer, Artificer, Enchanter, Conjurer, Summoner, Necromancer, Magus, Skald, Arcanist, Magician, Mesmer, Ritualist, Occultist, Elementalist, Mageblade, Esper, Priest, Psychic, Witch, Warlock, Oracle, Alchemist, Mystic, Fortune Teller, Medium, Chronomancer, Psion, ]
+            [Illusionist, Wizard, Sorcerer, Artificer, Enchanter, Conjurer, Summoner, Necromancer, Magus, Skald, Arcanist, Magician, Mesmer, Ritualist, Occultist, Elementalist, Mageblade, Esper, Priest, Psychic, Witch, Warlock, Oracle, Alchemist, Mystic, Fortune Teller, Medium, Chronomancer, Psion]
         ],
         [Piracy,
             [Pirate, Swashbuckler, Buccaneer, Privateer, Corsair, Marauder]
         ],
         [Familial,
-            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband, Ancestor, Step-, Bride, Groom, Concubine]
+            [Matriarch, Patriarch, Mom, Dad, Mother, Father, Widow, Widower, Son, Daughter, Niece, Nephew, Sister, Brother, Aunt, Uncle, Grandfather, Grandmother, Great-, Cousin, -In-law, Wife, Husband, Ancestor, Step-, Bride, Groom, Concubine, Orphan, Waif]
         ],
         [Crime,
             [Criminal, Convict, Villain, Culprit, Hitman, Fugitive, Vandal, Brigand, Highwayman, Bandit, Thief, Gangster]
@@ -625,13 +625,19 @@
             []
         ],
         [Ship Parts,
-            [Mast]
+            [Mast, Jib, Keel, Hull, Rudder, Sail, Deck, Bow, Stern, Bridge, Boom, Bilge, Tiller, Bowsprit]
         ],
         [Gendered Animal Names,
             []
         ],
-        [Emotions
-            []
+        [Emotions,
+            [Positive,
+                [Relieved, Jubilation, Euphoria. Zeal, Eager, Triumphant, Jovial. Amused, Satisfied, Pleased, Joy, Love]
+            ],
+            [Negative,
+                [Agony, Hurt, Depressed, Sorrow, Dismay, Regret, Guilty, Isolated, Lonely, Grief, Perplexed, Astonished, Astounded, Dread, Anxious, Panic, Hysteria, Frightened]
+            ],
+            [Surprise]
         ],
         [Crimes
             [Perjury, Murder, Burglary, Arson, Larceny, Theft, Assault, Battery, Treason, Libel, Slander, Bribery, Looting*]
