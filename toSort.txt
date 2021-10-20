@@ -22,7 +22,7 @@
 +Sandwiches
 +Hairstyles
 +Electronic Parts
-    Transformer, Diode, Switch, Fuse, Relay, Motor, Transistor, Capacitor, Resistor,
+    Transformer, Diode, Switch, Fuse, Relay, Motor, Transistor, Capacitor, Resistor, Battery, Antenna
 +Cocktails
 
 +Armor Parts
@@ -32,7 +32,7 @@
     Saboton
     Pauldron
 
-+Terms Describing ?
++Terms Describing speech?
     Remark
     Quip
     Comment
@@ -46,6 +46,8 @@
     Sermon
     Mandate
     Command
+    Caveat
+    Allegory
 
 +Swords and Whatnot
     War Hammer*
@@ -195,12 +197,11 @@
 Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag, Grime
 
 +Mass Nouns
-    Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter
+    Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter, Detritus
 
 +Partial Nouns
-    Fragment, Shard, Iota
+    Fragment, Shard, Iota, Piece,
 
-+Emotions
 
 +Pastries
 
@@ -360,20 +361,9 @@ Precinct
 
 Hegemon
 
-Smoke
-Mist
-Steam
-Fog
+Smoke, Mist, Steam, Fog
 
-Serenity
-Tranquility
-Fealty
-Piety
-Stability
-Utility
-Reciprocity
-Verity
-Affinity
+Serenity, Tranquility, Fealty, Piety, Stability, Utility, Reciprocity, Verity, Affinity
 
 +Santa's Reindeer
     Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, Rudolph
@@ -401,6 +391,7 @@ Milquetoast
 Lamp
 Lantern
 Torch
+Sconce
 
 Quirk
 Talent
@@ -433,35 +424,14 @@ Insignia, Emblem, Crest, Sigil, Glyph, Seal, Signet
 
 Scent, Smell, Fragrance, Aroma
 
-Dock
-Harbor
-Port
-Quay
-Jetty
-Pier
-Wharf
-Marina
-Berth
+Shipping terms
+    Dock, Harbor, Port, Quay, Jetty, Pier, Wharf, Marina, Berth
 
-Plinth
-Monolith
-Monument
-Effigy
-Totem
-Altar
-Shrine
-Pedestal
-Statue
+Memorials
+    Plinth, Monolith, Monument, Effigy, Totem, Altar, Shrine, Pedestal, Statue, Cenotaph
 
-Catacomb
-Sarcophagus
-Tomb
-Crypt
-Catacomb
-Grave
-Coffin
-Casket
-Mausoleum
+Burial Terms
+    Catacomb, Sarcophagus, Tomb, Crypt, Catacomb, Grave, Coffin, Casket, Mausoleum
 
 Flash
 Water, Splash, Cascade, Wave, Bubble. Flood
@@ -488,16 +458,10 @@ Body Slam, Tackle, Snarl, Nibble, Chomp
     [Surprise]
 ]
 
-
-
 Polyglot
 Reverie
 Penchant
 Proclivity
-Caveat
-Allegory
-Cenotaph
-Detritus
 Immolate
 Extol
 Epiphany

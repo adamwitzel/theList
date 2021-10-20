@@ -625,13 +625,19 @@
             []
         ],
         [Ship Parts,
-            [Mast]
+            [Mast, Jib, Keel, Hull, Rudder, Sail, Deck, Bow, Stern, Bridge, Boom, Bilge, Tiller, Bowsprit]
         ],
         [Gendered Animal Names,
             []
         ],
-        [Emotions
-            []
+        [Emotions,
+            [Positive,
+                [Relieved, Jubilation, Euphoria. Zeal, Eager, Triumphant, Jovial. Amused, Satisfied, Pleased, Joy, Love]
+            ],
+            [Negative,
+                [Agony, Hurt, Depressed, Sorrow, Dismay, Regret, Guilty, Isolated, Lonely, Grief, Perplexed, Astonished, Astounded, Dread, Anxious, Panic, Hysteria, Frightened]
+            ],
+            [Surprise]
         ],
         [Crimes
             [Perjury, Murder, Burglary, Arson, Larceny, Theft, Assault, Battery, Treason, Libel, Slander, Bribery, Looting*]
