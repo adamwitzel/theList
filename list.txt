@@ -552,6 +552,9 @@
         [Injuries,
             [Scar, Bruise, Laceration, Abrasion, Scrape, Fracture, Contusion, Concussion]
         ],
+        [Terms Describing Light,
+            [Radiant, Bright, Vibrant, Flicker, Glimmer, Shine, Dim, Glow, Sparkle, Gleam]
+        ],
         [Curio, Threadbare]
     ],
 

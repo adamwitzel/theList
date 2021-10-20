@@ -22,6 +22,8 @@
 +Sandwiches
 +Hairstyles
 +Electronic Parts
+    Transformer, Diode, Switch, Fuse, Relay, Motor, Transistor, Capacitor, Resistor,
++Cocktails
 
 +Armor Parts
     Cuirass
@@ -29,9 +31,6 @@
     Greaves
     Saboton
     Pauldron
-
-+Terms Describing Light
-    Radiant, Bright, Vibrant, Flicker, Glimmer, Shine, Dim, Glow, Sparkle, Gleam
 
 +Terms Describing ?
     Remark
@@ -504,3 +503,4 @@ Extol
 Epiphany
 Luminary
 Hiatus
+Cultivar
