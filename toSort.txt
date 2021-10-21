@@ -33,7 +33,7 @@
     Pauldron
 
 +Terms Describing speech?
-    Remark, Quip, Comment, Slogan, Oath, Cliché, Pledge, Pact, Anthem, Advice, Sermon, Mandate, Command, Caveat, Allegory
+    Ruse, Remark, Quip, Comment, Slogan, Oath, Cliché, Pledge, Pact, Anthem, Advice, Sermon, Mandate, Command, Caveat, Allegory
 
 +Swords and Whatnot
     War Hammer*
@@ -177,13 +177,6 @@
 
 Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag, Grime
 
-+Mass Nouns
-    Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter, Detritus
-
-+Partial Nouns
-    Fragment, Shard, Iota, Piece,
-
-
 +Pastries
 
 Hegemony
@@ -260,16 +253,12 @@ Mafia
 Glitch
 Blunder
 Error
-Lottery
-Sweepstakes
-Raffle
-Estuary
+Lottery, Sweepstakes, Raffle
 Ferry
 Estate
 Ailment
 Hiatus
 Raffle
-Ruse
 Panache
 Coven
 Chaos
