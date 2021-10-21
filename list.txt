@@ -249,7 +249,7 @@
                 [Negative,
                     [Crater, Valley, Cave, Canyon, Ravine, Gully, Caldera, Lava Tube]
                 ]
-                [Plain*, Shoal, Meadow*, Atoll, Flat, *Terrace, Bluff]
+                [Plain*, Shoal, Meadow*, Atoll, Flat, *Terrace, Bluff, Estuary]
             ],
             [Water
                 [Fjord, Ocean, Sea, Lake, Bay, Lagoon, River, Stream, Creek, Pond, Channel, Reef, Strait, Bayou, Rapid, Waterfall, Cove, Gulf, Brook, *Reservoir, *Canal, Oxbow Lake]
@@ -492,6 +492,12 @@
                 [Broach, Pendant, Amulet, Medallion, Anklet, Bracelet, Ring, Necklace, Earring, Watch]
             ],
             [Digitus, Croiser, Monstrance, Reliquary, Censer, Paten, Pyx, Ciboria, Grail, Scepter, Tapestry, Monocle]
+        ],
+        [Mass Nouns,
+            [Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter, Detritus]
+        ],
+        [Partial Nouns,
+            [Fragment, Shard, Iota, Piece]
         ],
         [Medicine,
             [Tonic, Tincture, Potion, Antidote, Vaccine, Salve, Elixir, Poison, Toxin, Venom, Serum, Balm, Ointment, Poultice]

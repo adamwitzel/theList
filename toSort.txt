@@ -177,13 +177,6 @@
 
 Slime, Ooze, Gunk, Goo, Silt, Sludge, Slush, Muck, Mush, Slag, Grime
 
-+Mass Nouns
-    Plunder, Salvage, Jetsam, Flotsam, Pillage, Loot, Debris, Luggage, Baggage, Treasure, Clutter, Detritus
-
-+Partial Nouns
-    Fragment, Shard, Iota, Piece,
-
-
 +Pastries
 
 Hegemony
@@ -261,7 +254,6 @@ Glitch
 Blunder
 Error
 Lottery, Sweepstakes, Raffle
-Estuary
 Ferry
 Estate
 Ailment
