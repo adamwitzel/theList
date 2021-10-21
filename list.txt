@@ -607,7 +607,7 @@
             [Finger, Thumb, Hand Wrist, Fingernail, Knuckle, Forearm, Elbow, Arm, Shoulder, Chest, Waist, Bust, Hip, Belly, Bellybutton, Neck, Eye, Mouth, Lip, Cheek, Nostril, Nose, Eyebrow, Forehead, Chin, Thigh, Knee, Leg, Shin, Calf, Ankle, Heel, Foot, Toe, Butt, Tailbone, Hair, Hairline*, Ear, Sideburn, Breast, Tongue, Eyelid, Crotch, Abdomen, Rib, Back, Spine, Anus, Throat, Head, Torso, Beard, Armpit, Palm, Sole, Shoulderblade, Earlobe, Stomach]
         ],
         [Cuts of Meat,
-            []
+            [Chuck, Rib, Loin, Round, Flank, Brisket, Shank, Short Plate]
         ],
         [Types of Government/Economic System,
             [Democracy, Dictatorship, Communism, Socialism, Totalitarianism]
@@ -616,7 +616,7 @@
             [Stammer, Stutter, Fever, Cough, Pain, Constipation, Diarrhea, Dizziness, Headache, Ache, Swelling, Congestion, Nausea, Vomiting, Numbness, Sore Throat, Wheezing, Rash, Itch, Amnesia]
         ],
         [Musical Terms,
-            [Note, Bar, Concert, Recital*, Rehearsal*, Tempo]
+            [Note, Bar, Concert, Recital*, Rehearsal*, Tempo, Stacatto, Arpeggio]
         ],
         [Weather Phenomena,
             [Rain, Hail, Blizzard, Cloud+, Dust Devil, Tornado, Fog, Frost, Haboob, Hurricane, Lightning, Thunder, Snow, Rainbow, Cyclone, Typhoon, Monsoon, Corona, Dew, Drizzle, Drought, Flood, Gale, Wind, Gust, Breeze, Sleet, Rime, Sandstorm, Tsunami, Vortex, Waterspout, Whirlwind, Wildfire*]
@@ -748,7 +748,7 @@
             [Lust, Sloth, Wrath, Envy, Pride, Gluttony, Greed]
         ],
         [Locations,
-            [Olympus, Avalon, Heaven, Hell]
+            [Olympus, Avalon, Heaven, Hell, Atlantis, Asguard, El Dorado, Jotunheim, Elysium]
         ],
         [Yggdrasil]
     ],

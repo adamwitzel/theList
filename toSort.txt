@@ -33,7 +33,7 @@
     Pauldron
 
 +Terms Describing speech?
-    Remark, Quip, Comment, Slogan, Oath, Cliché, Pledge, Pact, Anthem, Advice, Sermon, Mandate, Command, Caveat, Allegory
+    Ruse, Remark, Quip, Comment, Slogan, Oath, Cliché, Pledge, Pact, Anthem, Advice, Sermon, Mandate, Command, Caveat, Allegory
 
 +Swords and Whatnot
     War Hammer*
@@ -260,16 +260,13 @@ Mafia
 Glitch
 Blunder
 Error
-Lottery
-Sweepstakes
-Raffle
+Lottery, Sweepstakes, Raffle
 Estuary
 Ferry
 Estate
 Ailment
 Hiatus
 Raffle
-Ruse
 Panache
 Coven
 Chaos
