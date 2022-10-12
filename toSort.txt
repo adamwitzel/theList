@@ -31,6 +31,25 @@
     Greaves
     Saboton
     Pauldron
+    Visor
+    Vambrace
+    Gauntlet
+    Gorget
+    
++Weapon Parts
+    +Sword
+        Pommel
+        Grip
+        Hilt
+        Blade
+        Ricasso
+        Guard
+        Fuller
+    +Axe
+        Head
+        Bit
+        Knob
+    +Katana
 
 +Terms Describing speech?
     Ruse, Remark, Quip, Comment, Slogan, Oath, Cliché, Pledge, Pact, Anthem, Advice, Sermon, Mandate, Command, Caveat, Allegory
